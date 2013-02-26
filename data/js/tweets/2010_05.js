@@ -1,0 +1,4246 @@
+Grailbird.data.tweets_2010_05 = 
+ [ {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "zedshaw",
+      "screen_name" : "zedshaw",
+      "indices" : [ 0, 8 ],
+      "id_str" : "15029296",
+      "id" : 15029296
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15067330228",
+  "geo" : {
+  },
+  "id_str" : "15067814812",
+  "in_reply_to_user_id" : 15029296,
+  "text" : "@zedshaw thanks for making me feel uncultured",
+  "id" : 15067814812,
+  "in_reply_to_status_id" : 15067330228,
+  "created_at" : "Sun May 30 22:23:26 +0000 2010",
+  "in_reply_to_screen_name" : "zedshaw",
+  "in_reply_to_user_id_str" : "15029296",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    }, {
+      "name" : "Ryan Smith",
+      "screen_name" : "ryandotsmith",
+      "indices" : [ 6, 19 ],
+      "id_str" : "15701745",
+      "id" : 15701745
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15058037758",
+  "geo" : {
+  },
+  "id_str" : "15065367138",
+  "in_reply_to_user_id" : 15591045,
+  "text" : "@tmm1 @ryandotsmith no. only runs with my system ruby, segfaults on any RVM built ruby I try. On Snow Leopard, rvm_archflags=\"-arch x86_64\"",
+  "id" : 15065367138,
+  "in_reply_to_status_id" : 15058037758,
+  "created_at" : "Sun May 30 21:28:21 +0000 2010",
+  "in_reply_to_screen_name" : "tmm1",
+  "in_reply_to_user_id_str" : "15591045",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Carmelo Briones",
+      "screen_name" : "ryanbriones",
+      "indices" : [ 0, 12 ],
+      "id_str" : "6144652",
+      "id" : 6144652
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "15013655937",
+  "geo" : {
+  },
+  "id_str" : "15014786955",
+  "in_reply_to_user_id" : 6144652,
+  "text" : "@ryanbriones yes, definitely on my list still. school and other issues with maintaining the service have been more important",
+  "id" : 15014786955,
+  "in_reply_to_status_id" : 15013655937,
+  "created_at" : "Sun May 30 02:51:43 +0000 2010",
+  "in_reply_to_screen_name" : "ryanbriones",
+  "in_reply_to_user_id_str" : "6144652",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "15014257948",
+  "text" : "Current status: http://www.youtube.com/watch?v=zAlNrtcPCLw",
+  "id" : 15014257948,
+  "created_at" : "Sun May 30 02:41:41 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joseph Ruscio",
+      "screen_name" : "josephruscio",
+      "indices" : [ 0, 13 ],
+      "id_str" : "18210643",
+      "id" : 18210643
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14987800463",
+  "geo" : {
+  },
+  "id_str" : "14996736894",
+  "in_reply_to_user_id" : 18210643,
+  "text" : "@josephruscio that sounds like a worthy investment, i'd be afraid of ruining it though. there's no undo in hardware :P",
+  "id" : 14996736894,
+  "in_reply_to_status_id" : 14987800463,
+  "created_at" : "Sat May 29 20:27:19 +0000 2010",
+  "in_reply_to_screen_name" : "josephruscio",
+  "in_reply_to_user_id_str" : "18210643",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14996430242",
+  "text" : "Picked up an IKEA TV stand for $30 less than the store price in great condition. Craigslist ftw!",
+  "id" : 14996430242,
+  "created_at" : "Sat May 29 20:20:51 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Marc Weil",
+      "screen_name" : "marcweil",
+      "indices" : [ 0, 9 ],
+      "id_str" : "18230025",
+      "id" : 18230025
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14982860304",
+  "geo" : {
+  },
+  "id_str" : "14982936440",
+  "in_reply_to_user_id" : 18230025,
+  "text" : "@marcweil i've heard good things about Radiant. ha: http://whichrubycmsshouldiuse.com/",
+  "id" : 14982936440,
+  "in_reply_to_status_id" : 14982860304,
+  "created_at" : "Sat May 29 15:58:08 +0000 2010",
+  "in_reply_to_screen_name" : "marcweil",
+  "in_reply_to_user_id_str" : "18230025",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Square, Inc.",
+      "screen_name" : "Square",
+      "indices" : [ 22, 29 ],
+      "id_str" : "93017945",
+      "id" : 93017945
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14982834260",
+  "text" : "Someone needs to make @square popular faster, so garage sales can use it instead of cash only.",
+  "id" : 14982834260,
+  "created_at" : "Sat May 29 15:56:23 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Josh Nichols",
+      "screen_name" : "techpickles",
+      "indices" : [ 83, 95 ],
+      "id_str" : "6556972",
+      "id" : 6556972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14981508685",
+  "text" : "Yes, I had to blow on it and put it sideways to work. Thanks for documenting this, @techpickles. http://is.gd/cutdS",
+  "id" : 14981508685,
+  "created_at" : "Sat May 29 15:33:52 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14981257862",
+  "text" : "I need to break out the NES at gatherings more often. SMB3 was the highlight of the night, despite obvious lack of dexterity at 3am.",
+  "id" : 14981257862,
+  "created_at" : "Sat May 29 15:29:42 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joshua Clayton",
+      "screen_name" : "joshuaclayton",
+      "indices" : [ 0, 14 ],
+      "id_str" : "10293122",
+      "id" : 10293122
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14946893236",
+  "geo" : {
+  },
+  "id_str" : "14947238037",
+  "in_reply_to_user_id" : 10293122,
+  "text" : "@joshuaclayton damn, i'm missing out. only a few more months until the rush concert!",
+  "id" : 14947238037,
+  "in_reply_to_status_id" : 14946893236,
+  "created_at" : "Sat May 29 02:08:54 +0000 2010",
+  "in_reply_to_screen_name" : "joshuaclayton",
+  "in_reply_to_user_id_str" : "10293122",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14942123581",
+  "text" : "Strong Bad with no Flash, all HTML5/JS. http://smokescreen.us/demos/sb45demo.html",
+  "id" : 14942123581,
+  "created_at" : "Sat May 29 00:31:58 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 118, 123 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    }, {
+      "name" : "Ryan Smith",
+      "screen_name" : "ryandotsmith",
+      "indices" : [ 124, 137 ],
+      "id_str" : "15701745",
+      "id" : 15701745
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14907693646",
+  "text" : "So `rvm reset` actually just uses your system ruby, which doesn't crash instead of rvm's ree, 1.8.7, or 1.8.6. :/ /cc @tmm1 @ryandotsmith",
+  "id" : 14907693646,
+  "created_at" : "Fri May 28 13:57:57 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14905079028",
+  "text" : "Maybe reading a train derailment story on the train isn't such a good idea.",
+  "id" : 14905079028,
+  "created_at" : "Fri May 28 13:12:58 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Ryan Smith",
+      "screen_name" : "ryandotsmith",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15701745",
+      "id" : 15701745
+    }, {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 58, 63 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14881709845",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.331764, -71.121163 ]
+  },
+  "id_str" : "14882850308",
+  "in_reply_to_user_id" : 15701745,
+  "text" : "@ryandotsmith `rvm reset` did the trick. huge thanks. /cc @tmm1",
+  "id" : 14882850308,
+  "in_reply_to_status_id" : 14881709845,
+  "created_at" : "Fri May 28 04:10:02 +0000 2010",
+  "in_reply_to_screen_name" : "ryandotsmith",
+  "in_reply_to_user_id_str" : "15701745",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14879400613",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.331764, -71.121163 ]
+  },
+  "id_str" : "14881449816",
+  "in_reply_to_user_id" : 15591045,
+  "text" : "@tmm1 i can't seem to be able to time it right, once i did (added sleep 30) a segfault gave me no backtrace. this is way too much effort :(",
+  "id" : 14881449816,
+  "in_reply_to_status_id" : 14879400613,
+  "created_at" : "Fri May 28 03:46:58 +0000 2010",
+  "in_reply_to_screen_name" : "tmm1",
+  "in_reply_to_user_id_str" : "15591045",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14878825436",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3289655, -71.1325613 ]
+  },
+  "id_str" : "14879160260",
+  "in_reply_to_user_id" : 15591045,
+  "text" : "@tmm1 is there any way to get a stack trace from a segfault? --trace is not helpful",
+  "id" : 14879160260,
+  "in_reply_to_status_id" : 14878825436,
+  "created_at" : "Fri May 28 03:11:43 +0000 2010",
+  "in_reply_to_screen_name" : "tmm1",
+  "in_reply_to_user_id_str" : "15591045",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14878825436",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3289655, -71.1325613 ]
+  },
+  "id_str" : "14879082363",
+  "in_reply_to_user_id" : 15591045,
+  "text" : "@tmm1 even worse, tests wont even start because of segfaults.",
+  "id" : 14879082363,
+  "in_reply_to_status_id" : 14878825436,
+  "created_at" : "Fri May 28 03:10:24 +0000 2010",
+  "in_reply_to_screen_name" : "tmm1",
+  "in_reply_to_user_id_str" : "15591045",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aman Gupta",
+      "screen_name" : "tmm1",
+      "indices" : [ 0, 5 ],
+      "id_str" : "15591045",
+      "id" : 15591045
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14878674533",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3289655, -71.1325613 ]
+  },
+  "id_str" : "14878814219",
+  "in_reply_to_user_id" : 15591045,
+  "text" : "@tmm1 1.8.7 (2009-12-24 patchlevel 248) [i686-darwin10.3.1], MBARI 0x6770, Ruby Enterprise Edition 2010.01 / \"-g -O2  -pipe -fno-common  \"",
+  "id" : 14878814219,
+  "in_reply_to_status_id" : 14878674533,
+  "created_at" : "Fri May 28 03:05:58 +0000 2010",
+  "in_reply_to_screen_name" : "tmm1",
+  "in_reply_to_user_id_str" : "15591045",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3289655, -71.1325613 ]
+  },
+  "id_str" : "14878725083",
+  "text" : "Same command ran, 3 separate times. 2 segfaults, 1 works. WTF. http://gist.github.com/416683 (using ree, rvm)",
+  "id" : 14878725083,
+  "created_at" : "Fri May 28 03:04:32 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gemcutter",
+      "screen_name" : "gemcutter",
+      "indices" : [ 24, 34 ],
+      "id_str" : "42259749",
+      "id" : 42259749
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.331764, -71.121163 ]
+  },
+  "id_str" : "14878509756",
+  "text" : "Fighting segfaults with @gemcutter getting it set up on my new machine. Not fun.",
+  "id" : 14878509756,
+  "created_at" : "Fri May 28 03:01:05 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3369, -71.1516 ]
+  },
+  "id_str" : "14870507899",
+  "text" : "Love the design here...very modern. (@ Chill) http://4sq.com/4XmuB5",
+  "id" : 14870507899,
+  "created_at" : "Fri May 28 00:42:19 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Pickett",
+      "screen_name" : "dpickett",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1364461",
+      "id" : 1364461
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14856897378",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3560758, -71.061708 ]
+  },
+  "id_str" : "14857166024",
+  "in_reply_to_user_id" : 1364461,
+  "text" : "@dpickett I've seen them before in North Station with a K9 unit too, they're just there on fear patrol.",
+  "id" : 14857166024,
+  "in_reply_to_status_id" : 14856897378,
+  "created_at" : "Thu May 27 20:22:50 +0000 2010",
+  "in_reply_to_screen_name" : "dpickett",
+  "in_reply_to_user_id_str" : "1364461",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14810862524",
+  "text" : "Photo: Best dilbert comic in years. http://tumblr.com/x17aixmyc",
+  "id" : 14810862524,
+  "created_at" : "Thu May 27 03:53:52 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Postmodern",
+      "screen_name" : "postmodern_mod3",
+      "indices" : [ 0, 16 ],
+      "id_str" : "46852648",
+      "id" : 46852648
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14808665326",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3289774, -71.1327629 ]
+  },
+  "id_str" : "14808748695",
+  "in_reply_to_user_id" : 46852648,
+  "text" : "@postmodern_mod3 actually it's a jar of jasmine rice.",
+  "id" : 14808748695,
+  "in_reply_to_status_id" : 14808665326,
+  "created_at" : "Thu May 27 03:15:49 +0000 2010",
+  "in_reply_to_screen_name" : "postmodern_mod3",
+  "in_reply_to_user_id_str" : "46852648",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14808132201",
+  "text" : "Loving the bar desk. And the huge writeboard. And the Yuengling. http://tweetphoto.com/24123505",
+  "id" : 14808132201,
+  "created_at" : "Thu May 27 03:05:13 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Rochester, New York",
+      "screen_name" : "theroch",
+      "indices" : [ 26, 34 ],
+      "id_str" : "20684109",
+      "id" : 20684109
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.331764, -71.121163 ]
+  },
+  "id_str" : "14792031902",
+  "text" : "Is there an equivalent of @theroch for boston? I need to direct anger at something for the heatwave.",
+  "id" : 14792031902,
+  "created_at" : "Wed May 26 22:22:16 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14781241112",
+  "text" : "\"i have a tarantula farm\" ...not what i expected to hear today",
+  "id" : 14781241112,
+  "created_at" : "Wed May 26 18:44:04 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14759635984",
+  "text" : "Need to optimize path to T stop from new apartment. Google Maps is deceiving.",
+  "id" : 14759635984,
+  "created_at" : "Wed May 26 12:26:52 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3561006, -71.0617276 ]
+  },
+  "id_str" : "14721508077",
+  "text" : "Open wifi connections within range of new apartment = WIN",
+  "id" : 14721508077,
+  "created_at" : "Tue May 25 22:29:50 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Losh",
+      "screen_name" : "stevelosh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "727813",
+      "id" : 727813
+    }, {
+      "name" : "Gemcutter",
+      "screen_name" : "gemcutter",
+      "indices" : [ 30, 40 ],
+      "id_str" : "42259749",
+      "id" : 42259749
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14716857700",
+  "geo" : {
+  },
+  "id_str" : "14719924540",
+  "in_reply_to_user_id" : 727813,
+  "text" : "@stevelosh lesson #1 of OSS...@gemcutter would be nowhere without that principle",
+  "id" : 14719924540,
+  "in_reply_to_status_id" : 14716857700,
+  "created_at" : "Tue May 25 21:58:29 +0000 2010",
+  "in_reply_to_screen_name" : "stevelosh",
+  "in_reply_to_user_id_str" : "727813",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14660356573",
+  "text" : "Phew. Hi again, Boston!",
+  "id" : 14660356573,
+  "created_at" : "Tue May 25 01:13:46 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "14555595360",
+  "text" : "I still think that Twitter for Android is the best looking app...but Touiteur seems a bit more geared for me.",
+  "id" : 14555595360,
+  "created_at" : "Sun May 23 13:10:22 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0421569, -77.7005797 ]
+  },
+  "id_str" : "14555147148",
+  "text" : "On our way to Erie for a grad party...then back to Buffalo, and Boston tomorrow. Busy weekend!",
+  "id" : 14555147148,
+  "created_at" : "Sun May 23 13:00:25 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.085107725, -77.67246755 ]
+  },
+  "id_str" : "14506202597",
+  "text" : "DEGREE GET http://twitpic.com/1q2kvs",
+  "id" : 14506202597,
+  "created_at" : "Sat May 22 17:26:04 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0851120333, -77.6739537111 ]
+  },
+  "id_str" : "14446901399",
+  "text" : "Ended up going to the Ritter instead...but not to watch hockey :(",
+  "id" : 14446901399,
+  "created_at" : "Fri May 21 19:02:34 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.08520874, -77.67254199 ]
+  },
+  "id_str" : "14446102487",
+  "text" : "Seriously underestimated the amount of people at Convocation. Wtf?",
+  "id" : 14446102487,
+  "created_at" : "Fri May 21 18:46:22 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Aditya Chadha",
+      "screen_name" : "ac",
+      "indices" : [ 0, 3 ],
+      "id_str" : "10955592",
+      "id" : 10955592
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14405193013",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0859929667, -77.6582708833 ]
+  },
+  "id_str" : "14408814157",
+  "in_reply_to_user_id" : 10955592,
+  "text" : "@ac http://rubygems.org/pages/api_docs",
+  "id" : 14408814157,
+  "in_reply_to_status_id" : 14405193013,
+  "created_at" : "Fri May 21 05:16:21 +0000 2010",
+  "in_reply_to_screen_name" : "ac",
+  "in_reply_to_user_id_str" : "10955592",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joshua Clayton",
+      "screen_name" : "joshuaclayton",
+      "indices" : [ 0, 14 ],
+      "id_str" : "10293122",
+      "id" : 10293122
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14398850875",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860919, -77.6582174 ]
+  },
+  "id_str" : "14401921760",
+  "in_reply_to_user_id" : 10293122,
+  "text" : "@joshuaclayton http://rocwiki.org/Garbage_Plates",
+  "id" : 14401921760,
+  "in_reply_to_status_id" : 14398850875,
+  "created_at" : "Fri May 21 02:53:55 +0000 2010",
+  "in_reply_to_screen_name" : "joshuaclayton",
+  "in_reply_to_user_id_str" : "10293122",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.086828, -77.636582 ]
+  },
+  "id_str" : "14398065018",
+  "text" : "Last plates ever! http://twitpic.com/1pja5r",
+  "id" : 14398065018,
+  "created_at" : "Fri May 21 01:45:00 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.08271, -77.640052 ]
+  },
+  "id_str" : "14397607719",
+  "text" : "I'm at Henrietta Hots (3553 West Henrietta Rd, Henrietta). http://4sq.com/7ABVUi",
+  "id" : 14397607719,
+  "created_at" : "Fri May 21 01:36:45 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Will Green",
+      "screen_name" : "hotgazpacho",
+      "indices" : [ 0, 12 ],
+      "id_str" : "10687942",
+      "id" : 10687942
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14370338762",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860761, -77.6580863 ]
+  },
+  "id_str" : "14388448710",
+  "in_reply_to_user_id" : 10687942,
+  "text" : "@hotgazpacho nope, will upgrade soon",
+  "id" : 14388448710,
+  "in_reply_to_status_id" : 14370338762,
+  "created_at" : "Thu May 20 22:15:46 +0000 2010",
+  "in_reply_to_screen_name" : "hotgazpacho",
+  "in_reply_to_user_id_str" : "10687942",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Chad Pytel",
+      "screen_name" : "cpytel",
+      "indices" : [ 0, 7 ],
+      "id_str" : "9488922",
+      "id" : 9488922
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14367206376",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860443, -77.6579885 ]
+  },
+  "id_str" : "14367332541",
+  "in_reply_to_user_id" : 9488922,
+  "text" : "@cpytel woot! sounds like a great use case for http://processingjs.org",
+  "id" : 14367332541,
+  "in_reply_to_status_id" : 14367206376,
+  "created_at" : "Thu May 20 15:13:32 +0000 2010",
+  "in_reply_to_screen_name" : "cpytel",
+  "in_reply_to_user_id_str" : "9488922",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hiolanda gimenez",
+      "screen_name" : "HGimenez",
+      "indices" : [ 0, 9 ],
+      "id_str" : "729936824",
+      "id" : 729936824
+    }, {
+      "name" : "Dan Croak",
+      "screen_name" : "Croaky",
+      "indices" : [ 10, 17 ],
+      "id_str" : "787595",
+      "id" : 787595
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14332649167",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860366, -77.6580559 ]
+  },
+  "id_str" : "14332753833",
+  "in_reply_to_user_id" : 24425454,
+  "text" : "@hgimenez @Croaky I'd still love to have a panic-like status board. we'll have to talk about it next week! :D",
+  "id" : 14332753833,
+  "in_reply_to_status_id" : 14332649167,
+  "created_at" : "Thu May 20 02:14:46 +0000 2010",
+  "in_reply_to_screen_name" : "hgmnz",
+  "in_reply_to_user_id_str" : "24425454",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Dan Croak",
+      "screen_name" : "Croaky",
+      "indices" : [ 0, 7 ],
+      "id_str" : "787595",
+      "id" : 787595
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14332118273",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860366, -77.6580559 ]
+  },
+  "id_str" : "14332645323",
+  "in_reply_to_user_id" : 787595,
+  "text" : "@Croaky i'd rather have hudson sms/twitter dm'ing us broken builds than a stoplight.",
+  "id" : 14332645323,
+  "in_reply_to_status_id" : 14332118273,
+  "created_at" : "Thu May 20 02:12:51 +0000 2010",
+  "in_reply_to_screen_name" : "Croaky",
+  "in_reply_to_user_id_str" : "787595",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mike Perham",
+      "screen_name" : "mperham",
+      "indices" : [ 0, 8 ],
+      "id_str" : "14060922",
+      "id" : 14060922
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14320540593",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860063, -77.6582837 ]
+  },
+  "id_str" : "14320986572",
+  "in_reply_to_user_id" : 14060922,
+  "text" : "@mperham it is worth only 10% of the grade... :/",
+  "id" : 14320986572,
+  "in_reply_to_status_id" : 14320540593,
+  "created_at" : "Wed May 19 22:40:34 +0000 2010",
+  "in_reply_to_screen_name" : "mperham",
+  "in_reply_to_user_id_str" : "14060922",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0859977, -77.6584312 ]
+  },
+  "id_str" : "14320063351",
+  "text" : "The worst: finding out you have a 4-6 page paper due in less than 24 hours on exam week. Can I just pass college yet?",
+  "id" : 14320063351,
+  "created_at" : "Wed May 19 22:21:59 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fred Yates",
+      "screen_name" : "fredyatesiv",
+      "indices" : [ 0, 12 ],
+      "id_str" : "11886642",
+      "id" : 11886642
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14314558372",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.086038, -77.6580446 ]
+  },
+  "id_str" : "14314646436",
+  "in_reply_to_user_id" : 11886642,
+  "text" : "@fredyatesiv oooh, i feel the same way about people that say \"ciao\"",
+  "id" : 14314646436,
+  "in_reply_to_status_id" : 14314558372,
+  "created_at" : "Wed May 19 20:26:56 +0000 2010",
+  "in_reply_to_screen_name" : "fredyatesiv",
+  "in_reply_to_user_id_str" : "11886642",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860366, -77.658051 ]
+  },
+  "id_str" : "14313478877",
+  "text" : "Woke up violently from a dream last night...because I was dreaming of eating live bees. WTF?",
+  "id" : 14313478877,
+  "created_at" : "Wed May 19 20:01:49 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860457, -77.6580096 ]
+  },
+  "id_str" : "14307023667",
+  "text" : "Software patents make me a sad panda: http://37signals.com/svn/posts/2341-microsoft-patent-trolls-salesforce",
+  "id" : 14307023667,
+  "created_at" : "Wed May 19 17:39:02 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "C. Sternal-Johnson",
+      "screen_name" : "ceejayoz",
+      "indices" : [ 0, 9 ],
+      "id_str" : "717973",
+      "id" : 717973
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14239676435",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838914, -77.6756707 ]
+  },
+  "id_str" : "14239701359",
+  "in_reply_to_user_id" : 717973,
+  "text" : "@ceejayoz IMO if you need to do that, your project is probably still using a broken SVN way to shoving a million projects into one repo.",
+  "id" : 14239701359,
+  "in_reply_to_status_id" : 14239676435,
+  "created_at" : "Tue May 18 17:19:45 +0000 2010",
+  "in_reply_to_screen_name" : "ceejayoz",
+  "in_reply_to_user_id_str" : "717973",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "C. Sternal-Johnson",
+      "screen_name" : "ceejayoz",
+      "indices" : [ 0, 9 ],
+      "id_str" : "717973",
+      "id" : 717973
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14239439244",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838914, -77.6756707 ]
+  },
+  "id_str" : "14239580303",
+  "in_reply_to_user_id" : 717973,
+  "text" : "@ceejayoz Not possible. git != svn. closest you can do is a shallow clone, which will only grab the latest revision. (git clone --depth 1)",
+  "id" : 14239580303,
+  "in_reply_to_status_id" : 14239439244,
+  "created_at" : "Tue May 18 17:17:16 +0000 2010",
+  "in_reply_to_screen_name" : "ceejayoz",
+  "in_reply_to_user_id_str" : "717973",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838481, -77.6756616 ]
+  },
+  "id_str" : "14239373778",
+  "text" : "I love seeing rubygems.org as the main source on Rails 3 Gemfiles. We've come a long way, folks.",
+  "id" : 14239373778,
+  "created_at" : "Tue May 18 17:13:23 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joel Moss",
+      "screen_name" : "joelmoss",
+      "indices" : [ 0, 9 ],
+      "id_str" : "867511",
+      "id" : 867511
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "redis",
+      "indices" : [ 54, 60 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14235326141",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838824, -77.6755689 ]
+  },
+  "id_str" : "14238303438",
+  "in_reply_to_user_id" : 867511,
+  "text" : "@joelmoss Redis without a doubt. Feel free to jump on #redis to discuss.",
+  "id" : 14238303438,
+  "in_reply_to_status_id" : 14235326141,
+  "created_at" : "Tue May 18 16:52:26 +0000 2010",
+  "in_reply_to_screen_name" : "joelmoss",
+  "in_reply_to_user_id_str" : "867511",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mike Gunderloy",
+      "screen_name" : "MikeG1",
+      "indices" : [ 0, 7 ],
+      "id_str" : "728173",
+      "id" : 728173
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14232107539",
+  "geo" : {
+  },
+  "id_str" : "14232326086",
+  "in_reply_to_user_id" : 728173,
+  "text" : "@MikeG1 yeah screw Ruby, I'm going to COBOL ON COGS",
+  "id" : 14232326086,
+  "in_reply_to_status_id" : 14232107539,
+  "created_at" : "Tue May 18 14:58:26 +0000 2010",
+  "in_reply_to_screen_name" : "MikeG1",
+  "in_reply_to_user_id_str" : "728173",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steven Haddox",
+      "screen_name" : "stevenhaddox",
+      "indices" : [ 0, 13 ],
+      "id_str" : "7291632",
+      "id" : 7291632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14230421676",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0859924, -77.6581165 ]
+  },
+  "id_str" : "14230521955",
+  "in_reply_to_user_id" : 7291632,
+  "text" : "@stevenhaddox planning on fixing it soon...graduation this week, final exams, and moving to Boston D:",
+  "id" : 14230521955,
+  "in_reply_to_status_id" : 14230421676,
+  "created_at" : "Tue May 18 14:24:29 +0000 2010",
+  "in_reply_to_screen_name" : "stevenhaddox",
+  "in_reply_to_user_id_str" : "7291632",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tim Pope",
+      "screen_name" : "tpope",
+      "indices" : [ 0, 6 ],
+      "id_str" : "8000842",
+      "id" : 8000842
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14228661929",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0861554, -77.6583372 ]
+  },
+  "id_str" : "14228721899",
+  "in_reply_to_user_id" : 8000842,
+  "text" : "@tpope not through the site yet...need to work on that :( open an issue at http://help.rubygems.org",
+  "id" : 14228721899,
+  "in_reply_to_status_id" : 14228661929,
+  "created_at" : "Tue May 18 13:51:01 +0000 2010",
+  "in_reply_to_screen_name" : "tpope",
+  "in_reply_to_user_id_str" : "8000842",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0861554, -77.6583372 ]
+  },
+  "id_str" : "14228641734",
+  "text" : "GitHub Rebase #43, now with more SECURITY http://github.com/blog/652-github-rebase-43",
+  "id" : 14228641734,
+  "created_at" : "Tue May 18 13:49:32 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0861297, -77.6581962 ]
+  },
+  "id_str" : "14206698420",
+  "text" : "How do people deal with receipts? Toss them? Scan them? Send them to a service? Never sure what to do with mine, I just have a huge pile.",
+  "id" : 14206698420,
+  "created_at" : "Tue May 18 04:21:28 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Gary Bernhardt",
+      "screen_name" : "garybernhardt",
+      "indices" : [ 0, 14 ],
+      "id_str" : "809685",
+      "id" : 809685
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14184495283",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0839517, -77.6755471 ]
+  },
+  "id_str" : "14195761899",
+  "in_reply_to_user_id" : 809685,
+  "text" : "@garybernhardt woot, thanks! your hg-&gt;git article was awesome. Now if we could only get all the SVN and worse users over too.",
+  "id" : 14195761899,
+  "in_reply_to_status_id" : 14184495283,
+  "created_at" : "Tue May 18 01:05:37 +0000 2010",
+  "in_reply_to_screen_name" : "garybernhardt",
+  "in_reply_to_user_id_str" : "809685",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matt Behrens",
+      "screen_name" : "AskedRelic",
+      "indices" : [ 0, 11 ],
+      "id_str" : "5539522",
+      "id" : 5539522
+    }, {
+      "name" : "Salvatore Sanfilippo",
+      "screen_name" : "antirez",
+      "indices" : [ 35, 43 ],
+      "id_str" : "5813712",
+      "id" : 5813712
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14185095832",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0839517, -77.6755471 ]
+  },
+  "id_str" : "14195723787",
+  "in_reply_to_user_id" : 5539522,
+  "text" : "@AskedRelic I say \"red-is\" perhaps @antirez could give a more qualified answer?",
+  "id" : 14195723787,
+  "in_reply_to_status_id" : 14185095832,
+  "created_at" : "Tue May 18 01:04:59 +0000 2010",
+  "in_reply_to_screen_name" : "AskedRelic",
+  "in_reply_to_user_id_str" : "5539522",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838891, -77.6755668 ]
+  },
+  "id_str" : "14166343068",
+  "text" : "Current status: http://img.skitch.com/20100517-kujyhc9ufehq7996y7nmjdkwuy.png",
+  "id" : 14166343068,
+  "created_at" : "Mon May 17 15:07:02 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838941, -77.6756622 ]
+  },
+  "id_str" : "14164605649",
+  "text" : "Neat linux tool of the day: iptraf. http://iptraf.seul.org/",
+  "id" : 14164605649,
+  "created_at" : "Mon May 17 14:34:54 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Andy Rossmeissl",
+      "screen_name" : "rossmeissl",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14246310",
+      "id" : 14246310
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14162460915",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838952, -77.6755449 ]
+  },
+  "id_str" : "14163663533",
+  "in_reply_to_user_id" : 14246310,
+  "text" : "@rossmeissl well aware...going to be ditching them soon.",
+  "id" : 14163663533,
+  "in_reply_to_status_id" : 14162460915,
+  "created_at" : "Mon May 17 14:17:28 +0000 2010",
+  "in_reply_to_screen_name" : "rossmeissl",
+  "in_reply_to_user_id_str" : "14246310",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Sara Chipps",
+      "screen_name" : "SaraJChipps",
+      "indices" : [ 0, 12 ],
+      "id_str" : "15524875",
+      "id" : 15524875
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "14139938686",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0859231, -77.6580841 ]
+  },
+  "id_str" : "14140203946",
+  "in_reply_to_user_id" : 15524875,
+  "text" : "@SaraJChipps Good...let the Unix flow through you. *evil laughter*",
+  "id" : 14140203946,
+  "in_reply_to_status_id" : 14139938686,
+  "created_at" : "Mon May 17 04:06:08 +0000 2010",
+  "in_reply_to_screen_name" : "SaraJChipps",
+  "in_reply_to_user_id_str" : "15524875",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0861135, -77.6581901 ]
+  },
+  "id_str" : "14139467905",
+  "text" : "Really impressed by http://thegleebox.com/. Vimperator seems like too much, this is a great alternative.",
+  "id" : 14139467905,
+  "created_at" : "Mon May 17 03:50:48 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860377, -77.6580445 ]
+  },
+  "id_str" : "14120670685",
+  "text" : "So copiers have hard drives that store all copied images? WTF? http://is.gd/cc6WD",
+  "id" : 14120670685,
+  "created_at" : "Sun May 16 21:21:51 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860255, -77.658096 ]
+  },
+  "id_str" : "14119145520",
+  "text" : "This one's for you, Dio. http://www.youtube.com/watch?v=64coD-rx9sk",
+  "id" : 14119145520,
+  "created_at" : "Sun May 16 20:46:31 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860254, -77.6580056 ]
+  },
+  "id_str" : "14055130011",
+  "text" : "Get ready for NAZIS IN SPACE http://www.dailymotion.com/video/xdayz0_iron-sky-teaser-trailer-bande-annon_shortfilms?start=2",
+  "id" : 14055130011,
+  "created_at" : "Sat May 15 19:39:40 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860457, -77.6580759 ]
+  },
+  "id_str" : "14044579317",
+  "text" : "Getting ready for a bachelor party up at Hamlin Beach. Any suggestions for activities? (No, we can't bring strippers)",
+  "id" : 14044579317,
+  "created_at" : "Sat May 15 15:55:33 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Androcles",
+      "screen_name" : "shellscape",
+      "indices" : [ 0, 11 ],
+      "id_str" : "16134710",
+      "id" : 16134710
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13997359434",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860413, -77.6580307 ]
+  },
+  "id_str" : "13997656195",
+  "in_reply_to_user_id" : 16134710,
+  "text" : "@shellscape congrats! movin' on up!",
+  "id" : 13997656195,
+  "in_reply_to_status_id" : 13997359434,
+  "created_at" : "Fri May 14 21:10:36 +0000 2010",
+  "in_reply_to_screen_name" : "shellscape",
+  "in_reply_to_user_id_str" : "16134710",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "nikki graziano",
+      "screen_name" : "nikkigraziano",
+      "indices" : [ 0, 14 ],
+      "id_str" : "12914422",
+      "id" : 12914422
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13928249742",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0838891, -77.675567 ]
+  },
+  "id_str" : "13928366324",
+  "in_reply_to_user_id" : 12914422,
+  "text" : "@nikkigraziano WOOOOOOO DONATE MONEY WOOOOOOOOOOOOOOOOOOOO",
+  "id" : 13928366324,
+  "in_reply_to_status_id" : 13928249742,
+  "created_at" : "Thu May 13 18:38:51 +0000 2010",
+  "in_reply_to_screen_name" : "nikkigraziano",
+  "in_reply_to_user_id_str" : "12914422",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Losh",
+      "screen_name" : "stevelosh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "727813",
+      "id" : 727813
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13924068014",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.086035, -77.6580437 ]
+  },
+  "id_str" : "13924129962",
+  "in_reply_to_user_id" : 727813,
+  "text" : "@stevelosh dm me your email, sure",
+  "id" : 13924129962,
+  "in_reply_to_status_id" : 13924068014,
+  "created_at" : "Thu May 13 17:02:35 +0000 2010",
+  "in_reply_to_screen_name" : "stevelosh",
+  "in_reply_to_user_id_str" : "727813",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860355, -77.6580903 ]
+  },
+  "id_str" : "13915484248",
+  "text" : "Can someone explain to me why these guys need $90k+ to start an open source project? http://is.gd/c7rDt",
+  "id" : 13915484248,
+  "created_at" : "Thu May 13 14:00:32 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Jason Haruska",
+      "screen_name" : "haruska",
+      "indices" : [ 0, 8 ],
+      "id_str" : "9865602",
+      "id" : 9865602
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13883935067",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860417, -77.6579967 ]
+  },
+  "id_str" : "13883970962",
+  "in_reply_to_user_id" : 9865602,
+  "text" : "@haruska congrats! maybe i'll download the android app now",
+  "id" : 13883970962,
+  "in_reply_to_status_id" : 13883935067,
+  "created_at" : "Thu May 13 01:11:13 +0000 2010",
+  "in_reply_to_screen_name" : "haruska",
+  "in_reply_to_user_id_str" : "9865602",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Matthew Podwysocki",
+      "screen_name" : "mattpodwysocki",
+      "indices" : [ 0, 15 ],
+      "id_str" : "12699642",
+      "id" : 12699642
+    }, {
+      "name" : "Derek Mansen",
+      "screen_name" : "dmansen",
+      "indices" : [ 36, 44 ],
+      "id_str" : "22682102",
+      "id" : 22682102
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13865808293",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0842189, -77.6782692 ]
+  },
+  "id_str" : "13865964278",
+  "in_reply_to_user_id" : 12699642,
+  "text" : "@mattpodwysocki only half my fault, @dmansen worked on it too. adding some more information to the help text about that!",
+  "id" : 13865964278,
+  "in_reply_to_status_id" : 13865808293,
+  "created_at" : "Wed May 12 18:48:36 +0000 2010",
+  "in_reply_to_screen_name" : "mattpodwysocki",
+  "in_reply_to_user_id_str" : "12699642",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Scott Hanselman",
+      "screen_name" : "shanselman",
+      "indices" : [ 86, 97 ],
+      "id_str" : "5676102",
+      "id" : 5676102
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0844287, -77.6796272 ]
+  },
+  "id_str" : "13865455939",
+  "text" : "Showed off KIDSMASH in class today, fun little Processing.js experiment that emulates @shanselman's BabySmash: http://is.gd/c6ax3",
+  "id" : 13865455939,
+  "created_at" : "Wed May 12 18:36:18 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13819286430",
+  "text" : "Seems to be a pattern to reinvent test frameworks, doc systems, CI, etc. Let's fix what we have first and solve harder problems instead.",
+  "id" : 13819286430,
+  "created_at" : "Wed May 12 00:31:29 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13817946965",
+  "text" : "I wish we would just fix our broken windows in the Ruby community instead of building newer, smaller, crappier ones.",
+  "id" : 13817946965,
+  "created_at" : "Wed May 12 00:05:30 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "David Calavera",
+      "screen_name" : "calavera",
+      "indices" : [ 0, 9 ],
+      "id_str" : "728823",
+      "id" : 728823
+    }, {
+      "name" : "Tim Bray",
+      "screen_name" : "timbray",
+      "indices" : [ 10, 18 ],
+      "id_str" : "1235521",
+      "id" : 1235521
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13799618692",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860935, -77.6580625 ]
+  },
+  "id_str" : "13799955154",
+  "in_reply_to_user_id" : 728823,
+  "text" : "@calavera @timbray parcels looks nice, but the submission process needs to be as streamlined as 'gem push'",
+  "id" : 13799955154,
+  "in_reply_to_status_id" : 13799618692,
+  "created_at" : "Tue May 11 17:30:32 +0000 2010",
+  "in_reply_to_screen_name" : "calavera",
+  "in_reply_to_user_id_str" : "728823",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steven Haddox",
+      "screen_name" : "stevenhaddox",
+      "indices" : [ 0, 13 ],
+      "id_str" : "7291632",
+      "id" : 7291632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13785157449",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860382, -77.6580428 ]
+  },
+  "id_str" : "13788617214",
+  "in_reply_to_user_id" : 7291632,
+  "text" : "@stevenhaddox yeah there's a few bad gemspecs in there, I haven't had time to prune them yet. It's been reported and on my list.",
+  "id" : 13788617214,
+  "in_reply_to_status_id" : 13785157449,
+  "created_at" : "Tue May 11 13:30:23 +0000 2010",
+  "in_reply_to_screen_name" : "stevenhaddox",
+  "in_reply_to_user_id_str" : "7291632",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.0860391, -77.6580252 ]
+  },
+  "id_str" : "13770709733",
+  "text" : "Apparently, RIT has an official wiki and it sucks. Kind of late for me to change this, but I would have. http://is.gd/c3I3I",
+  "id" : 13770709733,
+  "created_at" : "Tue May 11 05:00:15 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13765238377",
+  "text" : "Party - Night of Mayhem: best type for a Facebook event, ever.",
+  "id" : 13765238377,
+  "created_at" : "Tue May 11 02:59:01 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steven Haddox",
+      "screen_name" : "stevenhaddox",
+      "indices" : [ 0, 13 ],
+      "id_str" : "7291632",
+      "id" : 7291632
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13761737887",
+  "geo" : {
+  },
+  "id_str" : "13764918690",
+  "in_reply_to_user_id" : 7291632,
+  "text" : "@stevenhaddox yeah I'd love to set up some torrents or something. gem mirroring/mass distribution needs work.",
+  "id" : 13764918690,
+  "in_reply_to_status_id" : 13761737887,
+  "created_at" : "Tue May 11 02:52:36 +0000 2010",
+  "in_reply_to_screen_name" : "stevenhaddox",
+  "in_reply_to_user_id_str" : "7291632",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13748187315",
+  "text" : "Found a use for the dirty shortcut of Math.floor in Javascript with Processing.js. var which = 0|random(6);",
+  "id" : 13748187315,
+  "created_at" : "Mon May 10 21:16:13 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "heroku",
+      "screen_name" : "heroku",
+      "indices" : [ 17, 24 ],
+      "id_str" : "10257182",
+      "id" : 10257182
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13745284687",
+  "text" : "Huge congrats to @heroku, excited to see what's next. http://is.gd/c3amw",
+  "id" : 13745284687,
+  "created_at" : "Mon May 10 20:06:44 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.08431305, -77.6788650167 ]
+  },
+  "id_str" : "13740895335",
+  "text" : "It's one thing when students lie. When teachers do it, there's no excuse. Week 10, fuck you.",
+  "id" : 13740895335,
+  "created_at" : "Mon May 10 18:19:37 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Darcy Laycock",
+      "screen_name" : "Sutto",
+      "indices" : [ 0, 6 ],
+      "id_str" : "5099921",
+      "id" : 5099921
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13664429438",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3615005, -71.0200629 ]
+  },
+  "id_str" : "13664458268",
+  "in_reply_to_user_id" : 5099921,
+  "text" : "@Sutto use zshkit. done. all the functionality and more of fish.",
+  "id" : 13664458268,
+  "in_reply_to_status_id" : 13664429438,
+  "created_at" : "Sun May 09 12:17:26 +0000 2010",
+  "in_reply_to_screen_name" : "Sutto",
+  "in_reply_to_user_id_str" : "5099921",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Darcy Laycock",
+      "screen_name" : "Sutto",
+      "indices" : [ 0, 6 ],
+      "id_str" : "5099921",
+      "id" : 5099921
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13659705628",
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3615005, -71.0200629 ]
+  },
+  "id_str" : "13664320403",
+  "in_reply_to_user_id" : 5099921,
+  "text" : "@Sutto do it for zsh instead, people will actually use it",
+  "id" : 13664320403,
+  "in_reply_to_status_id" : 13659705628,
+  "created_at" : "Sun May 09 12:13:40 +0000 2010",
+  "in_reply_to_screen_name" : "Sutto",
+  "in_reply_to_user_id_str" : "5099921",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.3615005, -71.0200629 ]
+  },
+  "id_str" : "13664296984",
+  "text" : "Free wifi at BOS. Woot.",
+  "id" : 13664296984,
+  "created_at" : "Sun May 09 12:13:01 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Joshua Clayton",
+      "screen_name" : "joshuaclayton",
+      "indices" : [ 51, 65 ],
+      "id_str" : "10293122",
+      "id" : 10293122
+    }, {
+      "name" : "Jason Morrison",
+      "screen_name" : "jayunit",
+      "indices" : [ 81, 89 ],
+      "id_str" : "14238213",
+      "id" : 14238213
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.362864, -71.064184 ]
+  },
+  "id_str" : "13650406262",
+  "text" : "Saw 8 apartments, found a perfect one, dinner with @joshuaclayton, Iron Man with @jayunit too, sleep, back to ROC. Can I just stay instead?",
+  "id" : 13650406262,
+  "created_at" : "Sun May 09 05:05:49 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.365841, -71.060651 ]
+  },
+  "id_str" : "13568572495",
+  "text" : "Should have clarified....just apartment hunting this weekend. Graduation is in 2 weeks!",
+  "id" : 13568572495,
+  "created_at" : "Fri May 07 20:43:01 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 42.362342, -71.018157 ]
+  },
+  "id_str" : "13553114817",
+  "text" : "Hi Boston!",
+  "id" : 13553114817,
+  "created_at" : "Fri May 07 15:00:56 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13547266441",
+  "text" : "BUF airport without free wifi makes me a sad panda.",
+  "id" : 13547266441,
+  "created_at" : "Fri May 07 13:00:46 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Etheredge",
+      "screen_name" : "JustinEtheredge",
+      "indices" : [ 0, 16 ],
+      "id_str" : "10165302",
+      "id" : 10165302
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13500429433",
+  "geo" : {
+  },
+  "id_str" : "13500492108",
+  "in_reply_to_user_id" : 10165302,
+  "text" : "@JustinEtheredge if you made and pushed a git tag, it would automatically make a tarball/zip for you.",
+  "id" : 13500492108,
+  "in_reply_to_status_id" : 13500429433,
+  "created_at" : "Thu May 06 18:06:06 +0000 2010",
+  "in_reply_to_screen_name" : "JustinEtheredge",
+  "in_reply_to_user_id_str" : "10165302",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kevin Williams",
+      "screen_name" : "kevwil",
+      "indices" : [ 0, 7 ],
+      "id_str" : "6860632",
+      "id" : 6860632
+    }, {
+      "name" : "Pingdom",
+      "screen_name" : "pingdom",
+      "indices" : [ 76, 84 ],
+      "id_str" : "15674759",
+      "id" : 15674759
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13499263293",
+  "geo" : {
+  },
+  "id_str" : "13499802181",
+  "in_reply_to_user_id" : 6860632,
+  "text" : "@kevwil it's up here, I haven't heard any other reports of downtime or from @pingdom. is your DNS broken?",
+  "id" : 13499802181,
+  "in_reply_to_status_id" : 13499263293,
+  "created_at" : "Thu May 06 17:50:15 +0000 2010",
+  "in_reply_to_screen_name" : "kevwil",
+  "in_reply_to_user_id_str" : "6860632",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13493476539",
+  "text" : "The 1% of days when Rochester has blue skies, it's beautiful. The 99% days of gray drives me insane.",
+  "id" : 13493476539,
+  "created_at" : "Thu May 06 15:34:19 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Hankers",
+      "screen_name" : "Hankers",
+      "indices" : [ 69, 77 ],
+      "id_str" : "17735910",
+      "id" : 17735910
+    }, {
+      "name" : "Joshua Clayton",
+      "screen_name" : "joshuaclayton",
+      "indices" : [ 84, 98 ],
+      "id_str" : "10293122",
+      "id" : 10293122
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13493022287",
+  "text" : "RUSH DOCUMENTARY! http://www.youtube.com/watch?v=sk8hbSxY0sE (thanks @Hankers!) /cc @joshuaclayton",
+  "id" : 13493022287,
+  "created_at" : "Thu May 06 15:25:01 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13469660785",
+  "text" : "That lightning strike was so close that the thunder clap set off several car alarms!",
+  "id" : 13469660785,
+  "created_at" : "Thu May 06 04:41:52 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13469353813",
+  "text" : "Didn't know the Hancock Tower was such a architectural disaster. http://is.gd/bWkpT",
+  "id" : 13469353813,
+  "created_at" : "Thu May 06 04:33:50 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Justin Etheredge",
+      "screen_name" : "JustinEtheredge",
+      "indices" : [ 0, 16 ],
+      "id_str" : "10165302",
+      "id" : 10165302
+    }, {
+      "name" : "Yehuda Katz",
+      "screen_name" : "wycats",
+      "indices" : [ 29, 36 ],
+      "id_str" : "8526432",
+      "id" : 8526432
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13467927064",
+  "in_reply_to_user_id" : 10165302,
+  "text" : "@JustinEtheredge ok, you and @wycats need to battle to the death over the \"bundler\" project name. my tweetstreams are getting crossed!",
+  "id" : 13467927064,
+  "created_at" : "Thu May 06 04:00:29 +0000 2010",
+  "in_reply_to_screen_name" : "JustinEtheredge",
+  "in_reply_to_user_id_str" : "10165302",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Cardarella",
+      "screen_name" : "bcardarella",
+      "indices" : [ 3, 15 ],
+      "id_str" : "18787589",
+      "id" : 18787589
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13467401256",
+  "text" : "RT @bcardarella: FUCK YEAH! http://gigaom.com/2010/05/05/net-neutrality-fans-rejoice-the-fcc-will-reclassify-broadband/",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : {
+    },
+    "id_str" : "13467351780",
+    "text" : "FUCK YEAH! http://gigaom.com/2010/05/05/net-neutrality-fans-rejoice-the-fcc-will-reclassify-broadband/",
+    "id" : 13467351780,
+    "created_at" : "Thu May 06 03:48:27 +0000 2010",
+    "user" : {
+      "name" : "Brian Cardarella",
+      "screen_name" : "bcardarella",
+      "protected" : false,
+      "id_str" : "18787589",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3108483032/4ff274412c09c81aa5dfef8b1b0c19f6_normal.jpeg",
+      "id" : 18787589,
+      "verified" : false
+    }
+  },
+  "id" : 13467401256,
+  "created_at" : "Thu May 06 03:49:32 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Brian Scott",
+      "screen_name" : "brainscott",
+      "indices" : [ 0, 11 ],
+      "id_str" : "14392095",
+      "id" : 14392095
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13456702927",
+  "geo" : {
+  },
+  "id_str" : "13457555274",
+  "in_reply_to_user_id" : 14392095,
+  "text" : "@brainscott for what? I'd rather build out the API than have you do that.",
+  "id" : 13457555274,
+  "in_reply_to_status_id" : 13456702927,
+  "created_at" : "Thu May 06 00:43:59 +0000 2010",
+  "in_reply_to_screen_name" : "brainscott",
+  "in_reply_to_user_id_str" : "14392095",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13452001180",
+  "text" : "Writing go? Use gofmt. No excuse. I wish this kind of tool existed in every language. http://golang.org/cmd/gofmt/",
+  "id" : 13452001180,
+  "created_at" : "Wed May 05 22:49:31 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Forrst",
+      "screen_name" : "forrst",
+      "indices" : [ 0, 7 ],
+      "id_str" : "95064358",
+      "id" : 95064358
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13445524690",
+  "geo" : {
+  },
+  "id_str" : "13447297103",
+  "in_reply_to_user_id" : 95064358,
+  "text" : "@forrst yeah, it would be cool to have a rebound feature. maybe... \"chop\" ? trying to think of something foresty.",
+  "id" : 13447297103,
+  "in_reply_to_status_id" : 13445524690,
+  "created_at" : "Wed May 05 21:05:42 +0000 2010",
+  "in_reply_to_screen_name" : "forrst",
+  "in_reply_to_user_id_str" : "95064358",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13441430410",
+  "text" : "Learned about the git treeish for accessing trees: HEAD^{tree}:path/to/dir. Extremely helpful with git-archive. http://is.gd/bVGXa",
+  "id" : 13441430410,
+  "created_at" : "Wed May 05 18:46:42 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Forrst",
+      "screen_name" : "forrst",
+      "indices" : [ 18, 25 ],
+      "id_str" : "95064358",
+      "id" : 95064358
+    }, {
+      "name" : "Dribbble",
+      "screen_name" : "dribbble",
+      "indices" : [ 53, 62 ],
+      "id_str" : "14351575",
+      "id" : 14351575
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13441304015",
+  "text" : "Just got onto the @forrst beta. I think this is what @dribbble is, just for developers too.",
+  "id" : 13441304015,
+  "created_at" : "Wed May 05 18:43:36 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Steve Losh",
+      "screen_name" : "stevelosh",
+      "indices" : [ 0, 10 ],
+      "id_str" : "727813",
+      "id" : 727813
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13436580954",
+  "geo" : {
+  },
+  "id_str" : "13436644462",
+  "in_reply_to_user_id" : 727813,
+  "text" : "@stevelosh oh i like that better. FIXED.",
+  "id" : 13436644462,
+  "in_reply_to_status_id" : 13436580954,
+  "created_at" : "Wed May 05 16:57:28 +0000 2010",
+  "in_reply_to_screen_name" : "stevelosh",
+  "in_reply_to_user_id_str" : "727813",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13436364836",
+  "text" : "Maybe this will be easier: alias t=\"tree -L 1 -C -h\"",
+  "id" : 13436364836,
+  "created_at" : "Wed May 05 16:51:25 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13436260910",
+  "text" : "Going to start using this instead of ls: tree -L 1 -C -h",
+  "id" : 13436260910,
+  "created_at" : "Wed May 05 16:49:11 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13426122117",
+  "text" : "I love it when people just \"get it\" and ditch IDEs. http://is.gd/bVf5e",
+  "id" : 13426122117,
+  "created_at" : "Wed May 05 13:25:18 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "@jordansissel",
+      "screen_name" : "jordansissel",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15782607",
+      "id" : 15782607
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13402779877",
+  "geo" : {
+  },
+  "id_str" : "13403268544",
+  "in_reply_to_user_id" : 15782607,
+  "text" : "@jordansissel no, not always...would be too much effort. you can split branches out later if you need to (git branch -m)",
+  "id" : 13403268544,
+  "in_reply_to_status_id" : 13402779877,
+  "created_at" : "Wed May 05 03:27:58 +0000 2010",
+  "in_reply_to_screen_name" : "jordansissel",
+  "in_reply_to_user_id_str" : "15782607",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13398894309",
+  "text" : "It's a .NET week on GitHub Rebase...plenty of awesome projects! http://github.com/blog/645-github-rebase-42",
+  "id" : 13398894309,
+  "created_at" : "Wed May 05 02:05:39 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13396396695",
+  "text" : "Game over, SVN. http://github.com/blog/644-subversion-write-support",
+  "id" : 13396396695,
+  "created_at" : "Wed May 05 01:19:39 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.1425498529, -77.6018857956 ]
+  },
+  "id_str" : "13390232883",
+  "text" : "I'm at Tap & Mallet (381 Gregory St., Rochester) w/ 4 others. http://4sq.com/5n0t7p",
+  "id" : 13390232883,
+  "created_at" : "Tue May 04 23:17:18 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13387725106",
+  "text" : "Skorks is the new Joel, just without all of the crazy. So far. http://www.skorks.com/",
+  "id" : 13387725106,
+  "created_at" : "Tue May 04 22:21:53 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Fred Yates",
+      "screen_name" : "fredyatesiv",
+      "indices" : [ 3, 15 ],
+      "id_str" : "11886642",
+      "id" : 11886642
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13378647055",
+  "text" : "RT @fredyatesiv: anyone have any \"fun\" online shopping experiences? send them along! basically any online purchases you enjoyed or thoug ...",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : {
+    },
+    "id_str" : "13378190375",
+    "text" : "anyone have any \"fun\" online shopping experiences? send them along! basically any online purchases you enjoyed or thought were done well.",
+    "id" : 13378190375,
+    "created_at" : "Tue May 04 18:40:24 +0000 2010",
+    "user" : {
+      "name" : "Fred Yates",
+      "screen_name" : "fredyatesiv",
+      "protected" : false,
+      "id_str" : "11886642",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1043209566/fyates-square_normal.jpg",
+      "id" : 11886642,
+      "verified" : false
+    }
+  },
+  "id" : 13378647055,
+  "created_at" : "Tue May 04 18:51:29 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13376186475",
+  "text" : "NOBODY PANIC, I just renewed gemcutter.org for another year. Someday I'll stop using the scourge that is GoDaddy.",
+  "id" : 13376186475,
+  "created_at" : "Tue May 04 17:54:25 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13373621062",
+  "text" : "Lots of people picking up their robes. Am I the only one not excited about this?",
+  "id" : 13373621062,
+  "created_at" : "Tue May 04 16:54:16 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nate Kohari",
+      "screen_name" : "nkohari",
+      "indices" : [ 0, 8 ],
+      "id_str" : "6532552",
+      "id" : 6532552
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13366935386",
+  "geo" : {
+  },
+  "id_str" : "13366990630",
+  "in_reply_to_user_id" : 6532552,
+  "text" : "@nkohari one of the main reasons I'm glad I jumped over to Ruby. :) And all the reasons in http://is.gd/bTG5e hold up still.",
+  "id" : 13366990630,
+  "in_reply_to_status_id" : 13366935386,
+  "created_at" : "Tue May 04 14:22:40 +0000 2010",
+  "in_reply_to_screen_name" : "nkohari",
+  "in_reply_to_user_id_str" : "6532552",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tristan Dunn",
+      "screen_name" : "tristandunn",
+      "indices" : [ 0, 12 ],
+      "id_str" : "5716862",
+      "id" : 5716862
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13338029923",
+  "geo" : {
+  },
+  "id_str" : "13338815039",
+  "in_reply_to_user_id" : 5716862,
+  "text" : "@tristandunn ahem, your place. you get it. is it a studio or 1 bed?",
+  "id" : 13338815039,
+  "in_reply_to_status_id" : 13338029923,
+  "created_at" : "Tue May 04 01:39:43 +0000 2010",
+  "in_reply_to_screen_name" : "tristandunn",
+  "in_reply_to_user_id_str" : "5716862",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Tristan Dunn",
+      "screen_name" : "tristandunn",
+      "indices" : [ 0, 12 ],
+      "id_str" : "5716862",
+      "id" : 5716862
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13338029923",
+  "geo" : {
+  },
+  "id_str" : "13338453363",
+  "in_reply_to_user_id" : 5716862,
+  "text" : "@tristandunn haha get it as a spare, decorate it the opposite of our place. what's the link?",
+  "id" : 13338453363,
+  "in_reply_to_status_id" : 13338029923,
+  "created_at" : "Tue May 04 01:32:28 +0000 2010",
+  "in_reply_to_screen_name" : "tristandunn",
+  "in_reply_to_user_id_str" : "5716862",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13330132345",
+  "text" : "People care way too much about version numbers.",
+  "id" : 13330132345,
+  "created_at" : "Mon May 03 22:40:02 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "@jordansissel",
+      "screen_name" : "jordansissel",
+      "indices" : [ 0, 13 ],
+      "id_str" : "15782607",
+      "id" : 15782607
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13322899148",
+  "geo" : {
+  },
+  "id_str" : "13323110420",
+  "in_reply_to_user_id" : 15782607,
+  "text" : "@jordansissel let me know if you need any help or good tutorials.",
+  "id" : 13323110420,
+  "in_reply_to_status_id" : 13322899148,
+  "created_at" : "Mon May 03 19:59:26 +0000 2010",
+  "in_reply_to_screen_name" : "jordansissel",
+  "in_reply_to_user_id_str" : "15782607",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nathan de Vries",
+      "screen_name" : "atnan",
+      "indices" : [ 0, 6 ],
+      "id_str" : "14541533",
+      "id" : 14541533
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13296710176",
+  "geo" : {
+  },
+  "id_str" : "13303510398",
+  "in_reply_to_user_id" : 14541533,
+  "text" : "@atnan well aware. School wrapping up has left me zero time for OSS work. Looking into it this week hopefully.",
+  "id" : 13303510398,
+  "in_reply_to_status_id" : 13296710176,
+  "created_at" : "Mon May 03 12:49:22 +0000 2010",
+  "in_reply_to_screen_name" : "atnan",
+  "in_reply_to_user_id_str" : "14541533",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Nathan Verni",
+      "screen_name" : "npverni",
+      "indices" : [ 0, 8 ],
+      "id_str" : "4080231",
+      "id" : 4080231
+    }, {
+      "name" : "Chris Flipse",
+      "screen_name" : "cflipse",
+      "indices" : [ 9, 17 ],
+      "id_str" : "15709932",
+      "id" : 15709932
+    }, {
+      "name" : "Jeremy Hinegardner",
+      "screen_name" : "copiousfreetime",
+      "indices" : [ 18, 34 ],
+      "id_str" : "14601522",
+      "id" : 14601522
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13282505100",
+  "geo" : {
+  },
+  "id_str" : "13285242961",
+  "in_reply_to_user_id" : 4080231,
+  "text" : "@npverni @cflipse @copiousfreetime Tried it out, seems to be more about expense logging than planning...need to visualize things better.",
+  "id" : 13285242961,
+  "in_reply_to_status_id" : 13282505100,
+  "created_at" : "Mon May 03 03:50:48 +0000 2010",
+  "in_reply_to_screen_name" : "npverni",
+  "in_reply_to_user_id_str" : "4080231",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13281876787",
+  "text" : "Starting to consider writing my own budget app. Can't find a simple app that is geared towards people (not businesses) and isn't ugly.",
+  "id" : 13281876787,
+  "created_at" : "Mon May 03 02:41:47 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "James A Rosen",
+      "screen_name" : "jamesarosen",
+      "indices" : [ 0, 12 ],
+      "id_str" : "7114202",
+      "id" : 7114202
+    }, {
+      "name" : "lessaccounting",
+      "screen_name" : "LessAccounting",
+      "indices" : [ 85, 100 ],
+      "id_str" : "14351817",
+      "id" : 14351817
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "13274968970",
+  "geo" : {
+  },
+  "id_str" : "13276702307",
+  "in_reply_to_user_id" : 7114202,
+  "text" : "@jamesarosen Accountant? Are you kidding? I'm a student (at least for 2 more weeks). @lessaccounting seems oriented towards businesses.",
+  "id" : 13276702307,
+  "in_reply_to_status_id" : 13274968970,
+  "created_at" : "Mon May 03 00:59:54 +0000 2010",
+  "in_reply_to_screen_name" : "jamesarosen",
+  "in_reply_to_user_id_str" : "7114202",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Mint.com",
+      "screen_name" : "mint",
+      "indices" : [ 53, 58 ],
+      "id_str" : "13796572",
+      "id" : 13796572
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13274853936",
+  "text" : "I should have clarified earlier: ONLINE budget apps. @mint is nice, I can't figure out how to let someone else view my account though :(",
+  "id" : 13274853936,
+  "created_at" : "Mon May 03 00:21:10 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13274477233",
+  "text" : "Because car bombs have everything to do with airport security. This is going to make Friday's trip to Boston GREAT. http://is.gd/bRx8o",
+  "id" : 13274477233,
+  "created_at" : "Mon May 03 00:13:09 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13271486062",
+  "text" : "Smash Bros Brawl chalk art spotted! http://twitpic.com/1kfynm",
+  "id" : 13271486062,
+  "created_at" : "Sun May 02 23:07:22 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13269000346",
+  "text" : "Any suggestions for good budget apps? Something a little more streamlined than straight up Google Docs.",
+  "id" : 13269000346,
+  "created_at" : "Sun May 02 22:10:10 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.067684, -77.6080315 ]
+  },
+  "id_str" : "13212246111",
+  "text" : "I'm at Michelina's Italian Eatery (2700 W Henrietta Rd, Pittsford). http://4sq.com/aF78kB",
+  "id" : 13212246111,
+  "created_at" : "Sat May 01 22:45:58 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Foursquare",
+      "screen_name" : "foursquare",
+      "indices" : [ 40, 51 ],
+      "id_str" : "14120151",
+      "id" : 14120151
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13212246032",
+  "text" : "I just unlocked the \"Explorer\" badge on @foursquare! http://4sq.com/c5Eeur",
+  "id" : 13212246032,
+  "created_at" : "Sat May 01 22:45:58 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "nethack.alt.org bot",
+      "screen_name" : "nethackaltorg",
+      "indices" : [ 3, 17 ],
+      "id_str" : "88474436",
+      "id" : 88474436
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13209191619",
+  "text" : "RT @nethackaltorg: DoctorNick ascended: http://alt.org/nethack/userdata/DoctorNick/dumplog/1272343729.nh343.txt",
+  "retweeted_status" : {
+    "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : {
+    },
+    "id_str" : "13209182365",
+    "text" : "DoctorNick ascended: http://alt.org/nethack/userdata/DoctorNick/dumplog/1272343729.nh343.txt",
+    "id" : 13209182365,
+    "created_at" : "Sat May 01 21:25:31 +0000 2010",
+    "user" : {
+      "name" : "nethack.alt.org bot",
+      "screen_name" : "nethackaltorg",
+      "protected" : false,
+      "id_str" : "88474436",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/516351938/alt_favicon_normal.png",
+      "id" : 88474436,
+      "verified" : false
+    }
+  },
+  "id" : 13209191619,
+  "created_at" : "Sat May 01 21:25:46 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13206288784",
+  "text" : "OBAMANOS! http://twitpic.com/1k1xn8",
+  "id" : 13206288784,
+  "created_at" : "Sat May 01 20:10:18 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "imaginerit",
+      "indices" : [ 24, 35 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.067007, -77.674063 ]
+  },
+  "id_str" : "13201514583",
+  "text" : "Pep band starting up at #imaginerit http://twitpic.com/1k0xb7",
+  "id" : 13201514583,
+  "created_at" : "Sat May 01 18:12:31 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "imaginerit",
+      "indices" : [ 63, 74 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.067007, -77.674063 ]
+  },
+  "id_str" : "13196021275",
+  "text" : "Seriously impressed by the amount of people that showed up for #imaginerit. Campus is packed.",
+  "id" : 13196021275,
+  "created_at" : "Sat May 01 16:13:39 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "imaginerit",
+      "indices" : [ 50, 61 ]
+    } ],
+    "urls" : [ ]
+  },
+  "geo" : {
+    "type" : "Point",
+    "coordinates" : [ 43.090804, -77.663305 ]
+  },
+  "id_str" : "13195194459",
+  "text" : "Hot dog robot is a hit, again! Yay @ablissfulgal! #imaginerit http://twitpic.com/1jzr9h",
+  "id" : 13195194459,
+  "created_at" : "Sat May 01 15:57:09 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+}, {
+  "source" : "web",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : {
+  },
+  "id_str" : "13187928671",
+  "text" : "Holy shit, it's May.",
+  "id" : 13187928671,
+  "created_at" : "Sat May 01 13:26:02 +0000 2010",
+  "user" : {
+    "name" : "Nick Quaranto",
+    "screen_name" : "qrush",
+    "protected" : false,
+    "id_str" : "5743852",
+    "profile_image_url_https" : "https://si0.twimg.com/profile_images/2928733335/8892a30918ee187215eb7edd4d1c4dc3_normal.png",
+    "id" : 5743852,
+    "verified" : false
+  }
+} ]
