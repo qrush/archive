@@ -231,7 +231,13 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -916,7 +922,13 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2296,7 +2308,13 @@ Grailbird.data.tweets_2008_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2675,11 +2693,11 @@ Grailbird.data.tweets_2008_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "K a t e .... ",
+      "name" : "DixieBrown",
       "screen_name" : "DixieBrown",
       "indices" : [ 0, 11 ],
-      "id_str" : "398089896",
-      "id" : 398089896
+      "id_str" : "1441820557",
+      "id" : 1441820557
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3205,7 +3223,7 @@ Grailbird.data.tweets_2008_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 0, 16 ],
       "id_str" : "8091602",
@@ -3629,7 +3647,7 @@ Grailbird.data.tweets_2008_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 0, 16 ],
       "id_str" : "8091602",

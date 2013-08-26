@@ -361,7 +361,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "14493875",
       "id" : 14493875
     }, {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 16, 23 ],
       "id_str" : "3928731",
@@ -907,7 +907,7 @@ Grailbird.data.tweets_2010_01 =
   "geo" : {
   },
   "id_str" : "8327446115",
-  "text" : "\"Here you go. It’s five hundred dollars. If you pay me that, I will give you this magical thing that can do anything.\" http://is.gd/7dXfZ",
+  "text" : "\"Here you go. It\u2019s five hundred dollars. If you pay me that, I will give you this magical thing that can do anything.\" http://is.gd/7dXfZ",
   "id" : 8327446115,
   "created_at" : "Thu Jan 28 15:54:12 +0000 2010",
   "user" : {
@@ -2278,7 +2278,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mark Stump",
+      "name" : "Mark",
       "screen_name" : "Ophanin",
       "indices" : [ 0, 8 ],
       "id_str" : "15144555",
@@ -2482,7 +2482,7 @@ Grailbird.data.tweets_2010_01 =
       "screen_name" : "SaraJChipps",
       "protected" : false,
       "id_str" : "15524875",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2574542256/w9ynhilhp2otvqzhegay_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3495196742/50f13614f65addce43c8feed38d35854_normal.png",
       "id" : 15524875,
       "verified" : false
     }
@@ -2775,11 +2775,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jordi Bunster",
+      "name" : "Jordi",
       "screen_name" : "jordibunster",
       "indices" : [ 0, 13 ],
-      "id_str" : "11457022",
-      "id" : 11457022
+      "id_str" : "1230538363",
+      "id" : 1230538363
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2794,7 +2794,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7975188179,
   "in_reply_to_status_id" : 7975107926,
   "created_at" : "Wed Jan 20 04:44:54 +0000 2010",
-  "in_reply_to_screen_name" : "jordibunster",
+  "in_reply_to_screen_name" : "notlaforge",
   "in_reply_to_user_id_str" : "11457022",
   "user" : {
     "name" : "Nick Quaranto",
@@ -2809,11 +2809,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jordi Bunster",
+      "name" : "Jordi",
       "screen_name" : "jordibunster",
       "indices" : [ 0, 13 ],
-      "id_str" : "11457022",
-      "id" : 11457022
+      "id_str" : "1230538363",
+      "id" : 1230538363
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2828,7 +2828,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7974697632,
   "in_reply_to_status_id" : 7974478820,
   "created_at" : "Wed Jan 20 04:28:50 +0000 2010",
-  "in_reply_to_screen_name" : "jordibunster",
+  "in_reply_to_screen_name" : "notlaforge",
   "in_reply_to_user_id_str" : "11457022",
   "user" : {
     "name" : "Nick Quaranto",
@@ -3231,7 +3231,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "823615",
       "id" : 823615
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 72, 86 ],
       "id_str" : "10293122",
@@ -3277,7 +3277,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "15540222",
       "id" : 15540222
     }, {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 91, 98 ],
       "id_str" : "3928731",
@@ -4094,7 +4094,7 @@ Grailbird.data.tweets_2010_01 =
       "id_str" : "18021896",
       "id" : 18021896
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 11, 25 ],
       "id_str" : "10293122",
@@ -4741,7 +4741,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hankers",
+      "name" : "Hank",
       "screen_name" : "Hankers",
       "indices" : [ 0, 8 ],
       "id_str" : "17735910",
@@ -5123,7 +5123,7 @@ Grailbird.data.tweets_2010_01 =
   "geo" : {
   },
   "id_str" : "7736633254",
-  "text" : "Audio: RIT’s president singing some folk rock from the 70s. Epic. http://tumblr.com/x175ileij",
+  "text" : "Audio: RIT\u2019s president singing some folk rock from the 70s. Epic. http://tumblr.com/x175ileij",
   "id" : 7736633254,
   "created_at" : "Thu Jan 14 04:44:13 +0000 2010",
   "user" : {
@@ -5627,7 +5627,7 @@ Grailbird.data.tweets_2010_01 =
   "geo" : {
   },
   "id_str" : "7687525252",
-  "text" : "Photo: i’m with coco. via @SteveStreza http://tumblr.com/x175h8fm5",
+  "text" : "Photo: i\u2019m with coco. via @SteveStreza http://tumblr.com/x175h8fm5",
   "id" : 7687525252,
   "created_at" : "Tue Jan 12 23:33:36 +0000 2010",
   "user" : {
@@ -6129,7 +6129,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ches Martin ♞",
+      "name" : "Ches Martin \u265E",
       "screen_name" : "ches",
       "indices" : [ 0, 5 ],
       "id_str" : "790104",
@@ -6163,7 +6163,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ches Martin ♞",
+      "name" : "Ches Martin \u265E",
       "screen_name" : "ches",
       "indices" : [ 0, 5 ],
       "id_str" : "790104",
@@ -6253,7 +6253,13 @@ Grailbird.data.tweets_2010_01 =
 }, {
   "source" : "<a href=\"http://www.swift-app.com/\" rel=\"nofollow\">Swift</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Joe deed",
+      "screen_name" : "Hunt3131",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1236722168",
+      "id" : 1236722168
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6704,7 +6710,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "★ Daniel Lucraft",
+      "name" : "\u2B50 Daniel Lucraft",
       "screen_name" : "danlucraft",
       "indices" : [ 0, 11 ],
       "id_str" : "13094142",
@@ -7838,13 +7844,13 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "김경화",
+      "name" : "\uAE40\uACBD\uD654",
       "screen_name" : "stick84",
       "indices" : [ 3, 11 ],
       "id_str" : "271947407",
       "id" : 271947407
     }, {
-      "name" : "openSUSE News",
+      "name" : "openSUSE",
       "screen_name" : "openSUSE",
       "indices" : [ 32, 41 ],
       "id_str" : "15134408",
@@ -7862,7 +7868,7 @@ Grailbird.data.tweets_2010_01 =
     "source" : "<a href=\"http://choqok.gnufolks.org\" rel=\"nofollow\">choqoK</a>",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "openSUSE News",
+        "name" : "openSUSE",
         "screen_name" : "openSUSE",
         "indices" : [ 19, 28 ],
         "id_str" : "15134408",
@@ -7943,7 +7949,7 @@ Grailbird.data.tweets_2010_01 =
   "source" : "<a href=\"http://www.swift-app.com/\" rel=\"nofollow\">Swift</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 0, 7 ],
       "id_str" : "369604063",
@@ -8299,11 +8305,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "From Me To You",
-      "screen_name" : "_FromMeToYou",
+      "name" : "Jamie Beck",
+      "screen_name" : "_frommetoyou",
       "indices" : [ 0, 13 ],
-      "id_str" : "25283065",
-      "id" : 25283065
+      "id_str" : "1378382443",
+      "id" : 1378382443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8318,7 +8324,7 @@ Grailbird.data.tweets_2010_01 =
   "id" : 7386671801,
   "in_reply_to_status_id" : 7386524984,
   "created_at" : "Tue Jan 05 01:26:49 +0000 2010",
-  "in_reply_to_screen_name" : "_FromMeToYou",
+  "in_reply_to_screen_name" : "AnnStreetStudio",
   "in_reply_to_user_id_str" : "25283065",
   "user" : {
     "name" : "Nick Quaranto",
@@ -8430,11 +8436,11 @@ Grailbird.data.tweets_2010_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "From Me To You",
-      "screen_name" : "_FromMeToYou",
+      "name" : "Jamie Beck",
+      "screen_name" : "_frommetoyou",
       "indices" : [ 22, 35 ],
-      "id_str" : "25283065",
-      "id" : 25283065
+      "id_str" : "1378382443",
+      "id" : 1378382443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9100,7 +9106,7 @@ Grailbird.data.tweets_2010_01 =
   "geo" : {
   },
   "id_str" : "7334195810",
-  "text" : "Filling up! — at Flying J http://gowal.la/s/2Cyo",
+  "text" : "Filling up! \u2014 at Flying J http://gowal.la/s/2Cyo",
   "id" : 7334195810,
   "created_at" : "Sun Jan 03 15:14:18 +0000 2010",
   "user" : {

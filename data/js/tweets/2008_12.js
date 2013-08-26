@@ -880,11 +880,11 @@ Grailbird.data.tweets_2008_12 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     }, {
       "name" : "Antonio Cangiano",
       "screen_name" : "acangiano",
@@ -905,7 +905,7 @@ Grailbird.data.tweets_2008_12 =
   "id" : 1065589595,
   "in_reply_to_status_id" : 1065588011,
   "created_at" : "Thu Dec 18 19:50:08 +0000 2008",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -920,11 +920,11 @@ Grailbird.data.tweets_2008_12 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     }, {
       "name" : "Antonio Cagiano",
       "screen_name" : "ACagiano",
@@ -951,7 +951,7 @@ Grailbird.data.tweets_2008_12 =
   "id" : 1065585667,
   "in_reply_to_status_id" : 1065577553,
   "created_at" : "Thu Dec 18 19:48:08 +0000 2008",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -3176,7 +3176,13 @@ Grailbird.data.tweets_2008_12 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Leora Burtner",
+      "screen_name" : "LBurtner",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1474294728",
+      "id" : 1474294728
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

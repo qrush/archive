@@ -72,7 +72,7 @@ Grailbird.data.tweets_2008_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Robi B.",
+      "name" : "Robi B",
       "screen_name" : "subdigit",
       "indices" : [ 0, 9 ],
       "id_str" : "1201331",
@@ -3659,7 +3659,7 @@ Grailbird.data.tweets_2008_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Foul Bastard™",
+      "name" : "Foul Bastard\u2122",
       "screen_name" : "FoulBastard",
       "indices" : [ 0, 12 ],
       "id_str" : "6656432",
@@ -4332,7 +4332,13 @@ Grailbird.data.tweets_2008_06 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5300,7 +5306,7 @@ Grailbird.data.tweets_2008_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -5363,7 +5369,7 @@ Grailbird.data.tweets_2008_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -5397,7 +5403,7 @@ Grailbird.data.tweets_2008_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",

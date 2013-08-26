@@ -225,7 +225,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Square, Inc.",
+      "name" : "Square",
       "screen_name" : "Square",
       "indices" : [ 22, 29 ],
       "id_str" : "93017945",
@@ -306,7 +306,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -395,7 +395,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -439,8 +439,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14881709845",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "14882850308",
   "in_reply_to_user_id" : 15701745,
@@ -475,8 +473,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14879400613",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "14881449816",
   "in_reply_to_user_id" : 15591045,
@@ -511,8 +507,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14878825436",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289655, -71.1325613 ]
   },
   "id_str" : "14879160260",
   "in_reply_to_user_id" : 15591045,
@@ -547,8 +541,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14878825436",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289655, -71.1325613 ]
   },
   "id_str" : "14879082363",
   "in_reply_to_user_id" : 15591045,
@@ -583,8 +575,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14878674533",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289655, -71.1325613 ]
   },
   "id_str" : "14878814219",
   "in_reply_to_user_id" : 15591045,
@@ -612,8 +602,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289655, -71.1325613 ]
   },
   "id_str" : "14878725083",
   "text" : "Same command ran, 3 separate times. 2 segfaults, 1 works. WTF. http://gist.github.com/416683 (using ree, rvm)",
@@ -643,8 +631,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "14878509756",
   "text" : "Fighting segfaults with @gemcutter getting it set up on my new machine. Not fun.",
@@ -668,8 +654,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3369, -71.1516 ]
   },
   "id_str" : "14870507899",
   "text" : "Love the design here...very modern. (@ Chill) http://4sq.com/4XmuB5",
@@ -700,8 +684,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14856897378",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560758, -71.061708 ]
   },
   "id_str" : "14857166024",
   "in_reply_to_user_id" : 1364461,
@@ -759,8 +741,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14808665326",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289774, -71.1327629 ]
   },
   "id_str" : "14808748695",
   "in_reply_to_user_id" : 46852648,
@@ -780,7 +760,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -817,8 +797,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "14792031902",
   "text" : "Is there an equivalent of @theroch for boston? I need to direct anger at something for the heatwave.",
@@ -857,7 +835,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -888,8 +866,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3561006, -71.0617276 ]
   },
   "id_str" : "14721508077",
   "text" : "Open wifi connections within range of new apartment = WIN",
@@ -905,7 +881,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Steve Losh",
@@ -945,7 +921,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -968,7 +944,7 @@ Grailbird.data.tweets_2010_05 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -999,8 +975,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0421569, -77.7005797 ]
   },
   "id_str" : "14555147148",
   "text" : "On our way to Erie for a grad party...then back to Buffalo, and Boston tomorrow. Busy weekend!",
@@ -1024,8 +998,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.085107725, -77.67246755 ]
   },
   "id_str" : "14506202597",
   "text" : "DEGREE GET http://twitpic.com/1q2kvs",
@@ -1049,8 +1021,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0851120333, -77.6739537111 ]
   },
   "id_str" : "14446901399",
   "text" : "Ended up going to the Ritter instead...but not to watch hockey :(",
@@ -1074,8 +1044,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.08520874, -77.67254199 ]
   },
   "id_str" : "14446102487",
   "text" : "Seriously underestimated the amount of people at Convocation. Wtf?",
@@ -1106,8 +1074,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14405193013",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0859929667, -77.6582708833 ]
   },
   "id_str" : "14408814157",
   "in_reply_to_user_id" : 10955592,
@@ -1130,7 +1096,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -1142,8 +1108,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14398850875",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860919, -77.6582174 ]
   },
   "id_str" : "14401921760",
   "in_reply_to_user_id" : 10293122,
@@ -1171,8 +1135,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086828, -77.636582 ]
   },
   "id_str" : "14398065018",
   "text" : "Last plates ever! http://twitpic.com/1pja5r",
@@ -1196,8 +1158,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.08271, -77.640052 ]
   },
   "id_str" : "14397607719",
   "text" : "I'm at Henrietta Hots (3553 West Henrietta Rd, Henrietta). http://4sq.com/7ABVUi",
@@ -1228,8 +1188,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14370338762",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860761, -77.6580863 ]
   },
   "id_str" : "14388448710",
   "in_reply_to_user_id" : 10687942,
@@ -1264,8 +1222,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14367206376",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860443, -77.6579885 ]
   },
   "id_str" : "14367332541",
   "in_reply_to_user_id" : 9488922,
@@ -1306,8 +1262,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14332649167",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860366, -77.6580559 ]
   },
   "id_str" : "14332753833",
   "in_reply_to_user_id" : 24425454,
@@ -1342,8 +1296,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14332118273",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860366, -77.6580559 ]
   },
   "id_str" : "14332645323",
   "in_reply_to_user_id" : 787595,
@@ -1378,8 +1330,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14320540593",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860063, -77.6582837 ]
   },
   "id_str" : "14320986572",
   "in_reply_to_user_id" : 14060922,
@@ -1407,8 +1357,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0859977, -77.6584312 ]
   },
   "id_str" : "14320063351",
   "text" : "The worst: finding out you have a 4-6 page paper due in less than 24 hours on exam week. Can I just pass college yet?",
@@ -1439,8 +1387,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14314558372",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086038, -77.6580446 ]
   },
   "id_str" : "14314646436",
   "in_reply_to_user_id" : 11886642,
@@ -1468,8 +1414,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860366, -77.658051 ]
   },
   "id_str" : "14313478877",
   "text" : "Woke up violently from a dream last night...because I was dreaming of eating live bees. WTF?",
@@ -1493,8 +1437,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860457, -77.6580096 ]
   },
   "id_str" : "14307023667",
   "text" : "Software patents make me a sad panda: http://37signals.com/svn/posts/2341-microsoft-patent-trolls-salesforce",
@@ -1525,8 +1467,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14239676435",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838914, -77.6756707 ]
   },
   "id_str" : "14239701359",
   "in_reply_to_user_id" : 717973,
@@ -1561,8 +1501,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14239439244",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838914, -77.6756707 ]
   },
   "id_str" : "14239580303",
   "in_reply_to_user_id" : 717973,
@@ -1590,8 +1528,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838481, -77.6756616 ]
   },
   "id_str" : "14239373778",
   "text" : "I love seeing rubygems.org as the main source on Rails 3 Gemfiles. We've come a long way, folks.",
@@ -1625,8 +1561,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14235326141",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838824, -77.6755689 ]
   },
   "id_str" : "14238303438",
   "in_reply_to_user_id" : 867511,
@@ -1695,8 +1629,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14230421676",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0859924, -77.6581165 ]
   },
   "id_str" : "14230521955",
   "in_reply_to_user_id" : 7291632,
@@ -1731,8 +1663,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14228661929",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861554, -77.6583372 ]
   },
   "id_str" : "14228721899",
   "in_reply_to_user_id" : 8000842,
@@ -1760,8 +1690,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861554, -77.6583372 ]
   },
   "id_str" : "14228641734",
   "text" : "GitHub Rebase #43, now with more SECURITY http://github.com/blog/652-github-rebase-43",
@@ -1785,8 +1713,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861297, -77.6581962 ]
   },
   "id_str" : "14206698420",
   "text" : "How do people deal with receipts? Toss them? Scan them? Send them to a service? Never sure what to do with mine, I just have a huge pile.",
@@ -1817,8 +1743,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14184495283",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0839517, -77.6755471 ]
   },
   "id_str" : "14195761899",
   "in_reply_to_user_id" : 809685,
@@ -1859,8 +1783,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14185095832",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0839517, -77.6755471 ]
   },
   "id_str" : "14195723787",
   "in_reply_to_user_id" : 5539522,
@@ -1888,8 +1810,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838891, -77.6755668 ]
   },
   "id_str" : "14166343068",
   "text" : "Current status: http://img.skitch.com/20100517-kujyhc9ufehq7996y7nmjdkwuy.png",
@@ -1913,8 +1833,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838941, -77.6756622 ]
   },
   "id_str" : "14164605649",
   "text" : "Neat linux tool of the day: iptraf. http://iptraf.seul.org/",
@@ -1945,8 +1863,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14162460915",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838952, -77.6755449 ]
   },
   "id_str" : "14163663533",
   "in_reply_to_user_id" : 14246310,
@@ -1981,8 +1897,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "14139938686",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0859231, -77.6580841 ]
   },
   "id_str" : "14140203946",
   "in_reply_to_user_id" : 15524875,
@@ -2010,8 +1924,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861135, -77.6581901 ]
   },
   "id_str" : "14139467905",
   "text" : "Really impressed by http://thegleebox.com/. Vimperator seems like too much, this is a great alternative.",
@@ -2035,8 +1947,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860377, -77.6580445 ]
   },
   "id_str" : "14120670685",
   "text" : "So copiers have hard drives that store all copied images? WTF? http://is.gd/cc6WD",
@@ -2060,8 +1970,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860255, -77.658096 ]
   },
   "id_str" : "14119145520",
   "text" : "This one's for you, Dio. http://www.youtube.com/watch?v=64coD-rx9sk",
@@ -2085,8 +1993,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860254, -77.6580056 ]
   },
   "id_str" : "14055130011",
   "text" : "Get ready for NAZIS IN SPACE http://www.dailymotion.com/video/xdayz0_iron-sky-teaser-trailer-bande-annon_shortfilms?start=2",
@@ -2110,8 +2016,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860457, -77.6580759 ]
   },
   "id_str" : "14044579317",
   "text" : "Getting ready for a bachelor party up at Hamlin Beach. Any suggestions for activities? (No, we can't bring strippers)",
@@ -2142,8 +2046,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13997359434",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860413, -77.6580307 ]
   },
   "id_str" : "13997656195",
   "in_reply_to_user_id" : 16134710,
@@ -2178,8 +2080,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13928249742",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838891, -77.675567 ]
   },
   "id_str" : "13928366324",
   "in_reply_to_user_id" : 12914422,
@@ -2214,8 +2114,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13924068014",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086035, -77.6580437 ]
   },
   "id_str" : "13924129962",
   "in_reply_to_user_id" : 727813,
@@ -2243,8 +2141,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860355, -77.6580903 ]
   },
   "id_str" : "13915484248",
   "text" : "Can someone explain to me why these guys need $90k+ to start an open source project? http://is.gd/c7rDt",
@@ -2275,8 +2171,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13883935067",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860417, -77.6579967 ]
   },
   "id_str" : "13883970962",
   "in_reply_to_user_id" : 9865602,
@@ -2317,8 +2211,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13865808293",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0842189, -77.6782692 ]
   },
   "id_str" : "13865964278",
   "in_reply_to_user_id" : 12699642,
@@ -2352,8 +2244,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0844287, -77.6796272 ]
   },
   "id_str" : "13865455939",
   "text" : "Showed off KIDSMASH in class today, fun little Processing.js experiment that emulates @shanselman's BabySmash: http://is.gd/c6ax3",
@@ -2436,8 +2326,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13799618692",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860935, -77.6580625 ]
   },
   "id_str" : "13799955154",
   "in_reply_to_user_id" : 728823,
@@ -2472,8 +2360,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13785157449",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860382, -77.6580428 ]
   },
   "id_str" : "13788617214",
   "in_reply_to_user_id" : 7291632,
@@ -2501,8 +2387,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860391, -77.6580252 ]
   },
   "id_str" : "13770709733",
   "text" : "Apparently, RIT has an official wiki and it sucks. Kind of late for me to change this, but I would have. http://is.gd/c3I3I",
@@ -2635,8 +2519,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.08431305, -77.6788650167 ]
   },
   "id_str" : "13740895335",
   "text" : "It's one thing when students lie. When teachers do it, there's no excuse. Week 10, fuck you.",
@@ -2667,8 +2549,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13664429438",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3615005, -71.0200629 ]
   },
   "id_str" : "13664458268",
   "in_reply_to_user_id" : 5099921,
@@ -2703,8 +2583,6 @@ Grailbird.data.tweets_2010_05 =
   },
   "in_reply_to_status_id_str" : "13659705628",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3615005, -71.0200629 ]
   },
   "id_str" : "13664320403",
   "in_reply_to_user_id" : 5099921,
@@ -2732,8 +2610,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3615005, -71.0200629 ]
   },
   "id_str" : "13664296984",
   "text" : "Free wifi at BOS. Woot.",
@@ -2752,7 +2628,7 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 51, 65 ],
       "id_str" : "10293122",
@@ -2769,8 +2645,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.362864, -71.064184 ]
   },
   "id_str" : "13650406262",
   "text" : "Saw 8 apartments, found a perfect one, dinner with @joshuaclayton, Iron Man with @jayunit too, sleep, back to ROC. Can I just stay instead?",
@@ -2794,8 +2668,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.365841, -71.060651 ]
   },
   "id_str" : "13568572495",
   "text" : "Should have clarified....just apartment hunting this weekend. Graduation is in 2 weeks!",
@@ -2819,8 +2691,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.362342, -71.018157 ]
   },
   "id_str" : "13553114817",
   "text" : "Hi Boston!",
@@ -2959,13 +2829,13 @@ Grailbird.data.tweets_2010_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hankers",
+      "name" : "Hank",
       "screen_name" : "Hankers",
       "indices" : [ 69, 77 ],
       "id_str" : "17735910",
       "id" : 17735910
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 84, 98 ],
       "id_str" : "10293122",
@@ -3111,7 +2981,7 @@ Grailbird.data.tweets_2010_05 =
       "screen_name" : "bcardarella",
       "protected" : false,
       "id_str" : "18787589",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3108483032/4ff274412c09c81aa5dfef8b1b0c19f6_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000321311704/ecbc1a0b5f8185eddb23089ab1f86a62_normal.jpeg",
       "id" : 18787589,
       "verified" : false
     }
@@ -3468,8 +3338,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.1425498529, -77.6018857956 ]
   },
   "id_str" : "13390232883",
   "text" : "I'm at Tap & Mallet (381 Gregory St., Rochester) w/ 4 others. http://4sq.com/5n0t7p",
@@ -4015,8 +3883,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.067684, -77.6080315 ]
   },
   "id_str" : "13212246111",
   "text" : "I'm at Michelina's Italian Eatery (2700 W Henrietta Rd, Pittsford). http://4sq.com/aF78kB",
@@ -4148,8 +4014,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.067007, -77.674063 ]
   },
   "id_str" : "13201514583",
   "text" : "Pep band starting up at #imaginerit http://twitpic.com/1k0xb7",
@@ -4176,8 +4040,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.067007, -77.674063 ]
   },
   "id_str" : "13196021275",
   "text" : "Seriously impressed by the amount of people that showed up for #imaginerit. Campus is packed.",
@@ -4204,8 +4066,6 @@ Grailbird.data.tweets_2010_05 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.090804, -77.663305 ]
   },
   "id_str" : "13195194459",
   "text" : "Hot dog robot is a hit, again! Yay @ablissfulgal! #imaginerit http://twitpic.com/1jzr9h",

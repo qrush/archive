@@ -985,7 +985,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Tobias Lütke",
+      "name" : "Tobias L\u00FCtke",
       "screen_name" : "tobi",
       "indices" : [ 0, 5 ],
       "id_str" : "676573",
@@ -1356,7 +1356,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -1425,7 +1425,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BoiteAWeb",
+      "name" : "Julio Potier",
       "screen_name" : "BoiteAWeb",
       "indices" : [ 0, 10 ],
       "id_str" : "133325904",
@@ -1527,7 +1527,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BoiteAWeb",
+      "name" : "Julio Potier",
       "screen_name" : "BoiteAWeb",
       "indices" : [ 0, 10 ],
       "id_str" : "133325904",
@@ -1645,7 +1645,7 @@ Grailbird.data.tweets_2010_10 =
       "screen_name" : "raggi",
       "protected" : false,
       "id_str" : "15359408",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1140342392/raggi_tree_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3388593743/5530c82013709c3922ef8f947092b623_normal.jpeg",
       "id" : 15359408,
       "verified" : false
     }
@@ -1665,7 +1665,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -2007,7 +2007,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2282,7 +2282,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -2622,7 +2622,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lifeinzembla",
+      "name" : "YOLO",
       "screen_name" : "lifeinzembla",
       "indices" : [ 0, 13 ],
       "id_str" : "12628512",
@@ -2959,7 +2959,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anthony Eden",
+      "name" : "Comte Anthony Eden",
       "screen_name" : "aeden",
       "indices" : [ 0, 6 ],
       "id_str" : "18673",
@@ -3929,7 +3929,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ladyfox14",
+      "name" : "(\u256F\u00B0\u25A1\u00B0)\u256F\uFE35",
       "screen_name" : "ladyfox14",
       "indices" : [ 0, 10 ],
       "id_str" : "7795202",
@@ -4074,8 +4074,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.328808, -71.1334938 ]
   },
   "id_str" : "27492130491",
   "text" : "LET'S GET READY TO RUMMMMMMBLE",
@@ -4106,8 +4104,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27465758195",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.37778, -71.0625 ]
   },
   "id_str" : "27465957664",
   "in_reply_to_user_id" : 14181366,
@@ -4142,8 +4138,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27465699026",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.37778, -71.0625 ]
   },
   "id_str" : "27465911861",
   "in_reply_to_user_id" : 18047782,
@@ -4178,8 +4172,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27443599719",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.37778, -71.0625 ]
   },
   "id_str" : "27465485615",
   "in_reply_to_user_id" : 14181366,
@@ -4207,8 +4199,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.37778, -71.0625 ]
   },
   "id_str" : "27465423736",
   "text" : "Angry Birds on the Android Market is FREE. FREEEEEEEEEEEEEEEEEEEE",
@@ -4232,8 +4222,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560828, -71.0618388 ]
   },
   "id_str" : "27457168047",
   "text" : "Hilarious nugget of Buffalo Sabres history: http://en.wikipedia.org/wiki/Taro_Tsujimoto",
@@ -4342,8 +4330,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27379525153",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356084, -71.0618607 ]
   },
   "id_str" : "27379652600",
   "in_reply_to_user_id" : 15659000,
@@ -4401,8 +4387,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27360255958",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356084, -71.0618607 ]
   },
   "id_str" : "27375494043",
   "in_reply_to_user_id" : 14453888,
@@ -4437,8 +4421,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27356290635",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560667, -71.0617991 ]
   },
   "id_str" : "27357798586",
   "in_reply_to_user_id" : 18713,
@@ -4473,8 +4455,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27309782569",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287592, -71.1334677 ]
   },
   "id_str" : "27335621197",
   "in_reply_to_user_id" : 8898642,
@@ -4540,8 +4520,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287592, -71.1334677 ]
   },
   "id_str" : "27313272351",
   "text" : "LEGACY @rubygems INDEX FIXED. `gem mirror` works again. ARGHGHH.",
@@ -4572,8 +4550,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27309356038",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287302, -71.1335008 ]
   },
   "id_str" : "27310465918",
   "in_reply_to_user_id" : 11886642,
@@ -4601,11 +4577,9 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287302, -71.1335008 ]
   },
   "id_str" : "27308559470",
-  "text" : "Vi sitter här i venten och spelar lite DotA 2!  http://www.youtube.com/watch?v=0OzWIFX8M-Y",
+  "text" : "Vi sitter h\u00E4r i venten och spelar lite DotA 2!  http://www.youtube.com/watch?v=0OzWIFX8M-Y",
   "id" : 27308559470,
   "created_at" : "Thu Oct 14 03:51:48 +0000 2010",
   "user" : {
@@ -4633,8 +4607,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27307823378",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287319, -71.1334197 ]
   },
   "id_str" : "27308075993",
   "in_reply_to_user_id" : 9337082,
@@ -4669,8 +4641,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27307800266",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287319, -71.1334197 ]
   },
   "id_str" : "27307891796",
   "in_reply_to_user_id" : 14678924,
@@ -4698,8 +4668,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287319, -71.1334197 ]
   },
   "id_str" : "27307642756",
   "text" : "DOTA2. Wow. http://gameinformer.com/b/features/archive/2010/10/13/dota-2-announced-details.aspx",
@@ -4757,8 +4725,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560952, -71.0618118 ]
   },
   "id_str" : "27251597385",
   "text" : "How the hell did I refactor anything before writing tests?",
@@ -4776,28 +4742,17 @@ Grailbird.data.tweets_2010_10 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Andy",
-      "screen_name" : "webandy",
-      "indices" : [ 0, 8 ],
-      "id_str" : "11589532",
-      "id" : 11589532
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27209362698",
   "geo" : {
   },
   "id_str" : "27243033250",
-  "in_reply_to_user_id" : 11589532,
   "text" : "@webandy yep, definitely going, see you there!",
   "id" : 27243033250,
-  "in_reply_to_status_id" : 27209362698,
   "created_at" : "Wed Oct 13 13:54:04 +0000 2010",
-  "in_reply_to_screen_name" : "webandy",
-  "in_reply_to_user_id_str" : "11589532",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -4829,8 +4784,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "26754256342",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287416, -71.1335363 ]
   },
   "id_str" : "27237732162",
   "in_reply_to_user_id" : 18047782,
@@ -4870,8 +4823,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287409, -71.1335403 ]
   },
   "id_str" : "27237633646",
   "text" : "Somehow missed this, Ruby5 signed off with some Tom Sawyer last week. Thanks @leshill and @p_elliott! http://is.gd/g0czb",
@@ -4947,8 +4898,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.364273, -71.080055 ]
   },
   "id_str" : "27182295161",
   "text" : "At #bostonrb!",
@@ -4977,17 +4926,12 @@ Grailbird.data.tweets_2010_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "27174060960",
   "geo" : {
   },
   "id_str" : "27174410916",
-  "in_reply_to_user_id" : 15234330,
   "text" : "@ninh just curious. noticed the images were being served from modrails.com, not localhost :)",
   "id" : 27174410916,
-  "in_reply_to_status_id" : 27174060960,
   "created_at" : "Tue Oct 12 21:16:43 +0000 2010",
-  "in_reply_to_screen_name" : "ninh",
-  "in_reply_to_user_id_str" : "15234330",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -5013,8 +4957,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27172676486",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3561124, -71.0618593 ]
   },
   "id_str" : "27172929384",
   "in_reply_to_user_id" : 8284992,
@@ -5048,8 +4990,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3561124, -71.0618593 ]
   },
   "id_str" : "27172573857",
   "text" : "Any suggestions for other places to warn of the planned @gemcutter downtime for tomorrow evening? Hitting RubyFlow now.",
@@ -5132,16 +5072,11 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560891, -71.0618295 ]
   },
   "id_str" : "27161066487",
-  "in_reply_to_user_id" : 15234330,
   "text" : "@ninh do you guys do usage tracking on all of the images/assets served from passenger error pages?",
   "id" : 27161066487,
   "created_at" : "Tue Oct 12 17:58:51 +0000 2010",
-  "in_reply_to_screen_name" : "ninh",
-  "in_reply_to_user_id_str" : "15234330",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -5167,8 +5102,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27157089640",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560891, -71.0618295 ]
   },
   "id_str" : "27160986277",
   "in_reply_to_user_id" : 14029822,
@@ -5202,8 +5135,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560891, -71.0618295 ]
   },
   "id_str" : "27159802851",
   "text" : "Legacy index (what `gem mirror` uses) hopelessly broken on @gemcutter. Not sure how to fix it. Argh.",
@@ -5234,8 +5165,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "27077804622",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3287297, -71.1335007 ]
   },
   "id_str" : "27080561626",
   "in_reply_to_user_id" : 790205,
@@ -6043,7 +5972,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Artūras Šlajus",
+      "name" : "Art\u016Bras \u0160lajus",
       "screen_name" : "arturaz_",
       "indices" : [ 0, 9 ],
       "id_str" : "200613341",
@@ -6180,7 +6109,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bocoup, LLC",
+      "name" : "Bocoup",
       "screen_name" : "bocoup",
       "indices" : [ 0, 7 ],
       "id_str" : "98303566",
@@ -6363,7 +6292,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -6397,7 +6326,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -6466,7 +6395,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -6654,17 +6583,12 @@ Grailbird.data.tweets_2010_10 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "26639706879",
   "geo" : {
   },
   "id_str" : "26644000369",
-  "in_reply_to_user_id" : 14582075,
   "text" : "@matthewlang there's also webhooks for more real-time notification https://rubygems.org/pages/gem_docs#webhook",
   "id" : 26644000369,
-  "in_reply_to_status_id" : 26639706879,
   "created_at" : "Thu Oct 07 12:33:11 +0000 2010",
-  "in_reply_to_screen_name" : "matthewlang",
-  "in_reply_to_user_id_str" : "14582075",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -7192,8 +7116,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "26488192076",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3286298, -71.1337718 ]
   },
   "id_str" : "26492063209",
   "in_reply_to_user_id" : 14973933,
@@ -7221,8 +7143,6 @@ Grailbird.data.tweets_2010_10 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3286298, -71.1337718 ]
   },
   "id_str" : "26492007695",
   "text" : "When your signature is longer than the email you sent me (even when your email was several paragraphs), I'm not replying to it.",
@@ -7315,7 +7235,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "42259749",
       "id" : 42259749
     }, {
-      "name" : "Raphaël Valyi",
+      "name" : "Rapha\u00EBl Valyi",
       "screen_name" : "rvalyi",
       "indices" : [ 105, 112 ],
       "id_str" : "39129507",
@@ -7491,7 +7411,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "14196181",
       "id" : 14196181
     }, {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 11, 18 ],
       "id_str" : "369604063",
@@ -7628,8 +7548,6 @@ Grailbird.data.tweets_2010_10 =
   },
   "in_reply_to_status_id_str" : "26393862659",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560547, -71.0618246 ]
   },
   "id_str" : "26395014116",
   "in_reply_to_user_id" : 14955528,
@@ -7755,7 +7673,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -8058,7 +7976,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 0, 9 ],
       "id_str" : "5674672",
@@ -8126,7 +8044,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -8163,7 +8081,7 @@ Grailbird.data.tweets_2010_10 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -8215,7 +8133,7 @@ Grailbird.data.tweets_2010_10 =
       "id_str" : "5716862",
       "id" : 5716862
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 99, 113 ],
       "id_str" : "10293122",
@@ -8245,7 +8163,7 @@ Grailbird.data.tweets_2010_10 =
         "id_str" : "5716862",
         "id" : 5716862
       }, {
-        "name" : "Joshua Clayton",
+        "name" : "Josh Clayton",
         "screen_name" : "joshuaclayton",
         "indices" : [ 84, 98 ],
         "id_str" : "10293122",

@@ -1822,7 +1822,7 @@ Grailbird.data.tweets_2009_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Elliott Kember",
+      "name" : "Elliott   Kember",
       "screen_name" : "elliottkember",
       "indices" : [ 86, 100 ],
       "id_str" : "903351",
@@ -2126,7 +2126,7 @@ Grailbird.data.tweets_2009_05 =
   "geo" : {
   },
   "id_str" : "1795894225",
-  "text" : "I don't know if this is amazing or aggravating: http://www.‽.ws",
+  "text" : "I don't know if this is amazing or aggravating: http://www.\u203D.ws",
   "id" : 1795894225,
   "created_at" : "Thu May 14 15:32:49 +0000 2009",
   "user" : {
@@ -2913,11 +2913,11 @@ Grailbird.data.tweets_2009_05 =
       "id_str" : "14685595",
       "id" : 14685595
     }, {
-      "name" : "Sandra",
-      "screen_name" : "lark",
+      "name" : "Lark",
+      "screen_name" : "Lark",
       "indices" : [ 18, 23 ],
-      "id_str" : "755612",
-      "id" : 755612
+      "id_str" : "1254726169",
+      "id" : 1254726169
     } ],
     "media" : [ ],
     "hashtags" : [ {

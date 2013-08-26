@@ -49,7 +49,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 43, 62 ],
       "url" : "http://t.co/TMwQtFp",
       "expanded_url" : "http://blog.rubygems.org/2011/08/31/shaving-the-yaml-yacc.html",
-      "display_url" : "blog.rubygems.org/2011/08/31/sha…"
+      "display_url" : "blog.rubygems.org/2011/08/31/sha\u2026"
     } ]
   },
   "geo" : {
@@ -66,7 +66,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 27, 46 ],
         "url" : "http://t.co/TMwQtFp",
         "expanded_url" : "http://blog.rubygems.org/2011/08/31/shaving-the-yaml-yacc.html",
-        "display_url" : "blog.rubygems.org/2011/08/31/sha…"
+        "display_url" : "blog.rubygems.org/2011/08/31/sha\u2026"
       } ]
     },
     "geo" : {
@@ -80,7 +80,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "tenderlove",
       "protected" : false,
       "id_str" : "14761655",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3258763887/df012fa9fd6380a354fb4ec916b3c672_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000325798111/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
       "id" : 14761655,
       "verified" : false
     }
@@ -152,7 +152,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 17, 36 ],
       "url" : "http://t.co/EPB75ao",
       "expanded_url" : "http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/387196",
-      "display_url" : "blade.nagaokaut.ac.jp/cgi-bin/scat.r…"
+      "display_url" : "blade.nagaokaut.ac.jp/cgi-bin/scat.r\u2026"
     } ]
   },
   "geo" : {
@@ -220,7 +220,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 119, 138 ],
       "url" : "http://t.co/UfPO6DI",
       "expanded_url" : "http://help.rubygems.org/kb/gemcutter/removing-a-published-rubygem",
-      "display_url" : "help.rubygems.org/kb/gemcutter/r…"
+      "display_url" : "help.rubygems.org/kb/gemcutter/r\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "108868819908431873",
@@ -451,7 +451,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 11, 30 ],
       "url" : "http://t.co/6v45scV",
       "expanded_url" : "http://images.icanhascheezburger.com/completestore/2008/11/16/128713226668583807.jpg",
-      "display_url" : "images.icanhascheezburger.com/completestore/…"
+      "display_url" : "images.icanhascheezburger.com/completestore/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "108633490181992448",
@@ -496,7 +496,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 121, 140 ],
       "url" : "http://t.co/RXOfANU",
       "expanded_url" : "http://newstores.wegmans.com/Default.aspx?alias=newstores.wegmans.com/northborough",
-      "display_url" : "newstores.wegmans.com/Default.aspx?a…"
+      "display_url" : "newstores.wegmans.com/Default.aspx?a\u2026"
     } ]
   },
   "geo" : {
@@ -519,7 +519,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 104, 123 ],
         "url" : "http://t.co/RXOfANU",
         "expanded_url" : "http://newstores.wegmans.com/Default.aspx?alias=newstores.wegmans.com/northborough",
-        "display_url" : "newstores.wegmans.com/Default.aspx?a…"
+        "display_url" : "newstores.wegmans.com/Default.aspx?a\u2026"
       } ]
     },
     "geo" : {
@@ -533,7 +533,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "notasausage",
       "protected" : false,
       "id_str" : "11718",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2967590593/1a1f362faf8ca8accd26670b3e5d86f5_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3763891173/17614d88fcaffc821dbeefe42c352323_normal.jpeg",
       "id" : 11718,
       "verified" : false
     }
@@ -640,7 +640,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 76, 95 ],
       "url" : "http://t.co/oDVM8Td",
       "expanded_url" : "http://www.youtube.com/watch?v=pGQahmBx90c",
-      "display_url" : "youtube.com/watch?v=pGQahm…"
+      "display_url" : "youtube.com/watch?v=pGQahm\u2026"
     } ]
   },
   "geo" : {
@@ -770,7 +770,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/gYYVC0f",
       "expanded_url" : "http://26.media.tumblr.com/tumblr_lk6a09Hg6i1qa1zngo1_500.gif",
-      "display_url" : "26.media.tumblr.com/tumblr_lk6a09H…"
+      "display_url" : "26.media.tumblr.com/tumblr_lk6a09H\u2026"
     } ]
   },
   "geo" : {
@@ -825,7 +825,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "seldo",
       "protected" : false,
       "id_str" : "15453",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2899371374/39bf2a3b541aa096e9cdde648b6851ef_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000330492597/2e5a0d63c0eac34294ab56046f428455_normal.png",
       "id" : 15453,
       "verified" : false
     }
@@ -891,7 +891,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 70, 89 ],
       "url" : "http://t.co/M5kpLSA",
       "expanded_url" : "https://github.com/tpope/gem-browse",
-      "display_url" : "github.com/tpope/gem-brow…"
+      "display_url" : "github.com/tpope/gem-brow\u2026"
     } ]
   },
   "geo" : {
@@ -908,7 +908,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 59, 78 ],
         "url" : "http://t.co/M5kpLSA",
         "expanded_url" : "https://github.com/tpope/gem-browse",
-        "display_url" : "github.com/tpope/gem-brow…"
+        "display_url" : "github.com/tpope/gem-brow\u2026"
       } ]
     },
     "geo" : {
@@ -1005,12 +1005,12 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 24, 43 ],
       "url" : "http://t.co/C6vQujP",
       "expanded_url" : "http://cdn.theatlantic.com/static/infocus/irene082911/i11_28016748.jpg",
-      "display_url" : "cdn.theatlantic.com/static/infocus…"
+      "display_url" : "cdn.theatlantic.com/static/infocus\u2026"
     }, {
       "indices" : [ 48, 67 ],
       "url" : "http://t.co/A8TlBfK",
       "expanded_url" : "http://www.theatlantic.com/infocus/2011/08/hurricane-irene/100138/",
-      "display_url" : "theatlantic.com/infocus/2011/0…"
+      "display_url" : "theatlantic.com/infocus/2011/0\u2026"
     } ]
   },
   "geo" : {
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 84, 103 ],
       "url" : "http://t.co/YWmB30a",
       "expanded_url" : "http://blogs.msdn.com/b/b8/archive/2011/08/26/improvements-in-windows-explorer.aspx",
-      "display_url" : "blogs.msdn.com/b/b8/archive/2…"
+      "display_url" : "blogs.msdn.com/b/b8/archive/2\u2026"
     } ]
   },
   "geo" : {
@@ -1134,7 +1134,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/kjCRczG",
       "expanded_url" : "http://www.youtube.com/watch?v=31g0YE61PLQ",
-      "display_url" : "youtube.com/watch?v=31g0YE…"
+      "display_url" : "youtube.com/watch?v=31g0YE\u2026"
     } ]
   },
   "geo" : {
@@ -1185,7 +1185,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 26, 45 ],
       "url" : "http://t.co/YZBCdbN",
       "expanded_url" : "http://www.youtube.com/watch?v=pZfwUwDJdV8",
-      "display_url" : "youtube.com/watch?v=pZfwUw…"
+      "display_url" : "youtube.com/watch?v=pZfwUw\u2026"
     } ]
   },
   "geo" : {
@@ -1213,7 +1213,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "5186831",
       "id" : 5186831
     }, {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 46, 58 ],
       "id_str" : "12027042",
@@ -1510,7 +1510,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 25, 44 ],
       "url" : "http://t.co/eJ45vc8",
       "expanded_url" : "http://www.youtube.com/watch?v=umE08FCqHEU",
-      "display_url" : "youtube.com/watch?v=umE08F…"
+      "display_url" : "youtube.com/watch?v=umE08F\u2026"
     } ]
   },
   "geo" : {
@@ -1637,7 +1637,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/Jrw4lFd",
       "expanded_url" : "http://www.youtube.com/watch?v=J6z88ur-8bY",
-      "display_url" : "youtube.com/watch?v=J6z88u…"
+      "display_url" : "youtube.com/watch?v=J6z88u\u2026"
     } ]
   },
   "geo" : {
@@ -1932,7 +1932,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 45, 64 ],
       "url" : "http://t.co/HwgohOF",
       "expanded_url" : "http://www.hnsearch.com/search#request/all",
-      "display_url" : "hnsearch.com/search#request…"
+      "display_url" : "hnsearch.com/search#request\u2026"
     } ]
   },
   "geo" : {
@@ -1960,7 +1960,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 6, 25 ],
       "url" : "http://t.co/bD9dDfj",
       "expanded_url" : "https://github.com/rubygems/rubygems/blob/master/lib/rubygems/specification.rb#L696-700",
-      "display_url" : "github.com/rubygems/rubyg…"
+      "display_url" : "github.com/rubygems/rubyg\u2026"
     } ]
   },
   "geo" : {
@@ -1988,7 +1988,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/Vw0ACGS",
       "expanded_url" : "http://www.youtube.com/watch?v=n-TKGqA_XJg",
-      "display_url" : "youtube.com/watch?v=n-TKGq…"
+      "display_url" : "youtube.com/watch?v=n-TKGq\u2026"
     } ]
   },
   "geo" : {
@@ -2274,7 +2274,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/qa3Ykya",
       "expanded_url" : "http://www.aboutmcdonalds.com/etc/medialib/aboutMcDonalds/image_library/products/core_menu.Par.41578.File.dat/mcdonalds_bigmac.jpg",
-      "display_url" : "aboutmcdonalds.com/etc/medialib/a…"
+      "display_url" : "aboutmcdonalds.com/etc/medialib/a\u2026"
     } ]
   },
   "geo" : {
@@ -2416,7 +2416,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/Bq71qSO",
       "expanded_url" : "http://images.memegenerator.net/instances/500x/9559175.jpg",
-      "display_url" : "images.memegenerator.net/instances/500x…"
+      "display_url" : "images.memegenerator.net/instances/500x\u2026"
     } ]
   },
   "geo" : {
@@ -2438,7 +2438,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "☆ G ▲ B ∑ ☆",
+      "name" : "Gabe Berke-Williams",
       "screen_name" : "gabebw",
       "indices" : [ 0, 7 ],
       "id_str" : "224887329",
@@ -2484,7 +2484,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "15359408",
       "id" : 15359408
     }, {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 59, 71 ],
       "id_str" : "12027042",
@@ -2582,7 +2582,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -2614,7 +2614,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -3070,7 +3070,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 19, 38 ],
       "url" : "http://t.co/sqFQPcd",
       "expanded_url" : "http://earthquake.usgs.gov/earthquakes/recenteqsus/Maps/US10/32.42.-85.-75.php",
-      "display_url" : "earthquake.usgs.gov/earthquakes/re…"
+      "display_url" : "earthquake.usgs.gov/earthquakes/re\u2026"
     } ]
   },
   "geo" : {
@@ -3195,7 +3195,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Yuri Tománek",
+      "name" : "Yuri Tom\u00E1nek",
       "screen_name" : "yuritomanek",
       "indices" : [ 0, 12 ],
       "id_str" : "393280472",
@@ -3230,7 +3230,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicolás Hock Isaza",
+      "name" : "Nicol\u00E1s Hock Isaza",
       "screen_name" : "nhocki",
       "indices" : [ 0, 7 ],
       "id_str" : "85498700",
@@ -3270,7 +3270,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 93, 112 ],
       "url" : "http://t.co/jJyrAva",
       "expanded_url" : "http://rubycraft.org/map/#/149/64/154/-2/mcmapNormal",
-      "display_url" : "rubycraft.org/map/#/149/64/1…"
+      "display_url" : "rubycraft.org/map/#/149/64/1\u2026"
     } ]
   },
   "geo" : {
@@ -3298,7 +3298,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 54, 73 ],
       "url" : "http://t.co/MivdoMj",
       "expanded_url" : "http://www.youtube.com/watch?v=7cqOEr_yfak",
-      "display_url" : "youtube.com/watch?v=7cqOEr…"
+      "display_url" : "youtube.com/watch?v=7cqOEr\u2026"
     } ]
   },
   "geo" : {
@@ -3338,7 +3338,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/yoCytGo",
       "expanded_url" : "http://www.youtube.com/watch?v=7cqOEr_yfak",
-      "display_url" : "youtube.com/watch?v=7cqOEr…"
+      "display_url" : "youtube.com/watch?v=7cqOEr\u2026"
     } ]
   },
   "geo" : {
@@ -3361,7 +3361,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 22, 41 ],
         "url" : "http://t.co/yoCytGo",
         "expanded_url" : "http://www.youtube.com/watch?v=7cqOEr_yfak",
-        "display_url" : "youtube.com/watch?v=7cqOEr…"
+        "display_url" : "youtube.com/watch?v=7cqOEr\u2026"
       } ]
     },
     "geo" : {
@@ -3376,7 +3376,7 @@ Grailbird.data.tweets_2011_08 =
     "user" : {
       "name" : "Brian Quaranto",
       "screen_name" : "bquarant",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "183117429",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2469549385/jwmpg4abzrb5retg76v1_normal.jpeg",
       "id" : 183117429,
@@ -3614,7 +3614,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3830,7 +3830,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 42, 61 ],
       "url" : "http://t.co/nbQYzjC",
       "expanded_url" : "http://robots.thoughtbot.com/post/9251081564/coffeescript-spartan-javascript",
-      "display_url" : "robots.thoughtbot.com/post/925108156…"
+      "display_url" : "robots.thoughtbot.com/post/925108156\u2026"
     } ]
   },
   "geo" : {
@@ -3847,7 +3847,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 26, 45 ],
         "url" : "http://t.co/nbQYzjC",
         "expanded_url" : "http://robots.thoughtbot.com/post/9251081564/coffeescript-spartan-javascript",
-        "display_url" : "robots.thoughtbot.com/post/925108156…"
+        "display_url" : "robots.thoughtbot.com/post/925108156\u2026"
       } ]
     },
     "geo" : {
@@ -3893,7 +3893,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 9, 28 ],
       "url" : "http://t.co/uYjncZt",
       "expanded_url" : "http://28.media.tumblr.com/tumblr_lqb9nlVOUE1qz5t6ro1_500.png",
-      "display_url" : "28.media.tumblr.com/tumblr_lqb9nlV…"
+      "display_url" : "28.media.tumblr.com/tumblr_lqb9nlV\u2026"
     } ]
   },
   "geo" : {
@@ -3955,7 +3955,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 21, 40 ],
       "url" : "http://t.co/WiuUmMX",
       "expanded_url" : "http://www.youtube.com/watch?v=1gvMwCEdhCs",
-      "display_url" : "youtube.com/watch?v=1gvMwC…"
+      "display_url" : "youtube.com/watch?v=1gvMwC\u2026"
     } ]
   },
   "geo" : {
@@ -3977,7 +3977,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "☆ G ▲ B ∑ ☆",
+      "name" : "Gabe Berke-Williams",
       "screen_name" : "gabebw",
       "indices" : [ 0, 7 ],
       "id_str" : "224887329",
@@ -3989,7 +3989,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 52, 71 ],
       "url" : "http://t.co/abBCbNE",
       "expanded_url" : "http://www.reddit.com/r/Pets/comments/jp8b4/how_my_10_month_old_husky_deals_with_me_talking/",
-      "display_url" : "reddit.com/r/Pets/comment…"
+      "display_url" : "reddit.com/r/Pets/comment\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "105076255136825344",
@@ -4195,7 +4195,7 @@ Grailbird.data.tweets_2011_08 =
   },
   "id_str" : "104685922905374720",
   "in_reply_to_user_id" : 5186831,
-  "text" : "@lsegal RHOMBUSß",
+  "text" : "@lsegal RHOMBUS\u00DF",
   "id" : 104685922905374720,
   "in_reply_to_status_id" : 104681892875468800,
   "created_at" : "Fri Aug 19 22:47:23 +0000 2011",
@@ -4220,7 +4220,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/Ub1JJ0V",
       "expanded_url" : "http://24.media.tumblr.com/tumblr_lq3tuw2IGe1qkecs9o1_500.gif",
-      "display_url" : "24.media.tumblr.com/tumblr_lq3tuw2…"
+      "display_url" : "24.media.tumblr.com/tumblr_lq3tuw2\u2026"
     } ]
   },
   "geo" : {
@@ -4328,7 +4328,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 23, 42 ],
       "url" : "http://t.co/WiuUmMX",
       "expanded_url" : "http://www.youtube.com/watch?v=1gvMwCEdhCs",
-      "display_url" : "youtube.com/watch?v=1gvMwC…"
+      "display_url" : "youtube.com/watch?v=1gvMwC\u2026"
     } ]
   },
   "geo" : {
@@ -4356,7 +4356,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 41, 60 ],
       "url" : "http://t.co/vXZjVOk",
       "expanded_url" : "http://www.youtube.com/watch?v=ZffTZ-Qc-JU",
-      "display_url" : "youtube.com/watch?v=ZffTZ-…"
+      "display_url" : "youtube.com/watch?v=ZffTZ-\u2026"
     } ]
   },
   "geo" : {
@@ -4419,7 +4419,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/wJ4rrLl",
       "expanded_url" : "http://www.youtube.com/watch?v=dM76zgOQDD8",
-      "display_url" : "youtube.com/watch?v=dM76zg…"
+      "display_url" : "youtube.com/watch?v=dM76zg\u2026"
     } ]
   },
   "geo" : {
@@ -4680,7 +4680,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 116, 135 ],
       "url" : "http://t.co/zFSiCUr",
       "expanded_url" : "http://www.dotnetcurry.com/ShowArticle.aspx?ID=747",
-      "display_url" : "dotnetcurry.com/ShowArticle.as…"
+      "display_url" : "dotnetcurry.com/ShowArticle.as\u2026"
     } ]
   },
   "geo" : {
@@ -4714,7 +4714,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 36, 55 ],
       "url" : "http://t.co/0i7b8rc",
       "expanded_url" : "http://www.youtube.com/watch?NR=1&v=Y9Ajb4omtac",
-      "display_url" : "youtube.com/watch?NR=1&v=Y…"
+      "display_url" : "youtube.com/watch?NR=1&v=Y\u2026"
     } ]
   },
   "geo" : {
@@ -4742,7 +4742,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 25, 44 ],
       "url" : "http://t.co/Ktsq1r8",
       "expanded_url" : "http://www.youtube.com/watch?v=RF7kwv9UaGU&feature=youtu.be",
-      "display_url" : "youtube.com/watch?v=RF7kwv…"
+      "display_url" : "youtube.com/watch?v=RF7kwv\u2026"
     } ]
   },
   "geo" : {
@@ -4878,7 +4878,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 20, 39 ],
       "url" : "http://t.co/E39fID2",
       "expanded_url" : "https://img.skitch.com/20110818-kb6jr1rfijf4d8wr8wt3pc414m.png",
-      "display_url" : "img.skitch.com/20110818-kb6jr…"
+      "display_url" : "img.skitch.com/20110818-kb6jr\u2026"
     } ]
   },
   "geo" : {
@@ -4906,7 +4906,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/slLQIjh",
       "expanded_url" : "http://i.i.com.com/cnwk.1d/i/tim/2010/11/03/Jesse-Thornhill008.jpg",
-      "display_url" : "i.i.com.com/cnwk.1d/i/tim/…"
+      "display_url" : "i.i.com.com/cnwk.1d/i/tim/\u2026"
     } ]
   },
   "geo" : {
@@ -4957,7 +4957,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/zPMwR37",
       "expanded_url" : "http://www.bestweekever.tv/bwe/images/2010/02/CAPYBARA-READING-GLASSES.jpg",
-      "display_url" : "bestweekever.tv/bwe/images/201…"
+      "display_url" : "bestweekever.tv/bwe/images/201\u2026"
     } ]
   },
   "geo" : {
@@ -5213,7 +5213,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 0, 7 ],
       "id_str" : "3928731",
@@ -5298,7 +5298,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 21, 33 ],
       "id_str" : "15294983",
@@ -5310,7 +5310,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 35, 54 ],
       "url" : "http://t.co/BbxYuPO",
       "expanded_url" : "http://www.youtube.com/watch?v=gMnG3gOqigE",
-      "display_url" : "youtube.com/watch?v=gMnG3g…"
+      "display_url" : "youtube.com/watch?v=gMnG3g\u2026"
     } ]
   },
   "geo" : {
@@ -5338,7 +5338,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/Iw881nE",
       "expanded_url" : "http://digi-6.com/archives/51754179.html",
-      "display_url" : "digi-6.com/archives/51754…"
+      "display_url" : "digi-6.com/archives/51754\u2026"
     } ]
   },
   "geo" : {
@@ -5372,7 +5372,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 13, 32 ],
       "url" : "http://t.co/mEcmU04",
       "expanded_url" : "http://www.layoutlounge.com/Images/Thanks_For_The_Add/images/borat-sexy-time.jpg",
-      "display_url" : "layoutlounge.com/Images/Thanks_…"
+      "display_url" : "layoutlounge.com/Images/Thanks_\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "103582241929699328",
@@ -5451,7 +5451,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/pjMj84X",
       "expanded_url" : "http://thechive.files.wordpress.com/2010/03/steve-jobs-food-41-e1269449029590.jpg",
-      "display_url" : "thechive.files.wordpress.com/2010/03/steve-…"
+      "display_url" : "thechive.files.wordpress.com/2010/03/steve-\u2026"
     } ]
   },
   "geo" : {
@@ -5826,12 +5826,12 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 59, 78 ],
       "url" : "http://t.co/aHNJR9C",
       "expanded_url" : "https://img.skitch.com/20110816-k7cj9nya8wa9q55td6mct6wwty.png",
-      "display_url" : "img.skitch.com/20110816-k7cj9…"
+      "display_url" : "img.skitch.com/20110816-k7cj9\u2026"
     }, {
       "indices" : [ 79, 98 ],
       "url" : "http://t.co/Pf20jmz",
       "expanded_url" : "http://rubycraft.org/map/#/291/64/11/-3/mcmapNormal",
-      "display_url" : "rubycraft.org/map/#/291/64/1…"
+      "display_url" : "rubycraft.org/map/#/291/64/1\u2026"
     } ]
   },
   "geo" : {
@@ -5853,7 +5853,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Salmerón",
+      "name" : "Daniel Salmer\u00F3n",
       "screen_name" : "daniel_amselem",
       "indices" : [ 0, 15 ],
       "id_str" : "2965501",
@@ -5931,17 +5931,12 @@ Grailbird.data.tweets_2011_08 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "103200159973916672",
   "geo" : {
   },
   "id_str" : "103203068883124224",
-  "in_reply_to_user_id" : 241407370,
   "text" : "@egtann actually most @thoughtbot folks use vim, even the designers. surprise!",
   "id" : 103203068883124224,
-  "in_reply_to_status_id" : 103200159973916672,
   "created_at" : "Mon Aug 15 20:35:03 +0000 2011",
-  "in_reply_to_screen_name" : "evt",
-  "in_reply_to_user_id_str" : "241407370",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -5995,7 +5990,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 35, 54 ],
       "url" : "http://t.co/HCZH8UV",
       "expanded_url" : "http://www.youtube.com/watch?v=hTRjIdoblAA",
-      "display_url" : "youtube.com/watch?v=hTRjId…"
+      "display_url" : "youtube.com/watch?v=hTRjId\u2026"
     } ]
   },
   "geo" : {
@@ -6091,7 +6086,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 27, 46 ],
       "url" : "http://t.co/Lyn6813",
       "expanded_url" : "http://robots.thoughtbot.com/post/8954362596/font-battle-2011",
-      "display_url" : "robots.thoughtbot.com/post/895436259…"
+      "display_url" : "robots.thoughtbot.com/post/895436259\u2026"
     } ]
   },
   "geo" : {
@@ -6137,7 +6132,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 65, 84 ],
       "url" : "http://t.co/lH9LdYl",
       "expanded_url" : "http://mattt.me/2011/08/empathy-and-open-source",
-      "display_url" : "mattt.me/2011/08/empath…"
+      "display_url" : "mattt.me/2011/08/empath\u2026"
     } ]
   },
   "geo" : {
@@ -6166,7 +6161,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 54, 73 ],
         "url" : "http://t.co/lH9LdYl",
         "expanded_url" : "http://mattt.me/2011/08/empathy-and-open-source",
-        "display_url" : "mattt.me/2011/08/empath…"
+        "display_url" : "mattt.me/2011/08/empath\u2026"
       } ]
     },
     "geo" : {
@@ -6180,7 +6175,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "mattt",
       "protected" : false,
       "id_str" : "35803",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/56611996/CRW_6133_2_2_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3573863306/5333c08eae9005dd7a8cdd478202c818_normal.jpeg",
       "id" : 35803,
       "verified" : false
     }
@@ -6209,7 +6204,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 33, 52 ],
       "url" : "http://t.co/fkdsci1",
       "expanded_url" : "http://penny-arcade.com/comic/2011/08/15",
-      "display_url" : "penny-arcade.com/comic/2011/08/…"
+      "display_url" : "penny-arcade.com/comic/2011/08/\u2026"
     } ]
   },
   "geo" : {
@@ -6299,7 +6294,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/E8iwy2K",
       "expanded_url" : "http://www.youtube.com/watch?v=bYwH4WrZhpY",
-      "display_url" : "youtube.com/watch?v=bYwH4W…"
+      "display_url" : "youtube.com/watch?v=bYwH4W\u2026"
     } ]
   },
   "geo" : {
@@ -6327,7 +6322,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 40, 59 ],
       "url" : "http://t.co/Uy1L21b",
       "expanded_url" : "http://www.youtube.com/watch?v=Uo5Rhn8zuPA",
-      "display_url" : "youtube.com/watch?v=Uo5Rhn…"
+      "display_url" : "youtube.com/watch?v=Uo5Rhn\u2026"
     } ]
   },
   "geo" : {
@@ -6383,7 +6378,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 86, 105 ],
       "url" : "http://t.co/nEPhmOc",
       "expanded_url" : "https://img.skitch.com/20110813-n3c382tq6br47e1pf92qyw6yww.png",
-      "display_url" : "img.skitch.com/20110813-n3c38…"
+      "display_url" : "img.skitch.com/20110813-n3c38\u2026"
     } ]
   },
   "geo" : {
@@ -6579,7 +6574,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 35, 54 ],
       "url" : "http://t.co/7CMh7hB",
       "expanded_url" : "http://robots.thoughtbot.com/post/8835133151/never-fear-traits-are-here",
-      "display_url" : "robots.thoughtbot.com/post/883513315…"
+      "display_url" : "robots.thoughtbot.com/post/883513315\u2026"
     } ]
   },
   "geo" : {
@@ -6641,7 +6636,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/xRlcKpX",
       "expanded_url" : "http://s3.amazonaws.com/wootsaleimages/Where_the_Wild_Parties_At_v8fDetail.png",
-      "display_url" : "s3.amazonaws.com/wootsaleimages…"
+      "display_url" : "s3.amazonaws.com/wootsaleimages\u2026"
     } ]
   },
   "geo" : {
@@ -6794,7 +6789,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 20, 39 ],
       "url" : "http://t.co/NuA5VSi",
       "expanded_url" : "http://malcolm816.com/_sites/youlaughyoulose/wp-content/uploads/2011/07/pug-eyes-derp.jpg",
-      "display_url" : "malcolm816.com/_sites/youlaug…"
+      "display_url" : "malcolm816.com/_sites/youlaug\u2026"
     } ]
   },
   "geo" : {
@@ -6822,7 +6817,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/0UcUuSZ",
       "expanded_url" : "http://chzderp.files.wordpress.com/2010/08/89980bd4-6b9e-42e1-a59e-7736d3abe135.jpg",
-      "display_url" : "chzderp.files.wordpress.com/2010/08/89980b…"
+      "display_url" : "chzderp.files.wordpress.com/2010/08/89980b\u2026"
     } ]
   },
   "geo" : {
@@ -6997,11 +6992,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 102035078993027072,
     "created_at" : "Fri Aug 12 15:13:53 +0000 2011",
     "user" : {
-      "name" : "kc grєєn",
-      "screen_name" : "barfcaptain",
+      "name" : "kc gr\u01DD\u01DDn",
+      "screen_name" : "kcgreenn",
       "protected" : false,
       "id_str" : "16522244",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3303586801/3d9b114a0ed52901ba18bfab6a75fd90_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000347311183/20520aa83707d183bcaf8290e60871d8_normal.jpeg",
       "id" : 16522244,
       "verified" : false
     }
@@ -7081,7 +7076,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "lsrc",
+      "name" : "LSRC",
       "screen_name" : "lsrc",
       "indices" : [ 0, 5 ],
       "id_str" : "14221735",
@@ -7147,7 +7142,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rich Dwnie",
+      "name" : "Ri\uF8FFh Downie",
       "screen_name" : "richdownie",
       "indices" : [ 0, 11 ],
       "id_str" : "10774712",
@@ -7250,7 +7245,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/KHd5jl7",
       "expanded_url" : "http://30.media.tumblr.com/tumblr_lpow2aDTS51qz9bwro1_500.jpg",
-      "display_url" : "30.media.tumblr.com/tumblr_lpow2aD…"
+      "display_url" : "30.media.tumblr.com/tumblr_lpow2aD\u2026"
     } ]
   },
   "geo" : {
@@ -7295,7 +7290,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -7448,7 +7443,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "14555937",
       "id" : 14555937
     }, {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 67, 73 ],
       "id_str" : "6815762",
@@ -7516,7 +7511,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "❺➠ David Copeland",
+      "name" : "\u277A\u27A0 David Copeland",
       "screen_name" : "davetron5000",
       "indices" : [ 0, 13 ],
       "id_str" : "5660222",
@@ -7561,7 +7556,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 39, 58 ],
       "url" : "http://t.co/7UWoeHb",
       "expanded_url" : "http://www.youtube.com/watch?v=9osaA68xMts",
-      "display_url" : "youtube.com/watch?v=9osaA6…"
+      "display_url" : "youtube.com/watch?v=9osaA6\u2026"
     } ]
   },
   "geo" : {
@@ -7822,7 +7817,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 21, 40 ],
       "url" : "http://t.co/hr7qteZ",
       "expanded_url" : "http://www.phpied.com/files/location-location/location-location.html",
-      "display_url" : "phpied.com/files/location…"
+      "display_url" : "phpied.com/files/location\u2026"
     } ]
   },
   "geo" : {
@@ -7941,7 +7936,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 78, 97 ],
       "url" : "http://t.co/UCSFTWI",
       "expanded_url" : "https://img.skitch.com/20110810-1x6q5bm84uxc1w3wrr47nkup4s.png",
-      "display_url" : "img.skitch.com/20110810-1x6q5…"
+      "display_url" : "img.skitch.com/20110810-1x6q5\u2026"
     } ]
   },
   "geo" : {
@@ -8106,7 +8101,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 25, 44 ],
       "url" : "http://t.co/PoJEq0Y",
       "expanded_url" : "http://www.youtube.com/watch?v=I-dCkEa4rGU",
-      "display_url" : "youtube.com/watch?v=I-dCkE…"
+      "display_url" : "youtube.com/watch?v=I-dCkE\u2026"
     } ]
   },
   "geo" : {
@@ -8123,7 +8118,7 @@ Grailbird.data.tweets_2011_08 =
         "indices" : [ 8, 27 ],
         "url" : "http://t.co/PoJEq0Y",
         "expanded_url" : "http://www.youtube.com/watch?v=I-dCkEa4rGU",
-        "display_url" : "youtube.com/watch?v=I-dCkE…"
+        "display_url" : "youtube.com/watch?v=I-dCkE\u2026"
       } ]
     },
     "geo" : {
@@ -8133,11 +8128,11 @@ Grailbird.data.tweets_2011_08 =
     "id" : 101069338655735808,
     "created_at" : "Tue Aug 09 23:16:22 +0000 2011",
     "user" : {
-      "name" : "rap game gorgeous",
-      "screen_name" : "rapgamegorgeous",
+      "name" : "HELLSTAR IN THE CUT",
+      "screen_name" : "hellstarfantasy",
       "protected" : false,
       "id_str" : "16516351",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2624616521/uf0jeqrc0zyeiy6z7lh6_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000252621794/bd36c34f7dcc9c905ec46f19a60443d8_normal.png",
       "id" : 16516351,
       "verified" : false
     }
@@ -8344,7 +8339,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 0, 6 ],
       "id_str" : "6815762",
@@ -8625,7 +8620,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "moonmaster9000",
       "protected" : false,
       "id_str" : "14391298",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1759209845/fcc22623cf4eb7713bd20ac9ea573c37_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261567469295/7aaefdfaa226cbe768f5dd475b3aa665_normal.jpeg",
       "id" : 14391298,
       "verified" : false
     }
@@ -8759,7 +8754,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/2QpA2Us",
       "expanded_url" : "http://images.cheezburger.com/completestore/2011/1/25/576f4777-b9c3-4639-9f42-e20320677028.jpg",
-      "display_url" : "images.cheezburger.com/completestore/…"
+      "display_url" : "images.cheezburger.com/completestore/\u2026"
     } ]
   },
   "geo" : {
@@ -9009,7 +9004,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/RdVtoe4",
       "expanded_url" : "http://resenhista.deviantart.com/art/How-to-get-into-Mordor-251356004",
-      "display_url" : "resenhista.deviantart.com/art/How-to-get…"
+      "display_url" : "resenhista.deviantart.com/art/How-to-get\u2026"
     } ]
   },
   "geo" : {
@@ -9213,7 +9208,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "jody alkema",
+      "name" : "alkema",
       "screen_name" : "alkema",
       "indices" : [ 0, 7 ],
       "id_str" : "14938996",
@@ -9265,7 +9260,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 28, 47 ],
       "url" : "http://t.co/eWm4jIt",
       "expanded_url" : "http://www.rubyinside.com/gemcutter-a-fast-and-easy-approach-to-ruby-gem-hosting-2281.html",
-      "display_url" : "rubyinside.com/gemcutter-a-fa…"
+      "display_url" : "rubyinside.com/gemcutter-a-fa\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "99911163105648640",
@@ -9580,7 +9575,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "839931",
       "id" : 839931
     }, {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 118, 125 ],
       "id_str" : "3928731",
@@ -9620,7 +9615,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 116, 135 ],
       "url" : "http://t.co/XzYzuMv",
       "expanded_url" : "http://blog.teambox.com/raised-by-the-valley",
-      "display_url" : "blog.teambox.com/raised-by-the-…"
+      "display_url" : "blog.teambox.com/raised-by-the-\u2026"
     } ]
   },
   "geo" : {
@@ -9694,7 +9689,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 94, 113 ],
       "url" : "http://t.co/J8JLf4N",
       "expanded_url" : "https://lh6.googleusercontent.com/-MQt9iGQVdYc/TgGVyb-rhhI/AAAAAAAACjY/ve8GTSzwPnY/Oprahs-Bees.gif",
-      "display_url" : "lh6.googleusercontent.com/-MQt9iGQVdYc/T…"
+      "display_url" : "lh6.googleusercontent.com/-MQt9iGQVdYc/T\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "99236289328582656",
@@ -9898,7 +9893,7 @@ Grailbird.data.tweets_2011_08 =
       "id_str" : "654773",
       "id" : 654773
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 101, 115 ],
       "id_str" : "10293122",
@@ -10098,7 +10093,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/LMJfId8",
       "expanded_url" : "http://www.arkive.org/capybara/hydrochoerus-hydrochaeris/video-09a.html",
-      "display_url" : "arkive.org/capybara/hydro…"
+      "display_url" : "arkive.org/capybara/hydro\u2026"
     } ]
   },
   "geo" : {
@@ -10266,7 +10261,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/W2Z1YqZ",
       "expanded_url" : "http://www.youtube.com/watch?v=ZS_6-IwMPjM",
-      "display_url" : "youtube.com/watch?v=ZS_6-I…"
+      "display_url" : "youtube.com/watch?v=ZS_6-I\u2026"
     } ]
   },
   "geo" : {
@@ -10317,7 +10312,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 26, 45 ],
       "url" : "http://t.co/9SaBoxZ",
       "expanded_url" : "http://www.youtube.com/watch?v=qpl5mOAXNl4&feature=feedu",
-      "display_url" : "youtube.com/watch?v=qpl5mO…"
+      "display_url" : "youtube.com/watch?v=qpl5mO\u2026"
     } ]
   },
   "geo" : {
@@ -10509,7 +10504,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 64, 83 ],
       "url" : "http://t.co/UfhW5R5",
       "expanded_url" : "http://helablog.com/2011/07/cremate-your-loved-ones-then-pack-them-into-bullets/",
-      "display_url" : "helablog.com/2011/07/cremat…"
+      "display_url" : "helablog.com/2011/07/cremat\u2026"
     } ]
   },
   "geo" : {
@@ -10580,7 +10575,7 @@ Grailbird.data.tweets_2011_08 =
   "id_str" : "98085079200448512",
   "text" : "RT @shellscape: http://lockerz.com/s/125697419 ie 2.0 running on winnt 4.0 - thats what google.com looks like",
   "retweeted_status" : {
-    "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+    "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10598,7 +10593,7 @@ Grailbird.data.tweets_2011_08 =
       "screen_name" : "shellscape",
       "protected" : false,
       "id_str" : "16134710",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2504794830/o21t5zvngp8kpa8wg2f1_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000107743574/d4308cb407d67f892b8c3b99a1fd1d2d_normal.jpeg",
       "id" : 16134710,
       "verified" : false
     }
@@ -10624,7 +10619,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/97fCm7z",
       "expanded_url" : "https://img.skitch.com/20110801-n5sy32mfmw9ir4tw3h6c7y21bx.png",
-      "display_url" : "img.skitch.com/20110801-n5sy3…"
+      "display_url" : "img.skitch.com/20110801-n5sy3\u2026"
     } ]
   },
   "geo" : {
@@ -10646,7 +10641,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -10678,7 +10673,7 @@ Grailbird.data.tweets_2011_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 10, 20 ],
       "id_str" : "10230812",
@@ -10690,7 +10685,7 @@ Grailbird.data.tweets_2011_08 =
       "indices" : [ 22, 41 ],
       "url" : "http://t.co/6WlmkeS",
       "expanded_url" : "https://github.com/josevalim/enginex",
-      "display_url" : "github.com/josevalim/engi…"
+      "display_url" : "github.com/josevalim/engi\u2026"
     } ]
   },
   "geo" : {

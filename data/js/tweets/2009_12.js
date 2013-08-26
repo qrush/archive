@@ -1115,8 +1115,8 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "elliottcable",
-      "screen_name" : "elliottcable",
+      "name" : "ELLIOTTCABLE",
+      "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 0, 13 ],
       "id_str" : "771681",
       "id" : 771681
@@ -1134,7 +1134,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 7079710043,
   "in_reply_to_status_id" : 7079603457,
   "created_at" : "Sun Dec 27 03:57:03 +0000 2009",
-  "in_reply_to_screen_name" : "elliottcable",
+  "in_reply_to_screen_name" : "ELLIOTTCABLE",
   "in_reply_to_user_id_str" : "771681",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1858,7 +1858,7 @@ Grailbird.data.tweets_2009_12 =
   "id" : 6942864665,
   "in_reply_to_status_id" : 6941470335,
   "created_at" : "Tue Dec 22 21:51:11 +0000 2009",
-  "in_reply_to_screen_name" : "expertdan",
+  "in_reply_to_screen_name" : "ExpertDan",
   "in_reply_to_user_id_str" : "17566946",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1970,7 +1970,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "5692572",
       "id" : 5692572
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 9, 23 ],
       "id_str" : "10293122",
@@ -3943,7 +3943,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 0, 7 ],
       "id_str" : "7516242",
@@ -4708,7 +4708,7 @@ Grailbird.data.tweets_2009_12 =
       "id_str" : "43388542",
       "id" : 43388542
     }, {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 14, 21 ],
       "id_str" : "369604063",
@@ -5042,7 +5042,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -5253,7 +5253,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "cyross",
+      "name" : "\u30B5\u30A4\u30ED\u30B9@\u51AC\u30B3\u30DF\u7533\u3057\u8FBC\u307F\u3060\u3093",
       "screen_name" : "cyross",
       "indices" : [ 0, 7 ],
       "id_str" : "7955532",
@@ -5316,11 +5316,11 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 3, 11 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     }, {
       "name" : "Yehuda Katz",
       "screen_name" : "wycats",
@@ -5358,7 +5358,7 @@ Grailbird.data.tweets_2009_12 =
     "created_at" : "Fri Dec 04 22:37:32 +0000 2009",
     "user" : {
       "name" : "Matt Aimonetti",
-      "screen_name" : "merbist",
+      "screen_name" : "mattetti",
       "protected" : false,
       "id_str" : "16476741",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/1616353546/matt_aimonetti_portait_2011_sq400_normal.jpg",
@@ -5788,7 +5788,7 @@ Grailbird.data.tweets_2009_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aslak Hellesøy",
+      "name" : "Aslak Helles\u00F8y",
       "screen_name" : "aslak_hellesoy",
       "indices" : [ 3, 18 ],
       "id_str" : "4994591",
@@ -5817,7 +5817,7 @@ Grailbird.data.tweets_2009_12 =
     "id" : 6283168156,
     "created_at" : "Wed Dec 02 22:23:18 +0000 2009",
     "user" : {
-      "name" : "Aslak Hellesøy",
+      "name" : "Aslak Helles\u00F8y",
       "screen_name" : "aslak_hellesoy",
       "protected" : false,
       "id_str" : "4994591",
@@ -6186,11 +6186,11 @@ Grailbird.data.tweets_2009_12 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     }, {
       "name" : "SD Ruby",
       "screen_name" : "sdruby",
@@ -6209,7 +6209,7 @@ Grailbird.data.tweets_2009_12 =
   "text" : "@merbist @sdruby cool! will video/audio be available of the talks?",
   "id" : 6241607015,
   "created_at" : "Tue Dec 01 17:46:03 +0000 2009",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",

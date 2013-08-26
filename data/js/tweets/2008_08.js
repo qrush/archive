@@ -765,7 +765,13 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -793,7 +799,13 @@ Grailbird.data.tweets_2008_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3371,7 +3383,7 @@ Grailbird.data.tweets_2008_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",

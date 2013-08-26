@@ -859,7 +859,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -1150,7 +1150,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2237,7 +2237,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "ProgMagazineUK",
       "protected" : false,
       "id_str" : "24894216",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3157624697/94e837a0a7a8bbf5dd224d4706a22f0b_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000115172206/fbd2af60a726155cd36628594e76d9f7_normal.jpeg",
       "id" : 24894216,
       "verified" : false
     }
@@ -2314,7 +2314,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 4, 11 ],
       "id_str" : "7516242",
@@ -3401,7 +3401,7 @@ Grailbird.data.tweets_2010_12 =
       "id_str" : "16195791",
       "id" : 16195791
     }, {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 96, 105 ],
       "id_str" : "14658472",
@@ -4187,7 +4187,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 0, 7 ],
       "id_str" : "3928731",
@@ -4580,7 +4580,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -4694,7 +4694,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 3, 12 ],
       "id_str" : "14658472",
@@ -4735,7 +4735,7 @@ Grailbird.data.tweets_2010_12 =
     "id" : 13944133068521472,
     "created_at" : "Sun Dec 12 13:11:55 +0000 2010",
     "user" : {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "protected" : false,
       "id_str" : "14658472",
@@ -4876,7 +4876,7 @@ Grailbird.data.tweets_2010_12 =
   },
   "id_str" : "13806637294813184",
   "in_reply_to_user_id" : 6980232,
-  "text" : "@ubuwaits THE GAME IS AFOOTß",
+  "text" : "@ubuwaits THE GAME IS AFOOT\u00DF",
   "id" : 13806637294813184,
   "in_reply_to_status_id" : 13805872551567361,
   "created_at" : "Sun Dec 12 04:05:33 +0000 2010",
@@ -4998,11 +4998,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
-      "screen_name" : "IselaMariaPhoto",
+      "name" : "Melissa Clayton",
+      "screen_name" : "iselamariaphoto",
       "indices" : [ 0, 16 ],
-      "id_str" : "97983286",
-      "id" : 97983286
+      "id_str" : "1398636018",
+      "id" : 1398636018
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5017,7 +5017,7 @@ Grailbird.data.tweets_2010_12 =
   "id" : 13637191552991232,
   "in_reply_to_status_id" : 13602873350815744,
   "created_at" : "Sat Dec 11 16:52:14 +0000 2010",
-  "in_reply_to_screen_name" : "IselaMariaPhoto",
+  "in_reply_to_screen_name" : "melissadclayton",
   "in_reply_to_user_id_str" : "97983286",
   "user" : {
     "name" : "Nick Quaranto",
@@ -5502,7 +5502,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -5542,7 +5542,7 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eloy Durán",
+      "name" : "Eloy Dur\u00E1n",
       "screen_name" : "alloy",
       "indices" : [ 0, 6 ],
       "id_str" : "12459132",
@@ -5612,11 +5612,11 @@ Grailbird.data.tweets_2010_12 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5631,7 +5631,7 @@ Grailbird.data.tweets_2010_12 =
   "id" : 12119844568694784,
   "in_reply_to_status_id" : 12038607946653696,
   "created_at" : "Tue Dec 07 12:22:50 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6106,7 +6106,7 @@ Grailbird.data.tweets_2010_12 =
       "screen_name" : "fikri_rahman",
       "protected" : false,
       "id_str" : "33422007",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2873589661/011a0dbb1dc951f5c50cb6263f90acf2_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3564570503/e18b7d5ac9def48c4fdf32b93d5d1ecf_normal.jpeg",
       "id" : 33422007,
       "verified" : false
     }

@@ -414,7 +414,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2185,7 +2185,7 @@ Grailbird.data.tweets_2009_07 =
   },
   "id_str" : "2761656131",
   "in_reply_to_user_id" : 6817252,
-  "text" : "@hardbap \"If you’re interested in hiring thoughtbot, use the form below or email us at info@thoughtbot.com.\"",
+  "text" : "@hardbap \"If you\u2019re interested in hiring thoughtbot, use the form below or email us at info@thoughtbot.com.\"",
   "id" : 2761656131,
   "created_at" : "Tue Jul 21 17:43:04 +0000 2009",
   "in_reply_to_screen_name" : "hardbap",
@@ -3802,7 +3802,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -3966,7 +3966,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -4410,8 +4410,8 @@ Grailbird.data.tweets_2009_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "elliottcable",
-      "screen_name" : "elliottcable",
+      "name" : "ELLIOTTCABLE",
+      "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 0, 13 ],
       "id_str" : "771681",
       "id" : 771681
@@ -4429,7 +4429,7 @@ Grailbird.data.tweets_2009_07 =
   "id" : 2491996065,
   "in_reply_to_status_id" : 2491394376,
   "created_at" : "Mon Jul 06 03:59:16 +0000 2009",
-  "in_reply_to_screen_name" : "elliottcable",
+  "in_reply_to_screen_name" : "ELLIOTTCABLE",
   "in_reply_to_user_id_str" : "771681",
   "user" : {
     "name" : "Nick Quaranto",
@@ -4490,7 +4490,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -4545,7 +4545,7 @@ Grailbird.data.tweets_2009_07 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",

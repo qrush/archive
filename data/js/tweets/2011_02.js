@@ -214,7 +214,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 15, 29 ],
       "id_str" : "10293122",
@@ -1166,7 +1166,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicolás Hock Isaza",
+      "name" : "Nicol\u00E1s Hock Isaza",
       "screen_name" : "nhocki",
       "indices" : [ 0, 7 ],
       "id_str" : "85498700",
@@ -1364,7 +1364,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/UCp3du9",
       "expanded_url" : "http://blog.websolr.com/post/3505903537/rubygems-search-upgrade-1",
-      "display_url" : "blog.websolr.com/post/350590353…"
+      "display_url" : "blog.websolr.com/post/350590353\u2026"
     } ]
   },
   "geo" : {
@@ -1751,6 +1751,12 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 0, 9 ],
       "id_str" : "14464631",
       "id" : 14464631
+    }, {
+      "name" : "Erik Hollensbe",
+      "screen_name" : "erikhollensbe",
+      "indices" : [ 10, 24 ],
+      "id_str" : "1497113923",
+      "id" : 1497113923
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2620,7 +2626,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 63, 82 ],
       "url" : "http://t.co/nFs3dIZ",
       "expanded_url" : "https://github.com/rubygems/rubygems/commit/e4d04e2d728f813325433890c0a8af7fd4fa6be3",
-      "display_url" : "github.com/rubygems/rubyg…"
+      "display_url" : "github.com/rubygems/rubyg\u2026"
     } ]
   },
   "geo" : {
@@ -2637,7 +2643,7 @@ Grailbird.data.tweets_2011_02 =
         "indices" : [ 47, 66 ],
         "url" : "http://t.co/nFs3dIZ",
         "expanded_url" : "https://github.com/rubygems/rubygems/commit/e4d04e2d728f813325433890c0a8af7fd4fa6be3",
-        "display_url" : "github.com/rubygems/rubyg…"
+        "display_url" : "github.com/rubygems/rubyg\u2026"
       } ]
     },
     "geo" : {
@@ -2651,7 +2657,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "joshfrench",
       "protected" : false,
       "id_str" : "19110970",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2163716426/medium_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3705733024/2dfe172e8f46e85fe5cce4174c1a564c_normal.jpeg",
       "id" : 19110970,
       "verified" : false
     }
@@ -2842,7 +2848,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "capotej",
       "protected" : false,
       "id_str" : "8898642",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2767483955/16a7c4355cf2301ac1f255a14b48aee9_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000336375562/16a7c4355cf2301ac1f255a14b48aee9_normal.png",
       "id" : 8898642,
       "verified" : false
     }
@@ -2925,11 +2931,11 @@ Grailbird.data.tweets_2011_02 =
       "id_str" : "823615",
       "id" : 823615
     }, {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 11, 19 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -3156,7 +3162,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "flargh",
       "protected" : false,
       "id_str" : "2960721",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3158472438/19dfd477f0078547bd5192735404d8f5_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000252978411/778c93aa2ff45ff336b41df1ca987df2_normal.jpeg",
       "id" : 2960721,
       "verified" : false
     }
@@ -3258,7 +3264,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -3435,7 +3441,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -3586,7 +3592,7 @@ Grailbird.data.tweets_2011_02 =
       "indices" : [ 51, 70 ],
       "url" : "http://t.co/yG0UM5H",
       "expanded_url" : "https://market.android.com/details?id=com.zynga.words",
-      "display_url" : "market.android.com/details?id=com…"
+      "display_url" : "market.android.com/details?id=com\u2026"
     } ]
   },
   "geo" : {
@@ -3603,7 +3609,7 @@ Grailbird.data.tweets_2011_02 =
         "indices" : [ 35, 54 ],
         "url" : "http://t.co/yG0UM5H",
         "expanded_url" : "https://market.android.com/details?id=com.zynga.words",
-        "display_url" : "market.android.com/details?id=com…"
+        "display_url" : "market.android.com/details?id=com\u2026"
       } ]
     },
     "geo" : {
@@ -3617,7 +3623,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "jnunemaker",
       "protected" : false,
       "id_str" : "4243",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2940724141/b3a021685cf0aa5005d8d8c3dfad51a8_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000266433548/6e34db5f3772613eb5909e4d580b664e_normal.jpeg",
       "id" : 4243,
       "verified" : false
     }
@@ -4675,7 +4681,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 0, 6 ],
       "id_str" : "6815762",
@@ -4811,7 +4817,7 @@ Grailbird.data.tweets_2011_02 =
       "screen_name" : "Croaky",
       "protected" : false,
       "id_str" : "787595",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2973205483/196a315da749f16cd294f0870e14853a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3478041871/e95ba84623ac1eb393e62c934940c4f9_normal.jpeg",
       "id" : 787595,
       "verified" : false
     }
@@ -5033,7 +5039,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -5141,7 +5147,7 @@ Grailbird.data.tweets_2011_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -5156,7 +5162,7 @@ Grailbird.data.tweets_2011_02 =
   },
   "id_str" : "33569426435481600",
   "in_reply_to_user_id" : 15294983,
-  "text" : "@doctorzaius PLEASE STAND CLEAR OF THE DOORS. POR FAVOR MANTÉNGANSE ALEJADO DE LAS PUERTAS.",
+  "text" : "@doctorzaius PLEASE STAND CLEAR OF THE DOORS. POR FAVOR MANT\u00C9NGANSE ALEJADO DE LAS PUERTAS.",
   "id" : 33569426435481600,
   "in_reply_to_status_id" : 33568256988024832,
   "created_at" : "Fri Feb 04 16:55:49 +0000 2011",

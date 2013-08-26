@@ -1853,7 +1853,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3212,7 +3218,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -3633,7 +3639,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4126,7 +4138,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paweł Szymczykowski",
+      "name" : "Pawe\u0142 Szymczykowski",
       "screen_name" : "makenai",
       "indices" : [ 0, 8 ],
       "id_str" : "4569381",
@@ -5118,7 +5130,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5227,7 +5245,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -5993,7 +6011,7 @@ Grailbird.data.tweets_2008_05 =
   "geo" : {
   },
   "id_str" : "812186243",
-  "text" : "\"..a high risk vulnerability in Safari that can be used to remotely steal local files from the user’s file system.\" Nice job Apple!",
+  "text" : "\"..a high risk vulnerability in Safari that can be used to remotely steal local files from the user\u2019s file system.\" Nice job Apple!",
   "id" : 812186243,
   "created_at" : "Thu May 15 18:57:58 +0000 2008",
   "user" : {
@@ -6945,7 +6963,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paweł Szymczykowski",
+      "name" : "Pawe\u0142 Szymczykowski",
       "screen_name" : "makenai",
       "indices" : [ 0, 8 ],
       "id_str" : "4569381",
@@ -8567,24 +8585,19 @@ Grailbird.data.tweets_2008_05 =
       "name" : "thanks",
       "screen_name" : "thanks",
       "indices" : [ 0, 7 ],
-      "id_str" : "4643011",
-      "id" : 4643011
+      "id_str" : "787405086",
+      "id" : 787405086
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "28297271",
   "geo" : {
   },
   "id_str" : "806128154",
-  "in_reply_to_user_id" : 4643011,
   "text" : "@Thanks! I think I do too.",
   "id" : 806128154,
-  "in_reply_to_status_id" : 28297271,
   "created_at" : "Thu May 08 05:38:11 +0000 2008",
-  "in_reply_to_screen_name" : "thanks",
-  "in_reply_to_user_id_str" : "4643011",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -8983,7 +8996,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://code.google.com/p/wittytwitter/\" rel=\"nofollow\">Witty</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paisano®",
+      "name" : "Paisano\u00AE",
       "screen_name" : "Paisano",
       "indices" : [ 0, 8 ],
       "id_str" : "5658202",
@@ -9182,7 +9195,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://code.google.com/p/wittytwitter/\" rel=\"nofollow\">Witty</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10054,7 +10073,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DerikWhittaker",
+      "name" : "Derik Whittaker",
       "screen_name" : "DerikWhittaker",
       "indices" : [ 0, 15 ],
       "id_str" : "14342157",
@@ -10088,7 +10107,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DerikWhittaker",
+      "name" : "Derik Whittaker",
       "screen_name" : "DerikWhittaker",
       "indices" : [ 0, 15 ],
       "id_str" : "14342157",
@@ -10121,7 +10140,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -10393,7 +10418,7 @@ Grailbird.data.tweets_2008_05 =
   "id" : 804634061,
   "in_reply_to_status_id" : 804632630,
   "created_at" : "Tue May 06 12:48:25 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -12076,7 +12101,7 @@ Grailbird.data.tweets_2008_05 =
   "geo" : {
   },
   "id_str" : "802299162",
-  "text" : "From @jeresig: This pub has a drink called ruby on rails: gin, strawberry syrup, and rosé. After two I can confirm that RoR scales well.",
+  "text" : "From @jeresig: This pub has a drink called ruby on rails: gin, strawberry syrup, and ros\u00E9. After two I can confirm that RoR scales well.",
   "id" : 802299162,
   "created_at" : "Sat May 03 00:49:32 +0000 2008",
   "user" : {
@@ -12125,7 +12150,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -12153,7 +12184,13 @@ Grailbird.data.tweets_2008_05 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -13058,7 +13095,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Grigsby, ☁4",
+      "name" : "Jason Grigsby, \u26014",
       "screen_name" : "grigs",
       "indices" : [ 0, 6 ],
       "id_str" : "5774462",
@@ -13092,7 +13129,7 @@ Grailbird.data.tweets_2008_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jason Grigsby, ☁4",
+      "name" : "Jason Grigsby, \u26014",
       "screen_name" : "grigs",
       "indices" : [ 0, 6 ],
       "id_str" : "5774462",

@@ -914,7 +914,7 @@ Grailbird.data.tweets_2008_07 =
   "geo" : {
   },
   "id_str" : "868325064",
-  "text" : "The New Facebook: At least it's not MySpace!™",
+  "text" : "The New Facebook: At least it's not MySpace!\u2122",
   "id" : 868325064,
   "created_at" : "Fri Jul 25 17:59:13 +0000 2008",
   "user" : {
@@ -2998,7 +2998,7 @@ Grailbird.data.tweets_2008_07 =
       "id_str" : "5278561",
       "id" : 5278561
     }, {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 17, 24 ],
       "id_str" : "6118872",
@@ -3616,7 +3616,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Dave Winer ☮",
+      "name" : "Dave Winer \u262E",
       "screen_name" : "davewiner",
       "indices" : [ 0, 10 ],
       "id_str" : "3839",
@@ -3775,7 +3775,13 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3849,7 +3855,13 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5017,7 +5029,13 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5726,7 +5744,13 @@ Grailbird.data.tweets_2008_07 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -6627,7 +6651,7 @@ Grailbird.data.tweets_2008_07 =
       "id_str" : "822451266",
       "id" : 822451266
     }, {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 20, 27 ],
       "id_str" : "6118872",
@@ -6662,7 +6686,7 @@ Grailbird.data.tweets_2008_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",

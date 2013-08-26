@@ -245,7 +245,7 @@ Grailbird.data.tweets_2009_06 =
   },
   "id_str" : "2392254269",
   "in_reply_to_user_id" : 937561,
-  "text" : "@jm I think a \"✓ Deceased Account\" would be even creepier and sad.",
+  "text" : "@jm I think a \"\u2713 Deceased Account\" would be even creepier and sad.",
   "id" : 2392254269,
   "in_reply_to_status_id" : 2392203940,
   "created_at" : "Mon Jun 29 19:44:20 +0000 2009",
@@ -1936,7 +1936,7 @@ Grailbird.data.tweets_2009_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -3364,7 +3364,7 @@ Grailbird.data.tweets_2009_06 =
   "geo" : {
   },
   "id_str" : "1995609682",
-  "text" : "\"So this is why I’m writing a web framework in C.\" http://bit.ly/UqRA3\n #fail",
+  "text" : "\"So this is why I\u2019m writing a web framework in C.\" http://bit.ly/UqRA3\n #fail",
   "id" : 1995609682,
   "created_at" : "Mon Jun 01 20:45:55 +0000 2009",
   "user" : {

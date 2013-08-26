@@ -3,7 +3,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -37,7 +37,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -218,7 +218,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "benlovell",
+      "name" : "Ben Lovell",
       "screen_name" : "benlovell",
       "indices" : [ 0, 10 ],
       "id_str" : "10941182",
@@ -652,7 +652,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Build Doctor",
+      "name" : "Julian Simpson",
       "screen_name" : "builddoctor",
       "indices" : [ 0, 12 ],
       "id_str" : "60339361",
@@ -748,7 +748,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "4449066593",
-  "text" : "\"A guy at a party walks up to a pretty woman and says “Hi, I’m great in bed”. That’s direct marketing. A...\" http://tumblr.com/x173aowdl",
+  "text" : "\"A guy at a party walks up to a pretty woman and says \u201CHi, I\u2019m great in bed\u201D. That\u2019s direct marketing. A...\" http://tumblr.com/x173aowdl",
   "id" : 4449066593,
   "created_at" : "Mon Sep 28 18:25:00 +0000 2009",
   "user" : {
@@ -2065,7 +2065,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adamus Maximus",
+      "name" : "Adam Bair",
       "screen_name" : "adambair",
       "indices" : [ 127, 136 ],
       "id_str" : "10647472",
@@ -2802,7 +2802,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 40, 47 ],
       "id_str" : "659933",
@@ -3309,7 +3309,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "René Sprotte",
+      "name" : "Ren\u00E9 Sprotte",
       "screen_name" : "renspr",
       "indices" : [ 0, 7 ],
       "id_str" : "15015501",
@@ -4010,7 +4010,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3886636525",
-  "text" : "Video: Don’t copy that floppy…is back? http://tumblr.com/x1731u7ml",
+  "text" : "Video: Don\u2019t copy that floppy\u2026is back? http://tumblr.com/x1731u7ml",
   "id" : 3886636525,
   "created_at" : "Thu Sep 10 12:58:07 +0000 2009",
   "user" : {
@@ -4777,7 +4777,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3717888588",
-  "text" : "Video: darth vader being a jackass. via github’s maintenance page. http://tumblr.com/x172y33xw",
+  "text" : "Video: darth vader being a jackass. via github\u2019s maintenance page. http://tumblr.com/x172y33xw",
   "id" : 3717888588,
   "created_at" : "Wed Sep 02 20:15:07 +0000 2009",
   "user" : {
@@ -4842,7 +4842,7 @@ Grailbird.data.tweets_2009_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -4986,7 +4986,7 @@ Grailbird.data.tweets_2009_09 =
   "geo" : {
   },
   "id_str" : "3688637769",
-  "text" : "Video: Lots of people hate Wind Waker, but it’s one of my favorite Zelda games. http://tumblr.com/x172xg19k",
+  "text" : "Video: Lots of people hate Wind Waker, but it\u2019s one of my favorite Zelda games. http://tumblr.com/x172xg19k",
   "id" : 3688637769,
   "created_at" : "Tue Sep 01 13:59:48 +0000 2009",
   "user" : {

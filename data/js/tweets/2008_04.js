@@ -185,7 +185,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1865,7 +1871,7 @@ Grailbird.data.tweets_2008_04 =
       "id_str" : "14237677",
       "id" : 14237677
     }, {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 66, 73 ],
       "id_str" : "6118872",
@@ -2508,7 +2514,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3912,7 +3924,7 @@ Grailbird.data.tweets_2008_04 =
   "geo" : {
   },
   "id_str" : "794586971",
-  "text" : "\"Yup. There’s straight, gay, and emacs.\" http://blog.xcski.com/2008/04/18/i-loled",
+  "text" : "\"Yup. There\u2019s straight, gay, and emacs.\" http://blog.xcski.com/2008/04/18/i-loled",
   "id" : 794586971,
   "created_at" : "Tue Apr 22 20:46:00 +0000 2008",
   "user" : {
@@ -5163,7 +5175,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -5873,7 +5891,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 791316542,
   "in_reply_to_status_id" : 791298557,
   "created_at" : "Thu Apr 17 19:24:45 +0000 2008",
-  "in_reply_to_screen_name" : "digg_updates",
+  "in_reply_to_screen_name" : "DiggSupport",
   "in_reply_to_user_id_str" : "14334532",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6756,7 +6774,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -7875,7 +7893,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -8012,7 +8030,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "getitdoneguy",
+      "name" : "Stever Robbins",
       "screen_name" : "GetItDoneGuy",
       "indices" : [ 0, 13 ],
       "id_str" : "6548932",
@@ -8136,7 +8154,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8289,7 +8313,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 0, 14 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -8701,7 +8731,7 @@ Grailbird.data.tweets_2008_04 =
       "id_str" : "10266282",
       "id" : 10266282
     }, {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 14, 21 ],
       "id_str" : "6118872",
@@ -10009,11 +10039,11 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Leah Jones",
+      "name" : "Leah jones",
       "screen_name" : "LeahJones",
       "indices" : [ 0, 10 ],
-      "id_str" : "60351198",
-      "id" : 60351198
+      "id_str" : "1539609079",
+      "id" : 1539609079
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -11185,7 +11215,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 0, 16 ],
       "id_str" : "8091602",
@@ -12321,7 +12351,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -12389,7 +12419,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Meg Fowler Tripp",
+      "name" : "Meg Fowler",
       "screen_name" : "megfowler",
       "indices" : [ 0, 10 ],
       "id_str" : "19223008",
@@ -13153,7 +13183,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 785721295,
   "in_reply_to_status_id" : 785721272,
   "created_at" : "Wed Apr 09 12:28:51 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -13301,7 +13331,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 785221625,
   "in_reply_to_status_id" : 785214708,
   "created_at" : "Tue Apr 08 18:05:00 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -13650,7 +13680,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 784576952,
   "in_reply_to_status_id" : 784576802,
   "created_at" : "Mon Apr 07 19:02:49 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -13684,7 +13714,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 784569001,
   "in_reply_to_status_id" : 784567245,
   "created_at" : "Mon Apr 07 18:48:42 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -14798,7 +14828,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "barcamproc",
@@ -15375,7 +15411,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -15985,7 +16027,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kabren",
+      "name" : "duckren",
       "screen_name" : "Kabren",
       "indices" : [ 0, 7 ],
       "id_str" : "772796",
@@ -17570,7 +17612,7 @@ Grailbird.data.tweets_2008_04 =
   "id" : 781742957,
   "in_reply_to_status_id" : 781740020,
   "created_at" : "Wed Apr 02 21:40:20 +0000 2008",
-  "in_reply_to_screen_name" : "BillyFairchild",
+  "in_reply_to_screen_name" : "FAIRCHILDIII",
   "in_reply_to_user_id_str" : "11204662",
   "user" : {
     "name" : "Nick Quaranto",
@@ -18018,7 +18060,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -18692,7 +18734,7 @@ Grailbird.data.tweets_2008_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Morten Højer Jensen",
+      "name" : "Morten H\u00F8jer Jensen",
       "screen_name" : "obstructionist",
       "indices" : [ 0, 15 ],
       "id_str" : "324298080",
@@ -19221,7 +19263,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "<a href=\"http://www.twhirl.org/\" rel=\"nofollow\">twhirl</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -19249,7 +19297,13 @@ Grailbird.data.tweets_2008_04 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

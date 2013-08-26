@@ -144,7 +144,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "25809963",
       "id" : 25809963
     }, {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 22, 29 ],
       "id_str" : "7516242",
@@ -275,8 +275,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.091958, -77.650445 ]
   },
   "id_str" : "13106015329",
   "text" : "I'm at MacGregors' Grill & Tap Room (300 Jefferson Rd, Rochester). http://4sq.com/6hNKyN",
@@ -335,7 +333,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -403,8 +401,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086044, -77.6579897 ]
   },
   "id_str" : "13014514948",
   "text" : "Super Mario Crossover. Play the original as other characters. http://www.playedonline.com/game/598161/super-mario-crossover.html",
@@ -428,8 +424,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838152, -77.6787977 ]
   },
   "id_str" : "12964936172",
   "text" : "\"Greenfield development of Revenue Generating Product\" RECRUITER FAIL",
@@ -595,8 +589,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.091205681, -77.6566243172 ]
   },
   "id_str" : "12915746687",
   "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
@@ -702,7 +694,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12880252838",
-  "text" : "Video: “He’s my brother” http://tumblr.com/x1793uhgu",
+  "text" : "Video: \u201CHe\u2019s my brother\u201D http://tumblr.com/x1793uhgu",
   "id" : 12880252838,
   "created_at" : "Mon Apr 26 12:36:28 +0000 2010",
   "user" : {
@@ -803,8 +795,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0877582207, -77.6072502136 ]
   },
   "id_str" : "12847049327",
   "text" : "I'm at Five Guys Burgers & Fries (1100 Jefferson Rd, Rochester). http://4sq.com/cgW4od",
@@ -874,8 +864,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0920831853, -77.6566457748 ]
   },
   "id_str" : "12788417939",
   "text" : "I'm at Wok With You (300 Park Point Drive Suite 110, Rochester). http://4sq.com/4Hn3Y1",
@@ -922,8 +910,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0569706, -77.65742 ]
   },
   "id_str" : "12736930925",
   "text" : "Loved the signs Sabres fans were holding: \"2010 Boston Massacre\"",
@@ -947,8 +933,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0565787, -77.6571461 ]
   },
   "id_str" : "12731565026",
   "text" : "2-0 sabres after the first period...feeling too familiar...",
@@ -972,8 +956,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0570466, -77.6575122 ]
   },
   "id_str" : "12729641040",
   "text" : "Cmon Sabres!",
@@ -1118,8 +1100,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0839305, -77.6757852 ]
   },
   "id_str" : "12672740761",
   "text" : "Wow. Pathetic. http://www.southparkstudios.com/news/3878",
@@ -1590,8 +1570,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0836828, -77.6790269 ]
   },
   "id_str" : "12541460356",
   "text" : "THANKS RIT GMAIL, FORGETTING MY EMAIL FORWARDING SETTINGS FOR THE THIRD TIME",
@@ -1724,8 +1702,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0835931, -77.6766164 ]
   },
   "id_str" : "12475519518",
   "text" : "Well, I found my source to read for this week. http://github.com/rtomayko/rpg",
@@ -1749,8 +1725,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0835931, -77.6766164 ]
   },
   "id_str" : "12473801022",
   "text" : "Humans vs. Zombies has started again on campus. I've always wanted to go rogue and just start nailing everyone with nerf darts.",
@@ -1799,7 +1773,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : {
   },
   "id_str" : "12457542283",
-  "text" : "\"I’m not a real programmer. I throw together things until it works then I move on. The real programmers...\" http://tumblr.com/x178timd0",
+  "text" : "\"I\u2019m not a real programmer. I throw together things until it works then I move on. The real programmers...\" http://tumblr.com/x178timd0",
   "id" : 12457542283,
   "created_at" : "Mon Apr 19 14:09:58 +0000 2010",
   "user" : {
@@ -1947,7 +1921,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "721053",
       "id" : 721053
     }, {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 101, 108 ],
       "id_str" : "369604063",
@@ -1976,7 +1950,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 0, 7 ],
       "id_str" : "369604063",
@@ -2097,8 +2071,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.095383, -77.581175 ]
   },
   "id_str" : "12317746344",
   "text" : "I'm at The Distillery (3010 Winton Road South, Rochester). http://4sq.com/5z6Ase",
@@ -2220,7 +2192,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14945269",
       "id" : 14945269
     }, {
-      "name" : "Adamus Maximus",
+      "name" : "Adam Bair",
       "screen_name" : "adambair",
       "indices" : [ 11, 20 ],
       "id_str" : "10647472",
@@ -2694,7 +2666,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2790,8 +2762,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0847456, -77.6792726 ]
   },
   "id_str" : "12187756892",
   "text" : "For those coming to their defense: There's really no excuse. They've had coop experience. They're just fucking lazy.",
@@ -3453,8 +3423,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3694429, -83.468968 ]
   },
   "id_str" : "11970222827",
   "text" : "I'm at box bar & grill (777 W Ann Arbor Trl, btw Main & Deer, Plymouth). http://4sq.com/839aDi",
@@ -3501,8 +3469,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3401, -83.045337 ]
   },
   "id_str" : "11959010738",
   "text" : "I'm at Ford Field (2000 Brush St, Detroit) w/ 8 others. http://4sq.com/5TDFy4",
@@ -3560,8 +3526,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3584, -83.062 ]
   },
   "id_str" : "11948406705",
   "text" : "I'm at Detroit Science Center (5020 John R. Road, Woodward Ave., Detroit). http://4sq.com/8hwqmw",
@@ -4170,7 +4134,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Eustáquio Rangel",
+      "name" : "Eust\u00E1quio Rangel",
       "screen_name" : "taq",
       "indices" : [ 0, 4 ],
       "id_str" : "8524192",
@@ -4312,7 +4276,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "elvo86",
       "protected" : false,
       "id_str" : "14183391",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1599458594/170622_1536472496105_1363620080_31170655_6412283_o_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3442367011/af7d126fcb057a5052d21e42d0c0faee_normal.jpeg",
       "id" : 14183391,
       "verified" : false
     }
@@ -4617,8 +4581,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0893157, -77.657079 ]
   },
   "id_str" : "11563832340",
   "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
@@ -4654,8 +4616,6 @@ Grailbird.data.tweets_2010_04 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0893157, -77.657079 ]
   },
   "id_str" : "11563831911",
   "text" : "I just ousted @stickylipgloss as the mayor of TC Riley's on @foursquare! http://4sq.com/6QibLZ",
@@ -5138,7 +5098,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "14246143",
       "id" : 14246143
     }, {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 8, 15 ],
       "id_str" : "7516242",
@@ -5350,11 +5310,11 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Melissa",
-      "screen_name" : "IselaMariaPhoto",
+      "name" : "Melissa Clayton",
+      "screen_name" : "iselamariaphoto",
       "indices" : [ 0, 16 ],
-      "id_str" : "97983286",
-      "id" : 97983286
+      "id_str" : "1398636018",
+      "id" : 1398636018
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5369,7 +5329,7 @@ Grailbird.data.tweets_2010_04 =
   "id" : 11462740836,
   "in_reply_to_status_id" : 11462526642,
   "created_at" : "Fri Apr 02 04:12:48 +0000 2010",
-  "in_reply_to_screen_name" : "IselaMariaPhoto",
+  "in_reply_to_screen_name" : "melissadclayton",
   "in_reply_to_user_id_str" : "97983286",
   "user" : {
     "name" : "Nick Quaranto",

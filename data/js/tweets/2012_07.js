@@ -268,7 +268,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "230276517765206016",
   "in_reply_to_user_id" : 138065190,
-  "text" : "@stevestreeting didn’t you mean, .IsNullOrEmpty ? *shudder* *dry heave*",
+  "text" : "@stevestreeting didn\u2019t you mean, .IsNullOrEmpty ? *shudder* *dry heave*",
   "id" : 230276517765206016,
   "in_reply_to_status_id" : 230273545647833088,
   "created_at" : "Tue Jul 31 12:19:34 +0000 2012",
@@ -446,7 +446,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "eddie cianci 〰",
+      "name" : "eddie cianci \u3030",
       "screen_name" : "defeated",
       "indices" : [ 0, 9 ],
       "id_str" : "784974",
@@ -461,7 +461,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "230127798805737473",
   "in_reply_to_user_id" : 784974,
-  "text" : "@defeated thanks! I’m not sure if it’s worth adding more deps into Rails though.",
+  "text" : "@defeated thanks! I\u2019m not sure if it\u2019s worth adding more deps into Rails though.",
   "id" : 230127798805737473,
   "in_reply_to_status_id" : 230123486083969024,
   "created_at" : "Tue Jul 31 02:28:37 +0000 2012",
@@ -498,7 +498,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 111, 131 ],
       "url" : "http://t.co/AR2ox6vD",
       "expanded_url" : "http://www.meetup.com/Western-New-York-Ruby/events/74599322/",
-      "display_url" : "meetup.com/Western-New-Yo…"
+      "display_url" : "meetup.com/Western-New-Yo\u2026"
     } ]
   },
   "geo" : {
@@ -858,7 +858,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 84, 104 ],
       "url" : "http://t.co/FaDat3kI",
       "expanded_url" : "http://www.youtube.com/watch?v=v5Lmkm5EF5E",
-      "display_url" : "youtube.com/watch?v=v5Lmkm…"
+      "display_url" : "youtube.com/watch?v=v5Lmkm\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "230069016650199040",
@@ -1315,7 +1315,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 80, 100 ],
       "url" : "http://t.co/VIqUv7OL",
       "expanded_url" : "http://jessewolgamott.com/blog/2012/07/30/rubyoffrails-scholarship-for-women/",
-      "display_url" : "jessewolgamott.com/blog/2012/07/3…"
+      "display_url" : "jessewolgamott.com/blog/2012/07/3\u2026"
     } ]
   },
   "geo" : {
@@ -1501,7 +1501,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "229802578119127040",
   "in_reply_to_user_id" : 727813,
-  "text" : "@stevelosh I…need to try this.",
+  "text" : "@stevelosh I\u2026need to try this.",
   "id" : 229802578119127040,
   "in_reply_to_status_id" : 229799891143102464,
   "created_at" : "Mon Jul 30 04:56:18 +0000 2012",
@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 85, 105 ],
       "url" : "http://t.co/BkFQyXwt",
       "expanded_url" : "http://www.teamusa.org/Athletes/RH/Kimberly-Rhode.aspx",
-      "display_url" : "teamusa.org/Athletes/RH/Ki…"
+      "display_url" : "teamusa.org/Athletes/RH/Ki\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "229714892360388608",
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "229324418592157699",
   "in_reply_to_user_id" : 809685,
-  "text" : "@garybernhardt Go’s exception handling is kind of like that. Very neat.",
+  "text" : "@garybernhardt Go\u2019s exception handling is kind of like that. Very neat.",
   "id" : 229324418592157699,
   "in_reply_to_status_id" : 229323716272738304,
   "created_at" : "Sat Jul 28 21:16:16 +0000 2012",
@@ -2200,7 +2200,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2215,7 +2215,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "229006196248567808",
   "in_reply_to_user_id" : 10293122,
-  "text" : "@joshuaclayton haha what?! Haven’t been watching but we’re gonna play tonight",
+  "text" : "@joshuaclayton haha what?! Haven\u2019t been watching but we\u2019re gonna play tonight",
   "id" : 229006196248567808,
   "in_reply_to_status_id" : 229004628170248192,
   "created_at" : "Sat Jul 28 00:11:46 +0000 2012",
@@ -2379,11 +2379,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kc grєєn",
+      "name" : "Alan Smithee",
       "screen_name" : "barfcaptain",
       "indices" : [ 3, 15 ],
-      "id_str" : "16522244",
-      "id" : 16522244
+      "id_str" : "1226873053",
+      "id" : 1226873053
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2418,11 +2418,11 @@ Grailbird.data.tweets_2012_07 =
     "id" : 228701677967011841,
     "created_at" : "Fri Jul 27 04:01:43 +0000 2012",
     "user" : {
-      "name" : "kc grєєn",
-      "screen_name" : "barfcaptain",
+      "name" : "kc gr\u01DD\u01DDn",
+      "screen_name" : "kcgreenn",
       "protected" : false,
       "id_str" : "16522244",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3303586801/3d9b114a0ed52901ba18bfab6a75fd90_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000347311183/20520aa83707d183bcaf8290e60871d8_normal.jpeg",
       "id" : 16522244,
       "verified" : false
     }
@@ -2738,7 +2738,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/dx9jWw0l",
       "expanded_url" : "http://www.youtube.com/watch?v=-w-58hQ9dLk",
-      "display_url" : "youtube.com/watch?v=-w-58h…"
+      "display_url" : "youtube.com/watch?v=-w-58h\u2026"
     } ]
   },
   "geo" : {
@@ -2766,7 +2766,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 43, 63 ],
       "url" : "http://t.co/9VZq7i4u",
       "expanded_url" : "http://clubhaus.tumblr.com/post/28066056569/buffalo-foodies-take-note-theres-a-new-food",
-      "display_url" : "clubhaus.tumblr.com/post/280660565…"
+      "display_url" : "clubhaus.tumblr.com/post/280660565\u2026"
     } ]
   },
   "geo" : {
@@ -2829,7 +2829,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "228545410497658880",
-  "text" : "\"The operation couldn’-t -b-e -c-o-m-p-l-e-t-e-d-. -(-A-S-H-T-T-P-C-o-n-n-e-c-t-i-o-n-E-r-r-o-r-D-o-m-a-i-n -e-r-r-o-r -4-0-0-.-)-\"",
+  "text" : "\"The operation couldn\u2019-t -b-e -c-o-m-p-l-e-t-e-d-. -(-A-S-H-T-T-P-C-o-n-n-e-c-t-i-o-n-E-r-r-o-r-D-o-m-a-i-n -e-r-r-o-r -4-0-0-.-)-\"",
   "id" : 228545410497658880,
   "created_at" : "Thu Jul 26 17:40:46 +0000 2012",
   "user" : {
@@ -2851,7 +2851,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 116, 136 ],
       "url" : "http://t.co/nyHULfZD",
       "expanded_url" : "http://brontecapital.blogspot.com/2012/07/changing-my-mind-on-microsoft.html",
-      "display_url" : "brontecapital.blogspot.com/2012/07/changi…"
+      "display_url" : "brontecapital.blogspot.com/2012/07/changi\u2026"
     } ]
   },
   "geo" : {
@@ -2919,13 +2919,13 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 110, 130 ],
       "url" : "http://t.co/oYCC7WUd",
       "expanded_url" : "http://www.codeofhonor.com/blog/the-making-of-warcraft-part-1",
-      "display_url" : "codeofhonor.com/blog/the-makin…"
+      "display_url" : "codeofhonor.com/blog/the-makin\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "228340219282337792",
-  "text" : "I love stories like this: The Making of Warcraft 1: Origin of the series &amp; creation of multi-unit select… http://t.co/oYCC7WUd",
+  "text" : "I love stories like this: The Making of Warcraft 1: Origin of the series &amp; creation of multi-unit select\u2026 http://t.co/oYCC7WUd",
   "id" : 228340219282337792,
   "created_at" : "Thu Jul 26 04:05:25 +0000 2012",
   "user" : {
@@ -2987,7 +2987,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 56, 76 ],
       "url" : "http://t.co/ipuCEFWA",
       "expanded_url" : "http://kottke.org/12/07/what-cricket-looks-like-to-americans",
-      "display_url" : "kottke.org/12/07/what-cri…"
+      "display_url" : "kottke.org/12/07/what-cri\u2026"
     } ]
   },
   "geo" : {
@@ -3004,7 +3004,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 38, 58 ],
         "url" : "http://t.co/ipuCEFWA",
         "expanded_url" : "http://kottke.org/12/07/what-cricket-looks-like-to-americans",
-        "display_url" : "kottke.org/12/07/what-cri…"
+        "display_url" : "kottke.org/12/07/what-cri\u2026"
       } ]
     },
     "geo" : {
@@ -3158,7 +3158,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "228308992718422017",
-  "text" : "Comic’s mom is in the audience…this is turrible.",
+  "text" : "Comic\u2019s mom is in the audience\u2026this is turrible.",
   "id" : 228308992718422017,
   "created_at" : "Thu Jul 26 02:01:20 +0000 2012",
   "user" : {
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "23830105",
       "id" : 23830105
     }, {
-      "name" : "(•_•) ( •_•) (⌐■_■)",
+      "name" : "Cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 11, 24 ],
       "id_str" : "14204623",
@@ -3279,7 +3279,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 25, 45 ],
       "url" : "http://t.co/Gn1eIWCF",
       "expanded_url" : "http://www.terravivos.com/images/vivosrockiesplans.pdf",
-      "display_url" : "terravivos.com/images/vivosro…"
+      "display_url" : "terravivos.com/images/vivosro\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "228218632398839809",
@@ -3306,7 +3306,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(•_•) ( •_•) (⌐■_■)",
+      "name" : "Cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 0, 13 ],
       "id_str" : "14204623",
@@ -3346,7 +3346,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 22, 42 ],
       "url" : "http://t.co/udSjg5J6",
       "expanded_url" : "http://www.reddit.com/r/dogs/comments/x3lxa/lets_ask_reddit_what_kind_of_dog_is_this/c5ixmzx",
-      "display_url" : "reddit.com/r/dogs/comment…"
+      "display_url" : "reddit.com/r/dogs/comment\u2026"
     } ]
   },
   "geo" : {
@@ -3443,7 +3443,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "228141004698566657",
-  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Stevie Wonder: Boogie On Reggae Woman ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Stevie Wonder: Boogie On Reggae Woman \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 228141004698566657,
   "created_at" : "Wed Jul 25 14:53:48 +0000 2012",
   "user" : {
@@ -3521,7 +3521,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mat “Wilto” Marquis",
+      "name" : "Mat \u201CWilto\u201D Marquis",
       "screen_name" : "wilto",
       "indices" : [ 3, 9 ],
       "id_str" : "12602932",
@@ -3539,7 +3539,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "228131475571228673",
-  "text" : "RT @wilto: ’Atta boy, Mumbles. ’Atta boy.\nhttp://t.co/wwOEZwq8",
+  "text" : "RT @wilto: \u2019Atta boy, Mumbles. \u2019Atta boy.\nhttp://t.co/wwOEZwq8",
   "retweeted_status" : {
     "source" : "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
     "entities" : {
@@ -3556,11 +3556,11 @@ Grailbird.data.tweets_2012_07 =
     "geo" : {
     },
     "id_str" : "228127420484567040",
-    "text" : "’Atta boy, Mumbles. ’Atta boy.\nhttp://t.co/wwOEZwq8",
+    "text" : "\u2019Atta boy, Mumbles. \u2019Atta boy.\nhttp://t.co/wwOEZwq8",
     "id" : 228127420484567040,
     "created_at" : "Wed Jul 25 13:59:50 +0000 2012",
     "user" : {
-      "name" : "Mat “Wilto” Marquis",
+      "name" : "Mat \u201CWilto\u201D Marquis",
       "screen_name" : "wilto",
       "protected" : false,
       "id_str" : "12602932",
@@ -3613,7 +3613,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 47, 67 ],
       "url" : "http://t.co/Z66myHJ1",
       "expanded_url" : "http://www.youtube.com/watch?v=5K1RcKJVbHA",
-      "display_url" : "youtube.com/watch?v=5K1RcK…"
+      "display_url" : "youtube.com/watch?v=5K1RcK\u2026"
     } ]
   },
   "geo" : {
@@ -3642,7 +3642,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "228123571476652034",
-  "text" : "I can’t stress enough how awesome TestFlight is. Why on earth can’t I pay for this?",
+  "text" : "I can\u2019t stress enough how awesome TestFlight is. Why on earth can\u2019t I pay for this?",
   "id" : 228123571476652034,
   "created_at" : "Wed Jul 25 13:44:32 +0000 2012",
   "user" : {
@@ -3688,7 +3688,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "227988039262150656",
-  "text" : "Concept proven, I’ll look into some more songs tomorrow…thanks for the suggestions so far!",
+  "text" : "Concept proven, I\u2019ll look into some more songs tomorrow\u2026thanks for the suggestions so far!",
   "id" : 227988039262150656,
   "created_at" : "Wed Jul 25 04:45:59 +0000 2012",
   "user" : {
@@ -3710,13 +3710,13 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 93, 113 ],
       "url" : "http://t.co/10UAxTfs",
       "expanded_url" : "http://www.youtube.com/watch?v=lwS_YDzxH3M",
-      "display_url" : "youtube.com/watch?v=lwS_YD…"
+      "display_url" : "youtube.com/watch?v=lwS_YD\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "227987735741353984",
-  "text" : "I’ve run out of steam, but here it goes: @rererepeat. Retweeting songs! First up, Yesterday. http://t.co/10UAxTfs",
+  "text" : "I\u2019ve run out of steam, but here it goes: @rererepeat. Retweeting songs! First up, Yesterday. http://t.co/10UAxTfs",
   "id" : 227987735741353984,
   "created_at" : "Wed Jul 25 04:44:46 +0000 2012",
   "user" : {
@@ -3787,7 +3787,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "227981196292915201",
   "in_reply_to_user_id" : 14500105,
-  "text" : "@Buffalogal oh it’s perfect.",
+  "text" : "@Buffalogal oh it\u2019s perfect.",
   "id" : 227981196292915201,
   "in_reply_to_status_id" : 227980085490233344,
   "created_at" : "Wed Jul 25 04:18:47 +0000 2012",
@@ -3893,7 +3893,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "227977769395580928",
-  "text" : "Crazy, stupid twitter idea brewing…what’s your favorite song?",
+  "text" : "Crazy, stupid twitter idea brewing\u2026what\u2019s your favorite song?",
   "id" : 227977769395580928,
   "created_at" : "Wed Jul 25 04:05:10 +0000 2012",
   "user" : {
@@ -3915,7 +3915,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 53, 73 ],
       "url" : "http://t.co/jvA9x9Pq",
       "expanded_url" : "http://www.jpl.nasa.gov/news/news.cfm?release=2012-217",
-      "display_url" : "jpl.nasa.gov/news/news.cfm?…"
+      "display_url" : "jpl.nasa.gov/news/news.cfm?\u2026"
     } ]
   },
   "geo" : {
@@ -4130,7 +4130,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 38, 58 ],
       "url" : "http://t.co/HmS1FR1O",
       "expanded_url" : "http://www.flickr.com/photos/nasamarshall/7637356614/in/photostream/",
-      "display_url" : "flickr.com/photos/nasamar…"
+      "display_url" : "flickr.com/photos/nasamar\u2026"
     } ]
   },
   "geo" : {
@@ -4158,7 +4158,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "72883",
       "id" : 72883
     }, {
-      "name" : "Chris Van Patten",
+      "name" : "Van Patten Media",
       "screen_name" : "vanpattenmedia",
       "indices" : [ 16, 31 ],
       "id_str" : "250462373",
@@ -4556,7 +4556,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 55, 76 ],
       "url" : "https://t.co/LxWu0NPf",
       "expanded_url" : "https://img.skitch.com/20120724-cbphebkf2i4we47bbtcuwu2bcs.png",
-      "display_url" : "img.skitch.com/20120724-cbphe…"
+      "display_url" : "img.skitch.com/20120724-cbphe\u2026"
     } ]
   },
   "geo" : {
@@ -4590,7 +4590,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 30, 50 ],
       "url" : "http://t.co/zDrneqsc",
       "expanded_url" : "http://3.bp.blogspot.com/_9Qcuj1qVI20/THPtYdIYPuI/AAAAAAAABIY/rPU180WKlEc/s1600/Moscow+Traffic+Jams.jpg",
-      "display_url" : "3.bp.blogspot.com/_9Qcuj1qVI20/T…"
+      "display_url" : "3.bp.blogspot.com/_9Qcuj1qVI20/T\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "227765319232520192",
@@ -4648,7 +4648,7 @@ Grailbird.data.tweets_2012_07 =
     "user" : {
       "name" : "Brian Quaranto",
       "screen_name" : "bquarant",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "183117429",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2469549385/jwmpg4abzrb5retg76v1_normal.jpeg",
       "id" : 183117429,
@@ -4713,7 +4713,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "227615834409938944",
   "in_reply_to_user_id" : 72883,
-  "text" : "@ChrisVanPatten same. If I need code to stick around, it’s in Git.",
+  "text" : "@ChrisVanPatten same. If I need code to stick around, it\u2019s in Git.",
   "id" : 227615834409938944,
   "in_reply_to_status_id" : 227615007519698945,
   "created_at" : "Tue Jul 24 04:06:58 +0000 2012",
@@ -4739,7 +4739,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "227614529448714241",
-  "text" : "Started on the kind of refactor that won’t stop rolling around my brain. Gemcutter’s indexer was similar…days of thought, plotting.",
+  "text" : "Started on the kind of refactor that won\u2019t stop rolling around my brain. Gemcutter\u2019s indexer was similar\u2026days of thought, plotting.",
   "id" : 227614529448714241,
   "created_at" : "Tue Jul 24 04:01:47 +0000 2012",
   "user" : {
@@ -4879,7 +4879,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 65, 85 ],
       "url" : "http://t.co/ZceJzxVT",
       "expanded_url" : "http://www.meetup.com/Western-New-York-Ruby/events/74599322/",
-      "display_url" : "meetup.com/Western-New-Yo…"
+      "display_url" : "meetup.com/Western-New-Yo\u2026"
     } ]
   },
   "geo" : {
@@ -4902,7 +4902,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 50, 70 ],
         "url" : "http://t.co/ZceJzxVT",
         "expanded_url" : "http://www.meetup.com/Western-New-York-Ruby/events/74599322/",
-        "display_url" : "meetup.com/Western-New-Yo…"
+        "display_url" : "meetup.com/Western-New-Yo\u2026"
       } ]
     },
     "geo" : {
@@ -5038,7 +5038,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "❺➠ David Copeland",
+      "name" : "\u277A\u27A0 David Copeland",
       "screen_name" : "davetron5000",
       "indices" : [ 0, 13 ],
       "id_str" : "5660222",
@@ -5164,7 +5164,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 57, 77 ],
       "url" : "http://t.co/tggOqThP",
       "expanded_url" : "http://allthingsd.com/20120723/silicon-snowbank-a-new-incubator-for-buffalo-to-give-local-start-ups-a-different-set-of-wings/",
-      "display_url" : "allthingsd.com/20120723/silic…"
+      "display_url" : "allthingsd.com/20120723/silic\u2026"
     } ]
   },
   "geo" : {
@@ -5201,7 +5201,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "227419503078825985",
-  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Common: The 6th Sense ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Common: The 6th Sense \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 227419503078825985,
   "created_at" : "Mon Jul 23 15:06:49 +0000 2012",
   "user" : {
@@ -5345,7 +5345,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -5392,7 +5392,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "227198919355035648",
-  "text" : "Hoping there’s a speedy recovery for @whereslloyd Uno. Maybe time for Tres?!",
+  "text" : "Hoping there\u2019s a speedy recovery for @whereslloyd Uno. Maybe time for Tres?!",
   "id" : 227198919355035648,
   "created_at" : "Mon Jul 23 00:30:18 +0000 2012",
   "user" : {
@@ -5438,7 +5438,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "226867804475887616",
-  "text" : "OH “We should get two cats and name them Herp and Derp”",
+  "text" : "OH \u201CWe should get two cats and name them Herp and Derp\u201D",
   "id" : 226867804475887616,
   "created_at" : "Sun Jul 22 02:34:34 +0000 2012",
   "user" : {
@@ -5556,7 +5556,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 66, 87 ],
       "url" : "https://t.co/kn8vq7jy",
       "expanded_url" : "https://groups.google.com/group/buffalo-opencoffee-club",
-      "display_url" : "groups.google.com/group/buffalo-…"
+      "display_url" : "groups.google.com/group/buffalo-\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "225962641871482882",
@@ -5564,7 +5564,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "226807653492486145",
   "in_reply_to_user_id" : 14308987,
-  "text" : "@deryldoucette welcome! We’ll be open Monday as normal. Check out https://t.co/kn8vq7jy too",
+  "text" : "@deryldoucette welcome! We\u2019ll be open Monday as normal. Check out https://t.co/kn8vq7jy too",
   "id" : 226807653492486145,
   "in_reply_to_status_id" : 225962641871482882,
   "created_at" : "Sat Jul 21 22:35:33 +0000 2012",
@@ -5651,7 +5651,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "226567784602161152",
   "in_reply_to_user_id" : 18787589,
-  "text" : "@bcardarella yep. Move to a doc for then. Value of wikis I think is more go anyone to update (gemcutter’s for example)",
+  "text" : "@bcardarella yep. Move to a doc for then. Value of wikis I think is more go anyone to update (gemcutter\u2019s for example)",
   "id" : 226567784602161152,
   "in_reply_to_status_id" : 226567224171831296,
   "created_at" : "Sat Jul 21 06:42:23 +0000 2012",
@@ -6074,7 +6074,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 119, 140 ],
         "url" : "https://t.co/iNrsdj0K",
         "expanded_url" : "https://twitter.com/lifehacker/statuses/223750237490126849",
-        "display_url" : "twitter.com/lifehacker/sta…"
+        "display_url" : "twitter.com/lifehacker/sta\u2026"
       } ]
     },
     "geo" : {
@@ -6123,7 +6123,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 72, 92 ],
       "url" : "http://t.co/TlVzlxs3",
       "expanded_url" : "http://www.meetup.com/Buffalo-Learning-to-Code/events/74179692/",
-      "display_url" : "meetup.com/Buffalo-Learni…"
+      "display_url" : "meetup.com/Buffalo-Learni\u2026"
     } ]
   },
   "geo" : {
@@ -6143,7 +6143,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 57, 77 ],
         "url" : "http://t.co/TlVzlxs3",
         "expanded_url" : "http://www.meetup.com/Buffalo-Learning-to-Code/events/74179692/",
-        "display_url" : "meetup.com/Buffalo-Learni…"
+        "display_url" : "meetup.com/Buffalo-Learni\u2026"
       } ]
     },
     "geo" : {
@@ -6276,11 +6276,11 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "62739421",
       "id" : 62739421
     }, {
-      "name" : "kc grєєn",
+      "name" : "Alan Smithee",
       "screen_name" : "barfcaptain",
       "indices" : [ 14, 26 ],
-      "id_str" : "16522244",
-      "id" : 16522244
+      "id_str" : "1226873053",
+      "id" : 1226873053
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6366,7 +6366,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -6378,7 +6378,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 10, 31 ],
       "url" : "https://t.co/zJYuGVJd",
       "expanded_url" : "https://www.youtube.com/watch?v=z_SQO3vv3p8",
-      "display_url" : "youtube.com/watch?v=z_SQO3…"
+      "display_url" : "youtube.com/watch?v=z_SQO3\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "226000816811671552",
@@ -6457,7 +6457,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 99, 119 ],
       "url" : "http://t.co/v10ShXdE",
       "expanded_url" : "http://therealzachanner.com/post/27478415830/announcing-riding-shotgun-riding-shotgun-is-a",
-      "display_url" : "therealzachanner.com/post/274784158…"
+      "display_url" : "therealzachanner.com/post/274784158\u2026"
     } ]
   },
   "geo" : {
@@ -6485,7 +6485,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/BqWG8YXV",
       "expanded_url" : "http://www.youtube.com/watch?v=1dCXR06fVwg",
-      "display_url" : "youtube.com/watch?v=1dCXR0…"
+      "display_url" : "youtube.com/watch?v=1dCXR0\u2026"
     } ]
   },
   "geo" : {
@@ -6522,7 +6522,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "225622806430363649",
-  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Dragonforce: Through The Fire And Flames ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Dragonforce: Through The Fire And Flames \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 225622806430363649,
   "created_at" : "Wed Jul 18 16:07:23 +0000 2012",
   "user" : {
@@ -6559,7 +6559,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "225580353019064321",
   "in_reply_to_user_id" : 3629961,
-  "text" : "@elise_huard @rmurphey they’re doing java/.net (or worse) and not giving a crap about anything else",
+  "text" : "@elise_huard @rmurphey they\u2019re doing java/.net (or worse) and not giving a crap about anything else",
   "id" : 225580353019064321,
   "in_reply_to_status_id" : 225507495551053824,
   "created_at" : "Wed Jul 18 13:18:41 +0000 2012",
@@ -6590,7 +6590,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 15, 35 ],
       "url" : "http://t.co/FaDat3kI",
       "expanded_url" : "http://www.youtube.com/watch?v=v5Lmkm5EF5E",
-      "display_url" : "youtube.com/watch?v=v5Lmkm…"
+      "display_url" : "youtube.com/watch?v=v5Lmkm\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "225436861206757376",
@@ -6753,7 +6753,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -6802,7 +6802,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "225397435021795330",
   "in_reply_to_user_id" : 12661,
-  "text" : "@therealadam haha, couldn’t think of a wittier name. Finally found a good and redundant setup with a harness for him.",
+  "text" : "@therealadam haha, couldn\u2019t think of a wittier name. Finally found a good and redundant setup with a harness for him.",
   "id" : 225397435021795330,
   "in_reply_to_status_id" : 225397063456800768,
   "created_at" : "Wed Jul 18 01:11:50 +0000 2012",
@@ -6908,7 +6908,7 @@ Grailbird.data.tweets_2012_07 =
     "user" : {
       "name" : "Brian Quaranto",
       "screen_name" : "bquarant",
-      "protected" : true,
+      "protected" : false,
       "id_str" : "183117429",
       "profile_image_url_https" : "https://si0.twimg.com/profile_images/2469549385/jwmpg4abzrb5retg76v1_normal.jpeg",
       "id" : 183117429,
@@ -7072,7 +7072,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/dGBfXv95",
       "expanded_url" : "http://www.classicdosgames.com/online/dforces1.html",
-      "display_url" : "classicdosgames.com/online/dforces…"
+      "display_url" : "classicdosgames.com/online/dforces\u2026"
     } ]
   },
   "geo" : {
@@ -7253,7 +7253,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/bOYBPcOc",
       "expanded_url" : "http://www.npr.org/blogs/thetwo-way/2012/07/17/156903711/boy-scouts-reaffirm-ban-on-open-gays-calls-it-absolutely-the-best-policy",
-      "display_url" : "npr.org/blogs/thetwo-w…"
+      "display_url" : "npr.org/blogs/thetwo-w\u2026"
     } ]
   },
   "geo" : {
@@ -7335,7 +7335,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "225242233820037121",
-  "text" : "DJing in the @CoworkBuffalo room. Come hang out! ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the @CoworkBuffalo room. Come hang out! \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 225242233820037121,
   "created_at" : "Tue Jul 17 14:55:08 +0000 2012",
   "user" : {
@@ -7386,7 +7386,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 33, 53 ],
       "url" : "http://t.co/djxNQboO",
       "expanded_url" : "http://cdn.arstechnica.net//wp-content/uploads/2012/07/install-office-15-1-e1342147462855-640x364.png",
-      "display_url" : "cdn.arstechnica.net//wp-content/up…"
+      "display_url" : "cdn.arstechnica.net//wp-content/up\u2026"
     } ]
   },
   "geo" : {
@@ -7414,7 +7414,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 71, 91 ],
       "url" : "http://t.co/HfjnNnpQ",
       "expanded_url" : "http://37signals.com/svn/posts/3207-the-office-2013-ui-as-captured-by-peter",
-      "display_url" : "37signals.com/svn/posts/3207…"
+      "display_url" : "37signals.com/svn/posts/3207\u2026"
     } ]
   },
   "geo" : {
@@ -7516,7 +7516,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 47, 67 ],
       "url" : "http://t.co/JCkCrfmZ",
       "expanded_url" : "http://github.com/rubygems/rubygems-mirror",
-      "display_url" : "github.com/rubygems/rubyg…"
+      "display_url" : "github.com/rubygems/rubyg\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "225237791179673600",
@@ -7588,7 +7588,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 54, 74 ],
       "url" : "http://t.co/wryYWMZs",
       "expanded_url" : "http://lists.w3.org/Archives/Public/ietf-http-wg/2012JulSep/0172.html",
-      "display_url" : "lists.w3.org/Archives/Publi…"
+      "display_url" : "lists.w3.org/Archives/Publi\u2026"
     } ]
   },
   "geo" : {
@@ -7845,7 +7845,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 105, 125 ],
       "url" : "http://t.co/FpSZfxQ2",
       "expanded_url" : "http://www.buffalorising.com/2012/07/dino-bbq-picks-franklin-street-location.html",
-      "display_url" : "buffalorising.com/2012/07/dino-b…"
+      "display_url" : "buffalorising.com/2012/07/dino-b\u2026"
     } ]
   },
   "geo" : {
@@ -7862,7 +7862,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 86, 106 ],
         "url" : "http://t.co/FpSZfxQ2",
         "expanded_url" : "http://www.buffalorising.com/2012/07/dino-bbq-picks-franklin-street-location.html",
-        "display_url" : "buffalorising.com/2012/07/dino-b…"
+        "display_url" : "buffalorising.com/2012/07/dino-b\u2026"
       } ]
     },
     "geo" : {
@@ -7982,7 +7982,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 91, 111 ],
       "url" : "http://t.co/o5Vk0LTG",
       "expanded_url" : "http://www.youtube.com/watch?v=oXTzFCXE66M&feature=player_embedded&utm_source=buffer&buffer_share=9e4e4",
-      "display_url" : "youtube.com/watch?v=oXTzFC…"
+      "display_url" : "youtube.com/watch?v=oXTzFC\u2026"
     } ]
   },
   "geo" : {
@@ -8005,7 +8005,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 78, 98 ],
         "url" : "http://t.co/o5Vk0LTG",
         "expanded_url" : "http://www.youtube.com/watch?v=oXTzFCXE66M&feature=player_embedded&utm_source=buffer&buffer_share=9e4e4",
-        "display_url" : "youtube.com/watch?v=oXTzFC…"
+        "display_url" : "youtube.com/watch?v=oXTzFC\u2026"
       } ]
     },
     "geo" : {
@@ -8147,7 +8147,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 39, 59 ],
       "url" : "http://t.co/sbqoLW7E",
       "expanded_url" : "http://ijailbreakcydia.com/now-you-can-access-tweetbots-super-secret-setting-on-iphone",
-      "display_url" : "ijailbreakcydia.com/now-you-can-ac…"
+      "display_url" : "ijailbreakcydia.com/now-you-can-ac\u2026"
     } ]
   },
   "geo" : {
@@ -8270,7 +8270,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 107, 127 ],
       "url" : "http://t.co/ZDg6GinY",
       "expanded_url" : "http://www.prweb.com/releases/2012/7/prweb9700048.htm",
-      "display_url" : "prweb.com/releases/2012/…"
+      "display_url" : "prweb.com/releases/2012/\u2026"
     } ]
   },
   "geo" : {
@@ -8302,7 +8302,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 94, 114 ],
         "url" : "http://t.co/ZDg6GinY",
         "expanded_url" : "http://www.prweb.com/releases/2012/7/prweb9700048.htm",
-        "display_url" : "prweb.com/releases/2012/…"
+        "display_url" : "prweb.com/releases/2012/\u2026"
       } ]
     },
     "geo" : {
@@ -8411,7 +8411,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "224874115662749696",
-  "text" : "Finally, my own hater! \"I can’t recall ever witnessing someone so unsure of himself speaking in my life.\" HATE HATE HATE HATE",
+  "text" : "Finally, my own hater! \"I can\u2019t recall ever witnessing someone so unsure of himself speaking in my life.\" HATE HATE HATE HATE",
   "id" : 224874115662749696,
   "created_at" : "Mon Jul 16 14:32:21 +0000 2012",
   "user" : {
@@ -8566,7 +8566,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 118, 138 ],
       "url" : "http://t.co/sCUFtSLx",
       "expanded_url" : "http://www.meetup.com/Buffalo-Learning-to-Code/",
-      "display_url" : "meetup.com/Buffalo-Learni…"
+      "display_url" : "meetup.com/Buffalo-Learni\u2026"
     } ]
   },
   "geo" : {
@@ -8583,7 +8583,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 99, 119 ],
         "url" : "http://t.co/sCUFtSLx",
         "expanded_url" : "http://www.meetup.com/Buffalo-Learning-to-Code/",
-        "display_url" : "meetup.com/Buffalo-Learni…"
+        "display_url" : "meetup.com/Buffalo-Learni\u2026"
       } ]
     },
     "geo" : {
@@ -8868,7 +8868,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 224688333706633216,
   "in_reply_to_status_id" : 224688204182323201,
   "created_at" : "Mon Jul 16 02:14:07 +0000 2012",
-  "in_reply_to_screen_name" : "KendrickVT",
+  "in_reply_to_screen_name" : "AdamBFerg",
   "in_reply_to_user_id_str" : "88489441",
   "user" : {
     "name" : "Nick Quaranto",
@@ -8895,7 +8895,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 67, 88 ],
       "url" : "https://t.co/3NXglqjP",
       "expanded_url" : "https://twitter.com/qrush/statuses/32557403161497600",
-      "display_url" : "twitter.com/qrush/statuses…"
+      "display_url" : "twitter.com/qrush/statuses\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "224686379563614209",
@@ -8956,7 +8956,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 46, 66 ],
       "url" : "http://t.co/nOOENSlY",
       "expanded_url" : "http://0xfe.blogspot.com/2006/03/using-spotlight-from-os-x-commandline.html",
-      "display_url" : "0xfe.blogspot.com/2006/03/using-…"
+      "display_url" : "0xfe.blogspot.com/2006/03/using-\u2026"
     } ]
   },
   "geo" : {
@@ -8978,11 +8978,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kc grєєn",
+      "name" : "Alan Smithee",
       "screen_name" : "barfcaptain",
       "indices" : [ 0, 12 ],
-      "id_str" : "16522244",
-      "id" : 16522244
+      "id_str" : "1226873053",
+      "id" : 1226873053
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -8997,7 +8997,7 @@ Grailbird.data.tweets_2012_07 =
   "id" : 224520720225550337,
   "in_reply_to_status_id" : 224519847160184832,
   "created_at" : "Sun Jul 15 15:08:05 +0000 2012",
-  "in_reply_to_screen_name" : "barfcaptain",
+  "in_reply_to_screen_name" : "kcgreenn",
   "in_reply_to_user_id_str" : "16522244",
   "user" : {
     "name" : "Nick Quaranto",
@@ -9012,11 +9012,11 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "kc grєєn",
+      "name" : "Alan Smithee",
       "screen_name" : "barfcaptain",
       "indices" : [ 0, 12 ],
-      "id_str" : "16522244",
-      "id" : 16522244
+      "id_str" : "1226873053",
+      "id" : 1226873053
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -9027,11 +9027,11 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "224520592920031233",
   "in_reply_to_user_id" : 16522244,
-  "text" : "@barfcaptain Piss’s Modern Life",
+  "text" : "@barfcaptain Piss\u2019s Modern Life",
   "id" : 224520592920031233,
   "in_reply_to_status_id" : 224519847160184832,
   "created_at" : "Sun Jul 15 15:07:35 +0000 2012",
-  "in_reply_to_screen_name" : "barfcaptain",
+  "in_reply_to_screen_name" : "kcgreenn",
   "in_reply_to_user_id_str" : "16522244",
   "user" : {
     "name" : "Nick Quaranto",
@@ -9219,7 +9219,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223992497678979072",
   "in_reply_to_user_id" : 15782607,
-  "text" : "@jordansissel You kick the parking booth! You hear a thunderous roar as the parking gate slams your car! Your insurance rate dies…",
+  "text" : "@jordansissel You kick the parking booth! You hear a thunderous roar as the parking gate slams your car! Your insurance rate dies\u2026",
   "id" : 223992497678979072,
   "in_reply_to_status_id" : 223991649360031744,
   "created_at" : "Sat Jul 14 04:09:07 +0000 2012",
@@ -9287,7 +9287,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223981649531117570",
   "in_reply_to_user_id" : 215818100,
-  "text" : "@sabre1041 you must…go deeper!",
+  "text" : "@sabre1041 you must\u2026go deeper!",
   "id" : 223981649531117570,
   "in_reply_to_status_id" : 223972085800771586,
   "created_at" : "Sat Jul 14 03:26:01 +0000 2012",
@@ -9888,7 +9888,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 117, 138 ],
       "url" : "https://t.co/RHmXFRD0",
       "expanded_url" : "https://github.com/AFNetworking/AFIncrementalStore",
-      "display_url" : "github.com/AFNetworking/A…"
+      "display_url" : "github.com/AFNetworking/A\u2026"
     } ]
   },
   "geo" : {
@@ -10019,7 +10019,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/Oek3j0oN",
       "expanded_url" : "http://pumpernick.com/item--Raisin-Scones--raisin_scones.html",
-      "display_url" : "pumpernick.com/item--Raisin-S…"
+      "display_url" : "pumpernick.com/item--Raisin-S\u2026"
     } ]
   },
   "geo" : {
@@ -10084,7 +10084,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223850827490656257",
   "in_reply_to_user_id" : 23703410,
-  "text" : "@magnachef go RM. If you don’t want to go native, just write a mobile web app. Titanium, etc feel like half assing it.",
+  "text" : "@magnachef go RM. If you don\u2019t want to go native, just write a mobile web app. Titanium, etc feel like half assing it.",
   "id" : 223850827490656257,
   "in_reply_to_status_id" : 223838461306744836,
   "created_at" : "Fri Jul 13 18:46:10 +0000 2012",
@@ -10307,7 +10307,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "jmazzi",
       "protected" : false,
       "id_str" : "15395778",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2209711796/twitter_normal.JPG",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000006347533/4eb94db4092818cc3c48df6ec62cfc1c_normal.jpeg",
       "id" : 15395778,
       "verified" : false
     }
@@ -10367,7 +10367,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 44, 64 ],
       "url" : "http://t.co/FZkr7z66",
       "expanded_url" : "http://37signals.com/svn/posts/3205-go-code-spelunking-with-me-in-the-all-new",
-      "display_url" : "37signals.com/svn/posts/3205…"
+      "display_url" : "37signals.com/svn/posts/3205\u2026"
     } ]
   },
   "geo" : {
@@ -10410,7 +10410,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 98, 118 ],
       "url" : "http://t.co/6cOC7eel",
       "expanded_url" : "http://confreaks.com/videos/910-railsconf2012-basecamp-next-code-spelunking",
-      "display_url" : "confreaks.com/videos/910-rai…"
+      "display_url" : "confreaks.com/videos/910-rai\u2026"
     } ]
   },
   "geo" : {
@@ -10436,7 +10436,7 @@ Grailbird.data.tweets_2012_07 =
         "indices" : [ 83, 103 ],
         "url" : "http://t.co/6cOC7eel",
         "expanded_url" : "http://confreaks.com/videos/910-railsconf2012-basecamp-next-code-spelunking",
-        "display_url" : "confreaks.com/videos/910-rai…"
+        "display_url" : "confreaks.com/videos/910-rai\u2026"
       } ]
     },
     "geo" : {
@@ -10485,7 +10485,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223801127634866176",
-  "text" : "This time, with an actual internet connection: Now playing The Notorious B.I.G.: Hypnotize ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "This time, with an actual internet connection: Now playing The Notorious B.I.G.: Hypnotize \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 223801127634866176,
   "created_at" : "Fri Jul 13 15:28:41 +0000 2012",
   "user" : {
@@ -10621,7 +10621,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223759477155962882",
   "in_reply_to_user_id" : 10855542,
-  "text" : "@dmacvicar That files’ use is deprecated entirely and is very out of date",
+  "text" : "@dmacvicar That files\u2019 use is deprecated entirely and is very out of date",
   "id" : 223759477155962882,
   "in_reply_to_status_id" : 223710018325852160,
   "created_at" : "Fri Jul 13 12:43:11 +0000 2012",
@@ -10667,7 +10667,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223758523933261824",
   "in_reply_to_user_id" : 5523,
-  "text" : "@pat @steveklabnik @peterc then it shouldn’t be called “open”",
+  "text" : "@pat @steveklabnik @peterc then it shouldn\u2019t be called \u201Copen\u201D",
   "id" : 223758523933261824,
   "in_reply_to_status_id" : 223672015951892480,
   "created_at" : "Fri Jul 13 12:39:23 +0000 2012",
@@ -10727,7 +10727,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223662836063289344",
-  "text" : "Instagram the app gets away with so much because it’s temporary by default.",
+  "text" : "Instagram the app gets away with so much because it\u2019s temporary by default.",
   "id" : 223662836063289344,
   "created_at" : "Fri Jul 13 06:19:10 +0000 2012",
   "user" : {
@@ -10872,7 +10872,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223649235634098176",
   "in_reply_to_user_id" : 22386062,
-  "text" : "@steveklabnik @peterc our guns can’t handle ego of this magnitude!",
+  "text" : "@steveklabnik @peterc our guns can\u2019t handle ego of this magnitude!",
   "id" : 223649235634098176,
   "in_reply_to_status_id" : 223649030486507522,
   "created_at" : "Fri Jul 13 05:25:07 +0000 2012",
@@ -10903,7 +10903,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223648636083507200",
-  "text" : "Even the title “Open Conference Expectations” reeks of self importance and lacks humility. Get over yourself. https://t.co/UB0HcgDo",
+  "text" : "Even the title \u201COpen Conference Expectations\u201D reeks of self importance and lacks humility. Get over yourself. https://t.co/UB0HcgDo",
   "id" : 223648636083507200,
   "created_at" : "Fri Jul 13 05:22:44 +0000 2012",
   "user" : {
@@ -10953,7 +10953,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin W. Gisi",
+      "name" : "Kevin Gisi",
       "screen_name" : "gisikw",
       "indices" : [ 0, 7 ],
       "id_str" : "14308739",
@@ -10974,7 +10974,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223635062720176128",
   "in_reply_to_user_id" : 14308739,
-  "text" : "@gisikw @peterc that’s the most whiny, prima-donna thing I’ve read in a long time.",
+  "text" : "@gisikw @peterc that\u2019s the most whiny, prima-donna thing I\u2019ve read in a long time.",
   "id" : 223635062720176128,
   "in_reply_to_status_id" : 223633139711479808,
   "created_at" : "Fri Jul 13 04:28:48 +0000 2012",
@@ -10993,7 +10993,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Travis Jeffery ",
+      "name" : "travis jeffery",
       "screen_name" : "travisjeffery",
       "indices" : [ 0, 14 ],
       "id_str" : "679103",
@@ -11095,7 +11095,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "223620495885615107",
   "in_reply_to_user_id" : 23703410,
-  "text" : "@magnachef and…zero tweets. Why don’t they get this twitter thing?",
+  "text" : "@magnachef and\u2026zero tweets. Why don\u2019t they get this twitter thing?",
   "id" : 223620495885615107,
   "in_reply_to_status_id" : 223619850881335297,
   "created_at" : "Fri Jul 13 03:30:55 +0000 2012",
@@ -11173,7 +11173,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 117, 137 ],
       "url" : "http://t.co/qReOmZmf",
       "expanded_url" : "http://oncoding.posterous.com/so-you-want-to-learn-to-code",
-      "display_url" : "oncoding.posterous.com/so-you-want-to…"
+      "display_url" : "oncoding.posterous.com/so-you-want-to\u2026"
     } ]
   },
   "geo" : {
@@ -11195,7 +11195,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vrunt",
+      "name" : "nate 'vrunt' lamagna",
       "screen_name" : "vrunt",
       "indices" : [ 0, 6 ],
       "id_str" : "15062828",
@@ -11337,7 +11337,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 11, 31 ],
       "url" : "http://t.co/vNfiOcl9",
       "expanded_url" : "http://penny-arcade.com/comic/2012/05/25",
-      "display_url" : "penny-arcade.com/comic/2012/05/…"
+      "display_url" : "penny-arcade.com/comic/2012/05/\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "223563811846750213",
@@ -11375,7 +11375,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 37, 57 ],
       "url" : "http://t.co/lDSWjW0f",
       "expanded_url" : "http://www.youtube.com/watch?v=MK6TXMsvgQg",
-      "display_url" : "youtube.com/watch?v=MK6TXM…"
+      "display_url" : "youtube.com/watch?v=MK6TXM\u2026"
     } ]
   },
   "geo" : {
@@ -11591,7 +11591,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223443018789830656",
-  "text" : "Totally in Tony Hawk 64 mode right now. Now playing: Goldfinger: Superman ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "Totally in Tony Hawk 64 mode right now. Now playing: Goldfinger: Superman \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 223443018789830656,
   "created_at" : "Thu Jul 12 15:45:41 +0000 2012",
   "user" : {
@@ -11619,7 +11619,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/NngBdjkC",
       "expanded_url" : "http://tf2chan.net/offtopic/src/129689446266.jpg",
-      "display_url" : "tf2chan.net/offtopic/src/1…"
+      "display_url" : "tf2chan.net/offtopic/src/1\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "223440099789115393",
@@ -11661,7 +11661,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223435164628426753",
-  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Gotye: Somebody That I Used To Know ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the CoworkBuffalo room. Come hang out. Now playing Gotye: Somebody That I Used To Know \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 223435164628426753,
   "created_at" : "Thu Jul 12 15:14:29 +0000 2012",
   "user" : {
@@ -11808,7 +11808,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vrunt",
+      "name" : "nate 'vrunt' lamagna",
       "screen_name" : "vrunt",
       "indices" : [ 0, 6 ],
       "id_str" : "15062828",
@@ -11879,7 +11879,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223280079596306432",
-  "text" : "Got a starship in Pocket Planes. Too costly to run at a profit so far…irony? http://t.co/QyjJ4PjZ",
+  "text" : "Got a starship in Pocket Planes. Too costly to run at a profit so far\u2026irony? http://t.co/QyjJ4PjZ",
   "id" : 223280079596306432,
   "created_at" : "Thu Jul 12 04:58:14 +0000 2012",
   "user" : {
@@ -12004,7 +12004,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "223237005704826880",
-  "text" : "Got completely lost at ORD. Sprinted 2 terminals and outside twice. Said fuck to a TSA officer. Boarded now…what a day.",
+  "text" : "Got completely lost at ORD. Sprinted 2 terminals and outside twice. Said fuck to a TSA officer. Boarded now\u2026what a day.",
   "id" : 223237005704826880,
   "created_at" : "Thu Jul 12 02:07:04 +0000 2012",
   "user" : {
@@ -12192,7 +12192,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 32, 52 ],
       "url" : "http://t.co/k0lo7L3i",
       "expanded_url" : "http://youoffendmeyouoffendmyfamily.com/wordpress/wp-content/uploads/2010/03/Monster-Truck-City-Show.jpg",
-      "display_url" : "youoffendmeyouoffendmyfamily.com/wordpress/wp-c…"
+      "display_url" : "youoffendmeyouoffendmyfamily.com/wordpress/wp-c\u2026"
     } ]
   },
   "geo" : {
@@ -12334,7 +12334,7 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "267895957",
       "id" : 267895957
     }, {
-      "name" : "(•_•) ( •_•) (⌐■_■)",
+      "name" : "Cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 24, 37 ],
       "id_str" : "14204623",
@@ -12352,7 +12352,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 57, 78 ],
       "url" : "https://t.co/dKs9xvE5",
       "expanded_url" : "https://twitter.com/#!/search/realtime/bob%20segar",
-      "display_url" : "twitter.com/#!/search/real…"
+      "display_url" : "twitter.com/#!/search/real\u2026"
     } ]
   },
   "geo" : {
@@ -12380,7 +12380,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 48, 68 ],
       "url" : "http://t.co/H8pzvAg2",
       "expanded_url" : "http://37signals.com/svn/posts/3186-workplace-experiments-a-month-to-yourself",
-      "display_url" : "37signals.com/svn/posts/3186…"
+      "display_url" : "37signals.com/svn/posts/3186\u2026"
     } ]
   },
   "geo" : {
@@ -12417,7 +12417,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222848213596639232",
   "in_reply_to_user_id" : 21431343,
-  "text" : "@bostonrb getting feedback a bit…also PLZ 2 FULLSCREEN PREVIEW",
+  "text" : "@bostonrb getting feedback a bit\u2026also PLZ 2 FULLSCREEN PREVIEW",
   "id" : 222848213596639232,
   "in_reply_to_status_id" : 222844509728411648,
   "created_at" : "Wed Jul 11 00:22:09 +0000 2012",
@@ -12596,7 +12596,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222835063308562433",
   "in_reply_to_user_id" : 46661605,
-  "text" : "@patricksroberts @bcardarella we just muted. Too much discussion and can’t hear it on our end.",
+  "text" : "@patricksroberts @bcardarella we just muted. Too much discussion and can\u2019t hear it on our end.",
   "id" : 222835063308562433,
   "in_reply_to_status_id" : 222832080135000064,
   "created_at" : "Tue Jul 10 23:29:53 +0000 2012",
@@ -12634,7 +12634,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "222834383583850496",
-  "text" : "Big thanks to @bostonrb for streaming tonight’s talks! We have it live on at @wnyruby.",
+  "text" : "Big thanks to @bostonrb for streaming tonight\u2019s talks! We have it live on at @wnyruby.",
   "id" : 222834383583850496,
   "created_at" : "Tue Jul 10 23:27:11 +0000 2012",
   "user" : {
@@ -12847,7 +12847,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "paddyforan",
       "protected" : false,
       "id_str" : "15445975",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2338390210/q3favbqes2dxonqs2g4s_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3573983289/42048e2d5c571c55fdbbf83c1f1aabf7_normal.jpeg",
       "id" : 15445975,
       "verified" : false
     }
@@ -12873,7 +12873,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 18, 38 ],
       "url" : "http://t.co/Eo4E68fu",
       "expanded_url" : "http://www.youtube.com/watch?v=3gOR91oentQ",
-      "display_url" : "youtube.com/watch?v=3gOR91…"
+      "display_url" : "youtube.com/watch?v=3gOR91\u2026"
     } ]
   },
   "geo" : {
@@ -13029,7 +13029,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/5KBTSXyO",
       "expanded_url" : "http://www.youtube.com/watch?v=Qp1nrhJAX3I",
-      "display_url" : "youtube.com/watch?v=Qp1nrh…"
+      "display_url" : "youtube.com/watch?v=Qp1nrh\u2026"
     } ]
   },
   "geo" : {
@@ -13057,7 +13057,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 56, 76 ],
       "url" : "http://t.co/gY9iWwDV",
       "expanded_url" : "http://37signals.com/svn/posts/3200-levels-of-aspiration",
-      "display_url" : "37signals.com/svn/posts/3200…"
+      "display_url" : "37signals.com/svn/posts/3200\u2026"
     } ]
   },
   "geo" : {
@@ -13214,7 +13214,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222669204640378880",
   "in_reply_to_user_id" : 3576061,
-  "text" : "@zmoazeni did that…woo!",
+  "text" : "@zmoazeni did that\u2026woo!",
   "id" : 222669204640378880,
   "in_reply_to_status_id" : 222663762023428096,
   "created_at" : "Tue Jul 10 12:30:50 +0000 2012",
@@ -13279,7 +13279,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 11, 31 ],
       "url" : "http://t.co/Dh0SQZaf",
       "expanded_url" : "http://www.youtube.com/watch?v=wusGIl3v044",
-      "display_url" : "youtube.com/watch?v=wusGIl…"
+      "display_url" : "youtube.com/watch?v=wusGIl\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "222543188014022656",
@@ -13675,7 +13675,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 76, 96 ],
       "url" : "http://t.co/xe00lDRC",
       "expanded_url" : "http://sstephenson.us/posts/on-configuration",
-      "display_url" : "sstephenson.us/posts/on-confi…"
+      "display_url" : "sstephenson.us/posts/on-confi\u2026"
     } ]
   },
   "geo" : {
@@ -13697,7 +13697,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 27, 39 ],
       "id_str" : "12027042",
@@ -13709,7 +13709,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 61, 81 ],
       "url" : "http://t.co/duxA5BZq",
       "expanded_url" : "http://jamesgolick.com/2012/7/7/how-to-lose-100-pounds.html",
-      "display_url" : "jamesgolick.com/2012/7/7/how-t…"
+      "display_url" : "jamesgolick.com/2012/7/7/how-t\u2026"
     } ]
   },
   "geo" : {
@@ -13771,7 +13771,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 57, 77 ],
       "url" : "http://t.co/DZTJhcNC",
       "expanded_url" : "http://blog.trello.com/trello-is-now-500000-strong/",
-      "display_url" : "blog.trello.com/trello-is-now-…"
+      "display_url" : "blog.trello.com/trello-is-now-\u2026"
     } ]
   },
   "geo" : {
@@ -13826,7 +13826,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "hotgazpacho",
       "protected" : false,
       "id_str" : "10687942",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3071630008/919c49044cf3cc4d430a02a6cea80d2c_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/344513261574271193/7368aa084c25115ab3105a9378d08b4c_normal.jpeg",
       "id" : 10687942,
       "verified" : false
     }
@@ -13867,7 +13867,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "222363822181187585",
   "in_reply_to_user_id" : 213939016,
-  "text" : "@whitneyarlene @buffalopundit just walked by and it’s packed. Love seeing activity downtown. Haters gonna hate.",
+  "text" : "@whitneyarlene @buffalopundit just walked by and it\u2019s packed. Love seeing activity downtown. Haters gonna hate.",
   "id" : 222363822181187585,
   "in_reply_to_status_id" : 222355695767535616,
   "created_at" : "Mon Jul 09 16:17:21 +0000 2012",
@@ -13886,7 +13886,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vrunt",
+      "name" : "nate 'vrunt' lamagna",
       "screen_name" : "vrunt",
       "indices" : [ 0, 6 ],
       "id_str" : "15062828",
@@ -13960,7 +13960,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/Gw2kOTDW",
       "expanded_url" : "http://content.ytmnd.com/content/5/0/8/508d9123504b614d0460bbe90f9b24f8.jpg",
-      "display_url" : "content.ytmnd.com/content/5/0/8/…"
+      "display_url" : "content.ytmnd.com/content/5/0/8/\u2026"
     } ]
   },
   "geo" : {
@@ -14022,7 +14022,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 30, 50 ],
       "url" : "http://t.co/cWEIdK5e",
       "expanded_url" : "http://www.indiegogo.com/zworlddetroit?c=home",
-      "display_url" : "indiegogo.com/zworlddetroit?…"
+      "display_url" : "indiegogo.com/zworlddetroit?\u2026"
     } ]
   },
   "geo" : {
@@ -14107,13 +14107,13 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 97, 117 ],
       "url" : "http://t.co/d9XZ2kCn",
       "expanded_url" : "http://clayallsopp.com/posts/the-ruby-motion-way/",
-      "display_url" : "clayallsopp.com/posts/the-ruby…"
+      "display_url" : "clayallsopp.com/posts/the-ruby\u2026"
     } ]
   },
   "geo" : {
   },
   "id_str" : "222161001049624577",
-  "text" : "Feeling very bullish on RubyMotion and its future. This post definitely echoes what I’m feeling. http://t.co/d9XZ2kCn",
+  "text" : "Feeling very bullish on RubyMotion and its future. This post definitely echoes what I\u2019m feeling. http://t.co/d9XZ2kCn",
   "id" : 222161001049624577,
   "created_at" : "Mon Jul 09 02:51:24 +0000 2012",
   "user" : {
@@ -14157,7 +14157,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "vrunt",
+      "name" : "nate 'vrunt' lamagna",
       "screen_name" : "vrunt",
       "indices" : [ 0, 6 ],
       "id_str" : "15062828",
@@ -14191,7 +14191,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "☆ G ▲ B ∑ ☆",
+      "name" : "Gabe Berke-Williams",
       "screen_name" : "gabebw",
       "indices" : [ 46, 53 ],
       "id_str" : "224887329",
@@ -14204,7 +14204,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "221986200049815552",
-  "text" : "Geddy met a 13 week old Corgi in the parkway. @gabebw’s brain would have exploded with cuteness. Mine did.",
+  "text" : "Geddy met a 13 week old Corgi in the parkway. @gabebw\u2019s brain would have exploded with cuteness. Mine did.",
   "id" : 221986200049815552,
   "created_at" : "Sun Jul 08 15:16:49 +0000 2012",
   "user" : {
@@ -14261,7 +14261,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "221837701685587968",
-  "text" : "The best characters show up at Jim’s Steakout at 1:30.",
+  "text" : "The best characters show up at Jim\u2019s Steakout at 1:30.",
   "id" : 221837701685587968,
   "created_at" : "Sun Jul 08 05:26:44 +0000 2012",
   "user" : {
@@ -14459,7 +14459,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "221791702246113281",
-  "text" : "I can’t even express how crazy Pit is. Most yelling in a board game ever.",
+  "text" : "I can\u2019t even express how crazy Pit is. Most yelling in a board game ever.",
   "id" : 221791702246113281,
   "created_at" : "Sun Jul 08 02:23:57 +0000 2012",
   "user" : {
@@ -14521,14 +14521,39 @@ Grailbird.data.tweets_2012_07 =
       "id_str" : "5743852",
       "id" : 5743852
     } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
+    "media" : [ {
+      "expanded_url" : "http://twitter.com/kevinpurdy/status/221451520305152000/photo/1",
       "indices" : [ 94, 114 ],
       "url" : "http://t.co/7xjoZLei",
-      "expanded_url" : "http://twitter.com/kevinpurdy/status/221451520305152000/photo/1",
+      "media_url" : "http://pbs.twimg.com/media/AxLA_AMCQAACtC_.png",
+      "id_str" : "221451520309346304",
+      "id" : 221451520309346304,
+      "media_url_https" : "https://pbs.twimg.com/media/AxLA_AMCQAACtC_.png",
+      "sizes" : [ {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 233,
+        "resize" : "fit",
+        "w" : 340
+      }, {
+        "h" : 548,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 411,
+        "resize" : "fit",
+        "w" : 600
+      } ],
       "display_url" : "pic.twitter.com/7xjoZLei"
-    } ]
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : {
   },
@@ -14595,7 +14620,7 @@ Grailbird.data.tweets_2012_07 =
       "screen_name" : "kevinpurdy",
       "protected" : false,
       "id_str" : "14687182",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1597311868/me_at_tedxbuffalo_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3640440242/5b79af911c49df2140a97a9b34fab499_normal.jpeg",
       "id" : 14687182,
       "verified" : false
     }
@@ -14687,7 +14712,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 59, 79 ],
       "url" : "http://t.co/mRj4BgoL",
       "expanded_url" : "http://www.ebay.com/itm/BIGGEST-COLLECTION-EVER-22-SEGA-NINTENDO-PC-ENGINE-FULLSETS-FACTORY-SEALED-/300736846867?pt=FR_Jeux_Vid%C3%A9o&hash=item4605501c13#ht_170646wt_805",
-      "display_url" : "ebay.com/itm/BIGGEST-CO…"
+      "display_url" : "ebay.com/itm/BIGGEST-CO\u2026"
     } ]
   },
   "geo" : {
@@ -14752,7 +14777,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "221398239298064384",
   "in_reply_to_user_id" : 10452222,
-  "text" : "@lrz I just couldn’t get some buried Keychain code to work. Had no idea why until I decided to look at the guide as a last resort",
+  "text" : "@lrz I just couldn\u2019t get some buried Keychain code to work. Had no idea why until I decided to look at the guide as a last resort",
   "id" : 221398239298064384,
   "in_reply_to_status_id" : 221389387555020800,
   "created_at" : "Sat Jul 07 00:20:28 +0000 2012",
@@ -14811,7 +14836,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 92, 112 ],
       "url" : "http://t.co/G22Df54c",
       "expanded_url" : "http://www.rubymotion.com/developer-center/guides/project-management/#_entitlements",
-      "display_url" : "rubymotion.com/developer-cent…"
+      "display_url" : "rubymotion.com/developer-cent\u2026"
     } ]
   },
   "geo" : {
@@ -14978,7 +15003,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "221060450505334785",
   "in_reply_to_user_id" : 14246143,
-  "text" : "@rbates @dhh I don’t see this as a single guide…really deserves more attention than that",
+  "text" : "@rbates @dhh I don\u2019t see this as a single guide\u2026really deserves more attention than that",
   "id" : 221060450505334785,
   "in_reply_to_status_id" : 221059359969521666,
   "created_at" : "Fri Jul 06 01:58:13 +0000 2012",
@@ -15012,7 +15037,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "221058217902477312",
   "in_reply_to_user_id" : 14561327,
-  "text" : "@dhh let’s make one then! I absolutely love writing introductory material like this.",
+  "text" : "@dhh let\u2019s make one then! I absolutely love writing introductory material like this.",
   "id" : 221058217902477312,
   "in_reply_to_status_id" : 220997944227274753,
   "created_at" : "Fri Jul 06 01:49:20 +0000 2012",
@@ -15105,7 +15130,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/XmgL5edY",
       "expanded_url" : "http://www.youtube.com/watch?v=wVY7qDjrPZk",
-      "display_url" : "youtube.com/watch?v=wVY7qD…"
+      "display_url" : "youtube.com/watch?v=wVY7qD\u2026"
     } ]
   },
   "geo" : {
@@ -15201,7 +15226,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 53, 74 ],
       "url" : "https://t.co/IliHO2qj",
       "expanded_url" : "https://github.com/qrush/dotfiles/blob/master/irbrc",
-      "display_url" : "github.com/qrush/dotfiles…"
+      "display_url" : "github.com/qrush/dotfiles\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "220497826650652673",
@@ -15228,7 +15253,7 @@ Grailbird.data.tweets_2012_07 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(•_•) ( •_•) (⌐■_■)",
+      "name" : "Cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 0, 13 ],
       "id_str" : "14204623",
@@ -15268,7 +15293,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 16, 36 ],
       "url" : "http://t.co/NFmXF4kh",
       "expanded_url" : "http://25.media.tumblr.com/tumblr_m6b3ilTcHm1r7n19no1_500.jpg",
-      "display_url" : "25.media.tumblr.com/tumblr_m6b3ilT…"
+      "display_url" : "25.media.tumblr.com/tumblr_m6b3ilT\u2026"
     } ]
   },
   "geo" : {
@@ -15337,7 +15362,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 67, 87 ],
       "url" : "http://t.co/CKi7GyaH",
       "expanded_url" : "http://dancroak.com/post/21920327049/ship-it",
-      "display_url" : "dancroak.com/post/219203270…"
+      "display_url" : "dancroak.com/post/219203270\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "220223687507456000",
@@ -15653,7 +15678,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 55, 76 ],
       "url" : "https://t.co/IOz4HIRS",
       "expanded_url" : "https://twitter.com/#!/NeedADebitCard",
-      "display_url" : "twitter.com/#!/NeedADebitC…"
+      "display_url" : "twitter.com/#!/NeedADebitC\u2026"
     } ]
   },
   "geo" : {
@@ -15681,7 +15706,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 79, 99 ],
       "url" : "http://t.co/YqOMr2HM",
       "expanded_url" : "http://www.youtube.com/watch?v=SmnoM5yoUcw&list=UU_3JbOmL48TMal015yX13Iw&index=7&feature=plcp",
-      "display_url" : "youtube.com/watch?v=SmnoM5…"
+      "display_url" : "youtube.com/watch?v=SmnoM5\u2026"
     } ]
   },
   "geo" : {
@@ -15709,7 +15734,7 @@ Grailbird.data.tweets_2012_07 =
       "indices" : [ 77, 97 ],
       "url" : "http://t.co/wWp1uu89",
       "expanded_url" : "http://www.youtube.com/watch?v=KBx4RGoB6XI&feature=fvwrel",
-      "display_url" : "youtube.com/watch?v=KBx4RG…"
+      "display_url" : "youtube.com/watch?v=KBx4RG\u2026"
     } ]
   },
   "geo" : {
@@ -15746,7 +15771,7 @@ Grailbird.data.tweets_2012_07 =
   "geo" : {
   },
   "id_str" : "219824700765908993",
-  "text" : "DJing in the CoworkBuffalo room. Now playing Daft Beatles: Something about us comes together ♫♪ #turntablefm http://t.co/epnjp2aB",
+  "text" : "DJing in the CoworkBuffalo room. Now playing Daft Beatles: Something about us comes together \u266B\u266A #turntablefm http://t.co/epnjp2aB",
   "id" : 219824700765908993,
   "created_at" : "Mon Jul 02 16:07:47 +0000 2012",
   "user" : {
@@ -15870,7 +15895,7 @@ Grailbird.data.tweets_2012_07 =
   },
   "id_str" : "219652209837740033",
   "in_reply_to_user_id" : 52593,
-  "text" : "@avdi because most people don’t even understand zip files.",
+  "text" : "@avdi because most people don\u2019t even understand zip files.",
   "id" : 219652209837740033,
   "in_reply_to_status_id" : 219650524876767232,
   "created_at" : "Mon Jul 02 04:42:22 +0000 2012",

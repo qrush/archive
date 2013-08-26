@@ -830,7 +830,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "capotej",
       "protected" : false,
       "id_str" : "8898642",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2767483955/16a7c4355cf2301ac1f255a14b48aee9_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000336375562/16a7c4355cf2301ac1f255a14b48aee9_normal.png",
       "id" : 8898642,
       "verified" : false
     }
@@ -950,7 +950,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "15317640",
       "id" : 15317640
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 68, 77 ],
       "id_str" : "5674672",
@@ -1052,11 +1052,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -1071,7 +1071,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 9118286386044928,
   "in_reply_to_status_id" : 9117701351936000,
   "created_at" : "Mon Nov 29 05:35:43 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1648,7 +1648,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Sven Kräuter | 5v3n",
+      "name" : "Sven Kr\u00E4uter | 5v3n",
       "screen_name" : "sven_kr",
       "indices" : [ 0, 8 ],
       "id_str" : "61437533",
@@ -1758,7 +1758,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "8228866531266560",
-  "text" : "RT @drbrain: I disagree with @mperham, Ruby’s stdlib is not a Ghetto: http://bit.ly/not_a_ghetto",
+  "text" : "RT @drbrain: I disagree with @mperham, Ruby\u2019s stdlib is not a Ghetto: http://bit.ly/not_a_ghetto",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -1776,7 +1776,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "7575021190909952",
-    "text" : "I disagree with @mperham, Ruby’s stdlib is not a Ghetto: http://bit.ly/not_a_ghetto",
+    "text" : "I disagree with @mperham, Ruby\u2019s stdlib is not a Ghetto: http://bit.ly/not_a_ghetto",
     "id" : 7575021190909952,
     "created_at" : "Wed Nov 24 23:23:20 +0000 2010",
     "user" : {
@@ -1907,7 +1907,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "823615",
       "id" : 823615
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 11, 18 ],
       "id_str" : "659933",
@@ -2182,7 +2182,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "18230025",
       "id" : 18230025
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 47, 61 ],
       "id_str" : "10293122",
@@ -2761,7 +2761,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "28819745",
       "id" : 28819745
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 46, 55 ],
       "id_str" : "5674672",
@@ -2834,7 +2834,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "mperham",
       "protected" : false,
       "id_str" : "14060922",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1531638646/headshot_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3615499471/5305a46167bd44ffd639196cf9965427_normal.jpeg",
       "id" : 14060922,
       "verified" : false
     }
@@ -3619,13 +3619,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "tnm",
-      "screen_name" : "tnm8",
-      "indices" : [ 0, 5 ],
-      "id_str" : "339845064",
-      "id" : 339845064
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4004,7 +3998,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "peterhellberg",
       "protected" : false,
       "id_str" : "12362552",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2885047435/b1d8cd491c3749cbd17e9819894bac2f_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3560159386/3c950844f9136daaa57212d1396d7550_normal.jpeg",
       "id" : 12362552,
       "verified" : false
     }
@@ -4251,7 +4245,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Juan Lupión",
+      "name" : "Juan Lupi\u00F3n",
       "screen_name" : "pantulis",
       "indices" : [ 0, 9 ],
       "id_str" : "62703",
@@ -4284,13 +4278,7 @@ Grailbird.data.tweets_2010_11 =
 }, {
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "sytycc",
-      "screen_name" : "sytycc",
-      "indices" : [ 0, 7 ],
-      "id_str" : "215092649",
-      "id" : 215092649
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -4545,7 +4533,7 @@ Grailbird.data.tweets_2010_11 =
   "geo" : {
   },
   "id_str" : "3247101693657088",
-  "text" : "RT @drbrain: You can the slides for my talks “History of RubyGems and RDoc” and “How to Name Gems” at http://segment7.net/projects/ruby/ ...",
+  "text" : "RT @drbrain: You can the slides for my talks \u201CHistory of RubyGems and RDoc\u201D and \u201CHow to Name Gems\u201D at http://segment7.net/projects/ruby/ ...",
   "retweeted_status" : {
     "source" : "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
     "entities" : {
@@ -4557,7 +4545,7 @@ Grailbird.data.tweets_2010_11 =
     "geo" : {
     },
     "id_str" : "3234489299894272",
-    "text" : "You can the slides for my talks “History of RubyGems and RDoc” and “How to Name Gems” at http://segment7.net/projects/ruby/RubyConf/2010/",
+    "text" : "You can the slides for my talks \u201CHistory of RubyGems and RDoc\u201D and \u201CHow to Name Gems\u201D at http://segment7.net/projects/ruby/RubyConf/2010/",
     "id" : 3234489299894272,
     "created_at" : "Fri Nov 12 23:55:36 +0000 2010",
     "user" : {
@@ -4767,7 +4755,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "6637242",
       "id" : 6637242
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 27, 36 ],
       "id_str" : "5674672",
@@ -4869,7 +4857,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -5274,7 +5262,7 @@ Grailbird.data.tweets_2010_11 =
       "screen_name" : "Croaky",
       "protected" : false,
       "id_str" : "787595",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2973205483/196a315da749f16cd294f0870e14853a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3478041871/e95ba84623ac1eb393e62c934940c4f9_normal.jpeg",
       "id" : 787595,
       "verified" : false
     }
@@ -5501,7 +5489,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -5615,7 +5603,7 @@ Grailbird.data.tweets_2010_11 =
       "id_str" : "727813",
       "id" : 727813
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 40, 54 ],
       "id_str" : "10293122",
@@ -5997,11 +5985,11 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6016,7 +6004,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 1696826470174720,
   "in_reply_to_status_id" : 1695647065440256,
   "created_at" : "Mon Nov 08 18:05:29 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6208,7 +6196,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Love Jacques",
+      "name" : "Jeoyph Jaoycques",
       "screen_name" : "jephjacques",
       "indices" : [ 32, 44 ],
       "id_str" : "7670202",
@@ -6333,7 +6321,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 1029501580484609,
   "in_reply_to_status_id" : 1007100410994688,
   "created_at" : "Sat Nov 06 21:53:46 +0000 2010",
-  "in_reply_to_screen_name" : "barfcaptain",
+  "in_reply_to_screen_name" : "kcgreenn",
   "in_reply_to_user_id_str" : "16522244",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6598,7 +6586,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "gabeglövesyöu",
+      "name" : "gabegl\u00F6vesy\u00F6u",
       "screen_name" : "gabeglovesyou",
       "indices" : [ 0, 14 ],
       "id_str" : "14465929",
@@ -6944,12 +6932,6 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Clinton N. Dreisbach",
-      "screen_name" : "crnixon",
-      "indices" : [ 0, 8 ],
-      "id_str" : "7905972",
-      "id" : 7905972
-    }, {
       "name" : "Chad Fowler",
       "screen_name" : "chadfowler",
       "indices" : [ 9, 20 ],
@@ -6969,7 +6951,7 @@ Grailbird.data.tweets_2010_11 =
   "id" : 302759307911168,
   "in_reply_to_status_id" : 301897848193025,
   "created_at" : "Thu Nov 04 21:45:58 +0000 2010",
-  "in_reply_to_screen_name" : "crnixon",
+  "in_reply_to_screen_name" : "cndreisbach",
   "in_reply_to_user_id_str" : "7905972",
   "user" : {
     "name" : "Nick Quaranto",
@@ -7105,7 +7087,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Logan Johnson",
+      "name" : "Logan",
       "screen_name" : "loganj",
       "indices" : [ 0, 7 ],
       "id_str" : "1051251",
@@ -7139,7 +7121,7 @@ Grailbird.data.tweets_2010_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Logan Johnson",
+      "name" : "Logan",
       "screen_name" : "loganj",
       "indices" : [ 0, 7 ],
       "id_str" : "1051251",

@@ -3,7 +3,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -1045,7 +1045,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 101, 108 ],
       "id_str" : "659933",
@@ -1074,12 +1074,6 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "pixelsmoke",
-      "screen_name" : "Pixelsmoke",
-      "indices" : [ 0, 11 ],
-      "id_str" : "818597",
-      "id" : 818597
-    }, {
       "name" : "DNSimple",
       "screen_name" : "dnsimple",
       "indices" : [ 52, 61 ],
@@ -1906,7 +1900,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Coglan",
+      "name" : "jcoglan",
       "screen_name" : "jcoglan",
       "indices" : [ 0, 8 ],
       "id_str" : "13861042",
@@ -1946,7 +1940,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Build Doctor",
+      "name" : "Julian Simpson",
       "screen_name" : "builddoctor",
       "indices" : [ 0, 12 ],
       "id_str" : "60339361",
@@ -2877,7 +2871,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 0, 6 ],
       "id_str" : "6815762",
@@ -3002,7 +2996,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "tenderlove",
       "protected" : false,
       "id_str" : "14761655",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3258763887/df012fa9fd6380a354fb4ec916b3c672_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000325798111/ca48276f8ebbbbac9c6ce83aac3c8548_normal.jpeg",
       "id" : 14761655,
       "verified" : false
     }
@@ -3080,7 +3074,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -3144,7 +3138,7 @@ Grailbird.data.tweets_2011_01 =
   "geo" : {
   },
   "id_str" : "27047578755407872",
-  "text" : "\"you look at the ecosystem around Python, you will generally find that it’s more mature than Ruby at the moment\" Really? Fuck off.",
+  "text" : "\"you look at the ecosystem around Python, you will generally find that it\u2019s more mature than Ruby at the moment\" Really? Fuck off.",
   "id" : 27047578755407872,
   "created_at" : "Mon Jan 17 17:00:19 +0000 2011",
   "user" : {
@@ -3467,7 +3461,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "chadfowler",
       "protected" : false,
       "id_str" : "790205",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2931712744/95043c0f42f0700bdbd713635e942ac0_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000029377833/c4b1abab34ac55fdf6f9bf05ede3815f_normal.jpeg",
       "id" : 790205,
       "verified" : false
     }
@@ -3892,7 +3886,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 0, 7 ],
       "id_str" : "369604063",
@@ -4069,7 +4063,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "aaron caldiño",
+      "name" : "aaron caldi\u00F1o",
       "screen_name" : "sponky",
       "indices" : [ 3, 10 ],
       "id_str" : "283859091",
@@ -4102,7 +4096,7 @@ Grailbird.data.tweets_2011_01 =
       "screen_name" : "andydekens",
       "protected" : false,
       "id_str" : "18388591",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3305965458/a6830a93d0abba27f9d08cd20db76aba_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000214879166/e75aa5416088de7461172fde2993e712_normal.jpeg",
       "id" : 18388591,
       "verified" : false
     }
@@ -4122,7 +4116,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 0, 7 ],
       "id_str" : "3928731",
@@ -4395,7 +4389,7 @@ Grailbird.data.tweets_2011_01 =
   },
   "id_str" : "22756613098045440",
   "in_reply_to_user_id" : 14766954,
-  "text" : "@derickbailey you would have to Marshal them. seems like a Bad Idea™ though.",
+  "text" : "@derickbailey you would have to Marshal them. seems like a Bad Idea\u2122 though.",
   "id" : 22756613098045440,
   "in_reply_to_status_id" : 22750922992001024,
   "created_at" : "Wed Jan 05 20:49:34 +0000 2011",
@@ -4414,7 +4408,7 @@ Grailbird.data.tweets_2011_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aslak Hellesøy",
+      "name" : "Aslak Helles\u00F8y",
       "screen_name" : "aslak_hellesoy",
       "indices" : [ 0, 15 ],
       "id_str" : "4994591",

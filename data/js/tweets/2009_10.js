@@ -3,7 +3,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raphaël Valyi",
+      "name" : "Rapha\u00EBl Valyi",
       "screen_name" : "rvalyi",
       "indices" : [ 0, 7 ],
       "id_str" : "39129507",
@@ -141,8 +141,8 @@ Grailbird.data.tweets_2009_10 =
       "name" : "Tim Kersey",
       "screen_name" : "entangledstate",
       "indices" : [ 0, 15 ],
-      "id_str" : "1676",
-      "id" : 1676
+      "id_str" : "21839825",
+      "id" : 21839825
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -157,7 +157,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 5286498758,
   "in_reply_to_status_id" : 5282680777,
   "created_at" : "Fri Oct 30 13:04:54 +0000 2009",
-  "in_reply_to_screen_name" : "entangledstate",
+  "in_reply_to_screen_name" : "timkersey",
   "in_reply_to_user_id_str" : "1676",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1402,7 +1402,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "BDV ⊕ 网关",
+      "name" : "Brian \u2295 Del Vecchio",
       "screen_name" : "Hybernaut",
       "indices" : [ 0, 10 ],
       "id_str" : "4678",
@@ -1459,7 +1459,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Pаul Bаttley",
+      "name" : "P\u0430ul B\u0430ttley",
       "screen_name" : "threedaymonk",
       "indices" : [ 0, 13 ],
       "id_str" : "6821782",
@@ -1726,7 +1726,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "5162681915",
-  "text" : "Photo: Young Frankenstein in color is very…different. http://tumblr.com/x173ozn6x",
+  "text" : "Photo: Young Frankenstein in color is very\u2026different. http://tumblr.com/x173ozn6x",
   "id" : 5162681915,
   "created_at" : "Mon Oct 26 02:19:28 +0000 2009",
   "user" : {
@@ -2342,7 +2342,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin W. Gisi",
+      "name" : "Kevin Gisi",
       "screen_name" : "gisikw",
       "indices" : [ 0, 7 ],
       "id_str" : "14308739",
@@ -2433,7 +2433,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -3442,7 +3442,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -3635,11 +3635,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Alexis Sellier",
+      "name" : "Rolo Tomassi",
       "screen_name" : "cloudhead",
       "indices" : [ 126, 136 ],
-      "id_str" : "36156834",
-      "id" : 36156834
+      "id_str" : "1697296458",
+      "id" : 1697296458
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -4098,7 +4098,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 84, 91 ],
       "id_str" : "369604063",
@@ -4402,7 +4402,7 @@ Grailbird.data.tweets_2009_10 =
   "geo" : {
   },
   "id_str" : "4849459501",
-  "text" : "\"Reporter: “What do you say to parents who think the Wild Things film may be too scary?” Sendak: “I would...\" http://tumblr.com/x173igfyf",
+  "text" : "\"Reporter: \u201CWhat do you say to parents who think the Wild Things film may be too scary?\u201D Sendak: \u201CI would...\" http://tumblr.com/x173igfyf",
   "id" : 4849459501,
   "created_at" : "Wed Oct 14 00:42:50 +0000 2009",
   "user" : {
@@ -4754,7 +4754,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Manoogian III",
+      "name" : "John Manoogian 3,000",
       "screen_name" : "jm3",
       "indices" : [ 0, 4 ],
       "id_str" : "59593",
@@ -4984,7 +4984,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Manoogian III",
+      "name" : "John Manoogian 3,000",
       "screen_name" : "jm3",
       "indices" : [ 0, 4 ],
       "id_str" : "59593",
@@ -5112,7 +5112,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "John Manoogian III",
+      "name" : "John Manoogian 3,000",
       "screen_name" : "jm3",
       "indices" : [ 0, 4 ],
       "id_str" : "59593",
@@ -5584,7 +5584,7 @@ Grailbird.data.tweets_2009_10 =
   },
   "id_str" : "4735256699",
   "in_reply_to_user_id" : 14264323,
-  "text" : "@vkushner shouldn't be, if we migrate accounts/gems over from GH and RF into subdomains right. working on managing some huge moves here :)",
+  "text" : "@vkushner shouldn't be, if we migrate accounts/gems over from GH and RF into subdomains right. working on managing\u00A0some huge moves here :)",
   "id" : 4735256699,
   "in_reply_to_status_id" : 4735183702,
   "created_at" : "Fri Oct 09 14:18:56 +0000 2009",
@@ -6001,11 +6001,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6020,7 +6020,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4703299048,
   "in_reply_to_status_id" : 4703213320,
   "created_at" : "Thu Oct 08 06:18:59 +0000 2009",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6058,11 +6058,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6077,7 +6077,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4700767356,
   "in_reply_to_status_id" : 4700628866,
   "created_at" : "Thu Oct 08 03:43:36 +0000 2009",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6092,11 +6092,11 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6111,7 +6111,7 @@ Grailbird.data.tweets_2009_10 =
   "id" : 4700749591,
   "in_reply_to_status_id" : 4700628866,
   "created_at" : "Thu Oct 08 03:42:43 +0000 2009",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -7613,7 +7613,7 @@ Grailbird.data.tweets_2009_10 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",

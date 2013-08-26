@@ -37,7 +37,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "mildmojo✈",
+      "name" : "mildmojo\u2708",
       "screen_name" : "mildmojo",
       "indices" : [ 0, 9 ],
       "id_str" : "16881717",
@@ -209,11 +209,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tnm",
-      "screen_name" : "tnm8",
+      "name" : "NASSR FC 55",
+      "screen_name" : "TNM8",
       "indices" : [ 0, 5 ],
-      "id_str" : "339845064",
-      "id" : 339845064
+      "id_str" : "1448473316",
+      "id" : 1448473316
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -445,8 +445,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0893157, -77.657079 ]
   },
   "id_str" : "11332851658",
   "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
@@ -477,8 +475,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "11331562447",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0837144, -77.6780849 ]
   },
   "id_str" : "11331636416",
   "in_reply_to_user_id" : 721053,
@@ -519,8 +515,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "11326642348",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838819, -77.678376 ]
   },
   "id_str" : "11326986357",
   "in_reply_to_user_id" : 15683572,
@@ -555,8 +549,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "11326517337",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0837144, -77.6780849 ]
   },
   "id_str" : "11326680815",
   "in_reply_to_user_id" : 20463300,
@@ -591,8 +583,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "11326209611",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0838108, -77.6784147 ]
   },
   "id_str" : "11326347953",
   "in_reply_to_user_id" : 20463300,
@@ -895,11 +885,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jordi Bunster",
+      "name" : "Jordi",
       "screen_name" : "jordibunster",
       "indices" : [ 0, 13 ],
-      "id_str" : "11457022",
-      "id" : 11457022
+      "id_str" : "1230538363",
+      "id" : 1230538363
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -914,7 +904,7 @@ Grailbird.data.tweets_2010_03 =
   "id" : 11268040338,
   "in_reply_to_status_id" : 11267931155,
   "created_at" : "Mon Mar 29 20:18:19 +0000 2010",
-  "in_reply_to_screen_name" : "jordibunster",
+  "in_reply_to_screen_name" : "notlaforge",
   "in_reply_to_user_id_str" : "11457022",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1142,7 +1132,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "11210575486",
-  "text" : "Photo: Possibly the best hockey game I’ve ever been to. (until April 8th!) http://tumblr.com/x177xpswk",
+  "text" : "Photo: Possibly the best hockey game I\u2019ve ever been to. (until April 8th!) http://tumblr.com/x177xpswk",
   "id" : 11210575486,
   "created_at" : "Sun Mar 28 20:13:53 +0000 2010",
   "user" : {
@@ -1329,8 +1319,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.7358819, -73.68809 ]
   },
   "id_str" : "11172744225",
   "text" : "I'm at Brown's Brewing Company (417 River St, Troy). http://4sq.com/8hnNYa",
@@ -1475,8 +1463,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.64834, -73.753957 ]
   },
   "id_str" : "11162090551",
   "text" : "I'm at Times Union Center (51 S Pearl St, Albany). http://4sq.com/9PYwtH",
@@ -1632,7 +1618,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 0, 7 ],
       "id_str" : "369604063",
@@ -2629,8 +2615,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0893157, -77.657079 ]
   },
   "id_str" : "11007124613",
   "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
@@ -3332,7 +3316,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10910971699",
-  "text" : "Polished off hash support in redis-rb tonight, excited to start using it on @gemcutter! (↥ request @ezmobius!)",
+  "text" : "Polished off hash support in redis-rb tonight, excited to start using it on @gemcutter! (\u21A5 request @ezmobius!)",
   "id" : 10910971699,
   "created_at" : "Tue Mar 23 05:06:50 +0000 2010",
   "user" : {
@@ -4033,7 +4017,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -4079,8 +4063,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10625313287",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861809, -77.6580486 ]
   },
   "id_str" : "10625888664",
   "in_reply_to_user_id" : 4080231,
@@ -4108,8 +4090,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861809, -77.6580486 ]
   },
   "id_str" : "10625189650",
   "text" : "Took all morning but figured out ASP.NET model binding and validation with uploading files. What a pain, sealed classes suck.",
@@ -4135,7 +4115,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10608992621",
-  "text" : "RIT ALERT… GO BACK TO BED. OR WORLD OF WARCRAFT.",
+  "text" : "RIT ALERT\u2026 GO BACK TO BED. OR WORLD OF WARCRAFT.",
   "id" : 10608992621,
   "created_at" : "Wed Mar 17 06:10:43 +0000 2010",
   "user" : {
@@ -4209,8 +4189,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10604359474",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861809, -77.6580486 ]
   },
   "id_str" : "10604659380",
   "in_reply_to_user_id" : 23830105,
@@ -4251,8 +4229,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10603144439",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861818, -77.6580486 ]
   },
   "id_str" : "10603275999",
   "in_reply_to_user_id" : 18210643,
@@ -4287,8 +4263,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10602980775",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861762, -77.6580484 ]
   },
   "id_str" : "10603191195",
   "in_reply_to_user_id" : 14060922,
@@ -4323,8 +4297,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10600892652",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086182, -77.6580486 ]
   },
   "id_str" : "10601382038",
   "in_reply_to_user_id" : 13733742,
@@ -4359,8 +4331,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10600892652",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0860443, -77.6579929 ]
   },
   "id_str" : "10601279172",
   "in_reply_to_user_id" : 13733742,
@@ -4395,8 +4365,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10600741927",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861755, -77.6580484 ]
   },
   "id_str" : "10600798507",
   "in_reply_to_user_id" : 9823452,
@@ -4424,8 +4392,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861755, -77.6580484 ]
   },
   "id_str" : "10600778519",
   "text" : "It's about that time RIT! GMail filter: \"Has the words: Student Government\" =&gt; \"Move to Trash\"",
@@ -4456,8 +4422,6 @@ Grailbird.data.tweets_2010_03 =
   },
   "in_reply_to_status_id_str" : "10600454281",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861456, -77.6582178 ]
   },
   "id_str" : "10600720059",
   "in_reply_to_user_id" : 13733742,
@@ -4485,8 +4449,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086162, -77.6580509 ]
   },
   "id_str" : "10600161104",
   "text" : "Also, I forgot how much I hated SVN and TortoiseSVN, especially with having multiple files out of date within the same tree. Git spoils me.",
@@ -4510,8 +4472,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0861809, -77.6580486 ]
   },
   "id_str" : "10600096773",
   "text" : "Horrifying delayed_job clone in C# is hobbling along. Tonight's adventure: Learning that XML serialization hates derived classes. Blech.",
@@ -4564,11 +4524,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tnm",
-      "screen_name" : "tnm8",
+      "name" : "NASSR FC 55",
+      "screen_name" : "TNM8",
       "indices" : [ 0, 5 ],
-      "id_str" : "339845064",
-      "id" : 339845064
+      "id_str" : "1448473316",
+      "id" : 1448473316
     }, {
       "name" : "Salvatore Sanfilippo",
       "screen_name" : "antirez",
@@ -4829,8 +4789,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.086181, -77.6580493 ]
   },
   "id_str" : "10555673833",
   "text" : "Got so caught up with C# hacking that I forgot about GitHub Rebase #39! http://github.com/blog/618-github-rebase-39",
@@ -4854,8 +4812,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.088836, -77.608704 ]
   },
   "id_str" : "10543074391",
   "text" : "I'm at Five Guys Burgers & Fries (1100 Jefferson Rd, Rochester). http://4sq.com/cgW4od",
@@ -5231,8 +5187,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0830794, -77.6764182 ]
   },
   "id_str" : "10440705584",
   "text" : "Today's ASP.NET adventures: Wrote a simple delayed_job clone, learned that #define works, and loading web.config outside the webapp sucks.",
@@ -5290,8 +5244,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.091958, -77.650445 ]
   },
   "id_str" : "10405239317",
   "text" : "I'm at MacGregors' Grill and Tap Room (300 Jefferson Rd, Rochester). http://4sq.com/6hNKyN",
@@ -5338,8 +5290,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0845299684, -77.6734685898 ]
   },
   "id_str" : "10395017402",
   "text" : "RIT Hockey playoffs! (@ Frank Ritter Arena) http://4sq.com/6IjpwD",
@@ -5577,8 +5527,6 @@ Grailbird.data.tweets_2010_03 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.0834945, -77.6756925 ]
   },
   "id_str" : "10341341819",
   "text" : "Really confused about how to do background processing in ASP.NET. Why isn't it as simple as delayed_job?",
@@ -5694,7 +5642,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aurélien Malisart",
+      "name" : "Aur\u00E9lien Malisart",
       "screen_name" : "aurels",
       "indices" : [ 0, 7 ],
       "id_str" : "14598221",
@@ -5751,7 +5699,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aurélien Malisart",
+      "name" : "Aur\u00E9lien Malisart",
       "screen_name" : "aurels",
       "indices" : [ 0, 7 ],
       "id_str" : "14598221",
@@ -6202,11 +6150,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tnm",
-      "screen_name" : "tnm8",
+      "name" : "NASSR FC 55",
+      "screen_name" : "TNM8",
       "indices" : [ 0, 5 ],
-      "id_str" : "339845064",
-      "id" : 339845064
+      "id_str" : "1448473316",
+      "id" : 1448473316
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -6539,7 +6487,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 0, 7 ],
       "id_str" : "6118872",
@@ -7056,11 +7004,11 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "tnm",
-      "screen_name" : "tnm8",
+      "name" : "NASSR FC 55",
+      "screen_name" : "TNM8",
       "indices" : [ 0, 5 ],
-      "id_str" : "339845064",
-      "id" : 339845064
+      "id_str" : "1448473316",
+      "id" : 1448473316
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -7603,7 +7551,7 @@ Grailbird.data.tweets_2010_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -7810,7 +7758,7 @@ Grailbird.data.tweets_2010_03 =
   "geo" : {
   },
   "id_str" : "10103648806",
-  "text" : "Video: It’s hard to express how excited I am for the return of ADVENTURE TIME http://tumblr.com/x1774x0a1",
+  "text" : "Video: It\u2019s hard to express how excited I am for the return of ADVENTURE TIME http://tumblr.com/x1774x0a1",
   "id" : 10103648806,
   "created_at" : "Sun Mar 07 03:38:26 +0000 2010",
   "user" : {

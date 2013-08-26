@@ -210,7 +210,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "DISQUS",
+      "name" : "Disqus",
       "screen_name" : "disqus",
       "indices" : [ 30, 37 ],
       "id_str" : "14130628",
@@ -445,7 +445,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1157711745",
-  "text" : "RT @gitready zsh git status: You could have status shown in your bash prompt but that’s not your only option... http://tinyurl.com/adhswx",
+  "text" : "RT @gitready zsh git status: You could have status shown in your bash prompt but that\u2019s not your only option... http://tinyurl.com/adhswx",
   "id" : 1157711745,
   "created_at" : "Thu Jan 29 05:44:20 +0000 2009",
   "user" : {
@@ -502,7 +502,7 @@ Grailbird.data.tweets_2009_01 =
       "id_str" : "8161622",
       "id" : 8161622
     }, {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 32, 48 ],
       "id_str" : "8091602",
@@ -1601,7 +1601,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -1633,7 +1633,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -1714,7 +1714,7 @@ Grailbird.data.tweets_2009_01 =
   "geo" : {
   },
   "id_str" : "1144096521",
-  "text" : "RT @gitready: status in your prompt: Yeah, we all know about the git status command but that’s just way too ma... http://tinyurl.com/atm8f4",
+  "text" : "RT @gitready: status in your prompt: Yeah, we all know about the git status command but that\u2019s just way too ma... http://tinyurl.com/atm8f4",
   "id" : 1144096521,
   "created_at" : "Sat Jan 24 06:29:43 +0000 2009",
   "user" : {
@@ -2030,7 +2030,7 @@ Grailbird.data.tweets_2009_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aslak Hellesøy",
+      "name" : "Aslak Helles\u00F8y",
       "screen_name" : "aslak_hellesoy",
       "indices" : [ 0, 15 ],
       "id_str" : "4994591",
@@ -5416,27 +5416,22 @@ Grailbird.data.tweets_2009_01 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Veezus Kreist",
-      "screen_name" : "veezus",
+      "name" : "Vee",
+      "screen_name" : "Veezus",
       "indices" : [ 0, 7 ],
-      "id_str" : "14051754",
-      "id" : 14051754
+      "id_str" : "818377692",
+      "id" : 818377692
     } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "1117558118",
   "geo" : {
   },
   "id_str" : "1117565761",
-  "in_reply_to_user_id" : 14051754,
   "text" : "@veezus Oh, I have plenty of ideas, at least for a month! :) I have to keep awake in class somehow...It's also why there's a submit form.",
   "id" : 1117565761,
-  "in_reply_to_status_id" : 1117558118,
   "created_at" : "Wed Jan 14 04:50:26 +0000 2009",
-  "in_reply_to_screen_name" : "veezus",
-  "in_reply_to_user_id_str" : "14051754",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",

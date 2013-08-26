@@ -709,7 +709,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3557606021",
-  "text" : "Photo: “FAKE. If it was really Chuck Norris this car would have exploded on impact.” Via flickr. http://tumblr.com/x172ui0ad",
+  "text" : "Photo: \u201CFAKE. If it was really Chuck Norris this car would have exploded on impact.\u201D Via flickr. http://tumblr.com/x172ui0ad",
   "id" : 3557606021,
   "created_at" : "Wed Aug 26 14:55:43 +0000 2009",
   "user" : {
@@ -1014,7 +1014,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jesús GS",
+      "name" : "Jes\u00FAs GS",
       "screen_name" : "blaxter",
       "indices" : [ 0, 8 ],
       "id_str" : "5380272",
@@ -1195,7 +1195,13 @@ Grailbird.data.tweets_2009_08 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Jasmin Leitgeb",
+      "screen_name" : "LeitgebJ",
+      "indices" : [ 0, 9 ],
+      "id_str" : "1617039331",
+      "id" : 1617039331
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1256,7 +1262,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "<a href=\"http://m.twitter.com/\" rel=\"nofollow\">mobile web</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "スギウチ",
+      "name" : "\u30B9\u30AE\u30A6\u30C1",
       "screen_name" : "nokogiri",
       "indices" : [ 0, 9 ],
       "id_str" : "133939177",
@@ -1452,7 +1458,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "heart❤n",
+      "name" : "heart\u2764n",
       "screen_name" : "bighearton",
       "indices" : [ 0, 11 ],
       "id_str" : "67765461",
@@ -2073,7 +2079,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "★ Daniel Lucraft",
+      "name" : "\u2B50 Daniel Lucraft",
       "screen_name" : "danlucraft",
       "indices" : [ 0, 11 ],
       "id_str" : "13094142",
@@ -2228,7 +2234,7 @@ Grailbird.data.tweets_2009_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2587,7 +2593,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3339164623",
-  "text" : "\"you obviously haven’t worked in a real business where it comes down to dollars and time, not necessarily...\" http://tumblr.com/x172plb10",
+  "text" : "\"you obviously haven\u2019t worked in a real business where it comes down to dollars and time, not necessarily...\" http://tumblr.com/x172plb10",
   "id" : 3339164623,
   "created_at" : "Sun Aug 16 03:47:00 +0000 2009",
   "user" : {
@@ -2708,7 +2714,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3328622686",
-  "text" : "looks like @gitready is now en Español: http://es.gitready.com",
+  "text" : "looks like @gitready is now en Espa\u00F1ol: http://es.gitready.com",
   "id" : 3328622686,
   "created_at" : "Sat Aug 15 14:31:11 +0000 2009",
   "user" : {
@@ -2788,7 +2794,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3322055318",
-  "text" : "\"Hi. I’m at the cabin. Have had 3 whiskeys. It’s been a hard day. And it’s really hard to type. […] I...\" http://tumblr.com/x172p78qs",
+  "text" : "\"Hi. I\u2019m at the cabin. Have had 3 whiskeys. It\u2019s been a hard day. And it\u2019s really hard to type. [\u2026] I...\" http://tumblr.com/x172p78qs",
   "id" : 3322055318,
   "created_at" : "Sat Aug 15 03:35:06 +0000 2009",
   "user" : {
@@ -2949,7 +2955,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3316081935",
-  "text" : "Video: this doesn’t get old. http://tumblr.com/x172p318a",
+  "text" : "Video: this doesn\u2019t get old. http://tumblr.com/x172p318a",
   "id" : 3316081935,
   "created_at" : "Fri Aug 14 21:31:22 +0000 2009",
   "user" : {
@@ -3157,7 +3163,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3312736859",
-  "text" : "Lerxst Rants - This is the “stream of consciousness” part of the song. There’s an entire playlist of these... http://tumblr.com/x172p0sbz",
+  "text" : "Lerxst Rants - This is the \u201Cstream of consciousness\u201D part of the song. There\u2019s an entire playlist of these... http://tumblr.com/x172p0sbz",
   "id" : 3312736859,
   "created_at" : "Fri Aug 14 18:28:38 +0000 2009",
   "user" : {
@@ -3214,7 +3220,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3310631935",
-  "text" : "Video: I’m moving to Japan. http://tumblr.com/x172ozesg",
+  "text" : "Video: I\u2019m moving to Japan. http://tumblr.com/x172ozesg",
   "id" : 3310631935,
   "created_at" : "Fri Aug 14 16:37:38 +0000 2009",
   "user" : {
@@ -3260,7 +3266,7 @@ Grailbird.data.tweets_2009_08 =
   "geo" : {
   },
   "id_str" : "3307329200",
-  "text" : "\"Pretty soon, all programming will be web programming. If you don’t think that’s a cause for celebration...\" http://tumblr.com/x172oxcep",
+  "text" : "\"Pretty soon, all programming will be web programming. If you don\u2019t think that\u2019s a cause for celebration...\" http://tumblr.com/x172oxcep",
   "id" : 3307329200,
   "created_at" : "Fri Aug 14 13:28:13 +0000 2009",
   "user" : {

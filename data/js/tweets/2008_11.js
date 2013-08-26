@@ -1093,7 +1093,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -1159,7 +1159,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 35, 42 ],
       "id_str" : "659933",
@@ -1347,7 +1347,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "<a href=\"http://www.tweetdeck.com/\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -1947,7 +1947,7 @@ Grailbird.data.tweets_2008_11 =
       "id_str" : "9488922",
       "id" : 9488922
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 86, 93 ],
       "id_str" : "659933",
@@ -2563,7 +2563,7 @@ Grailbird.data.tweets_2008_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 0, 16 ],
       "id_str" : "8091602",
@@ -3756,7 +3756,13 @@ Grailbird.data.tweets_2008_11 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

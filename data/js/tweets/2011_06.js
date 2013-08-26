@@ -140,7 +140,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "2CLINTZ",
+      "name" : "MILEY CYRUS ECKER",
       "screen_name" : "clint",
       "indices" : [ 0, 6 ],
       "id_str" : "45993",
@@ -716,7 +716,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 72, 91 ],
       "url" : "http://t.co/IStKDhd",
       "expanded_url" : "https://github.com/thoughtbot/radish-heroku",
-      "display_url" : "github.com/thoughtbot/rad…"
+      "display_url" : "github.com/thoughtbot/rad\u2026"
     } ]
   },
   "geo" : {
@@ -745,7 +745,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 57, 76 ],
         "url" : "http://t.co/IStKDhd",
         "expanded_url" : "https://github.com/thoughtbot/radish-heroku",
-        "display_url" : "github.com/thoughtbot/rad…"
+        "display_url" : "github.com/thoughtbot/rad\u2026"
       } ]
     },
     "geo" : {
@@ -809,7 +809,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 32, 51 ],
       "url" : "http://t.co/JMSwslG",
       "expanded_url" : "http://bostonography.com/2011/cantabrigian-namesakes/",
-      "display_url" : "bostonography.com/2011/cantabrig…"
+      "display_url" : "bostonography.com/2011/cantabrig\u2026"
     } ]
   },
   "geo" : {
@@ -837,7 +837,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/Ze21fyZ",
       "expanded_url" : "http://29.media.tumblr.com/tumblr_ll4kcltDYH1qjvsoxo1_r2_500.png",
-      "display_url" : "29.media.tumblr.com/tumblr_ll4kclt…"
+      "display_url" : "29.media.tumblr.com/tumblr_ll4kclt\u2026"
     } ]
   },
   "geo" : {
@@ -934,7 +934,7 @@ Grailbird.data.tweets_2011_06 =
     "id" : 83919014987956224,
     "created_at" : "Thu Jun 23 15:27:06 +0000 2011",
     "user" : {
-      "name" : "Harold Giménez",
+      "name" : "Harold Gim\u00E9nez",
       "screen_name" : "hgmnz",
       "protected" : false,
       "id_str" : "24425454",
@@ -964,7 +964,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 27, 46 ],
       "url" : "http://t.co/o6Io8Kv",
       "expanded_url" : "http://www.youtube.com/watch?v=O6VAU-1qE5Y",
-      "display_url" : "youtube.com/watch?v=O6VAU-…"
+      "display_url" : "youtube.com/watch?v=O6VAU-\u2026"
     } ]
   },
   "geo" : {
@@ -1202,7 +1202,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "dylanhorrocks",
       "protected" : false,
       "id_str" : "16090858",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/1403466514/selfportrait700pxwide_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3463122723/396f3c318d87dce77645d02ce85e595a_normal.jpeg",
       "id" : 16090858,
       "verified" : false
     }
@@ -1222,7 +1222,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -1348,7 +1348,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 10, 29 ],
       "url" : "http://t.co/ftd5tdV",
       "expanded_url" : "http://en.wikipedia.org/wiki/Armand_de_Brignac",
-      "display_url" : "en.wikipedia.org/wiki/Armand_de…"
+      "display_url" : "en.wikipedia.org/wiki/Armand_de\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "83206677431730176",
@@ -1381,7 +1381,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 42, 61 ],
       "url" : "http://t.co/iEXhJgL",
       "expanded_url" : "http://coedbc.files.wordpress.com/2011/06/bruins-foxwoods-2.jpg",
-      "display_url" : "coedbc.files.wordpress.com/2011/06/bruins…"
+      "display_url" : "coedbc.files.wordpress.com/2011/06/bruins\u2026"
     } ]
   },
   "geo" : {
@@ -1409,7 +1409,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 68, 87 ],
       "url" : "http://t.co/zivEizb",
       "expanded_url" : "http://bostinnovation.com/2011/06/21/boston-bruins-156679-74-bar-tab-receipt-image/",
-      "display_url" : "bostinnovation.com/2011/06/21/bos…"
+      "display_url" : "bostinnovation.com/2011/06/21/bos\u2026"
     } ]
   },
   "geo" : {
@@ -1431,7 +1431,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy Weiskotten",
+      "name" : "Jeremy.txt",
       "screen_name" : "doctorzaius",
       "indices" : [ 0, 12 ],
       "id_str" : "15294983",
@@ -1522,7 +1522,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 0, 6 ],
       "id_str" : "6815762",
@@ -1802,7 +1802,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/G21Z1WR",
       "expanded_url" : "http://29.media.tumblr.com/tumblr_lmwt2vuuOb1qjvsoxo1_500.png",
-      "display_url" : "29.media.tumblr.com/tumblr_lmwt2vu…"
+      "display_url" : "29.media.tumblr.com/tumblr_lmwt2vu\u2026"
     } ]
   },
   "geo" : {
@@ -1930,7 +1930,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -2183,7 +2183,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nicolás Hock Isaza",
+      "name" : "Nicol\u00E1s Hock Isaza",
       "screen_name" : "nhocki",
       "indices" : [ 0, 7 ],
       "id_str" : "85498700",
@@ -2285,7 +2285,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(•_•) ( •_•) (⌐■_■)",
+      "name" : "Cliff",
       "screen_name" : "moonpolysoft",
       "indices" : [ 0, 13 ],
       "id_str" : "14204623",
@@ -2297,7 +2297,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 26, 45 ],
       "url" : "http://t.co/fCCl2fQ",
       "expanded_url" : "http://www.youtube.com/user/LittleMonsterJudas#p/u/14/ynkhrn2bCo4",
-      "display_url" : "youtube.com/user/LittleMon…"
+      "display_url" : "youtube.com/user/LittleMon\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "81503970366984192",
@@ -2466,7 +2466,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jérémy Lecour",
+      "name" : "J\u00E9r\u00E9my Lecour",
       "screen_name" : "jlecour",
       "indices" : [ 0, 8 ],
       "id_str" : "14587814",
@@ -2607,7 +2607,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "KermIt Ali ",
+      "name" : "KakakarrotCake",
       "screen_name" : "kermlt",
       "indices" : [ 11, 18 ],
       "id_str" : "390020579",
@@ -2933,7 +2933,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 43, 62 ],
       "url" : "http://t.co/trHPvzy",
       "expanded_url" : "http://codeulate.com/2011/06/programmer-resumes-are-deprecated/",
-      "display_url" : "codeulate.com/2011/06/progra…"
+      "display_url" : "codeulate.com/2011/06/progra\u2026"
     } ]
   },
   "geo" : {
@@ -2967,7 +2967,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 57, 76 ],
       "url" : "http://t.co/bIOi2eS",
       "expanded_url" : "http://codeulate.com/2011/06/programmer-resumes-are-deprecated/",
-      "display_url" : "codeulate.com/2011/06/progra…"
+      "display_url" : "codeulate.com/2011/06/progra\u2026"
     } ]
   },
   "geo" : {
@@ -2984,7 +2984,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 47, 66 ],
         "url" : "http://t.co/bIOi2eS",
         "expanded_url" : "http://codeulate.com/2011/06/programmer-resumes-are-deprecated/",
-        "display_url" : "codeulate.com/2011/06/progra…"
+        "display_url" : "codeulate.com/2011/06/progra\u2026"
       } ]
     },
     "geo" : {
@@ -3024,7 +3024,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 39, 58 ],
       "url" : "http://t.co/DaAZu95",
       "expanded_url" : "https://github.com/flori/json/issues/68",
-      "display_url" : "github.com/flori/json/iss…"
+      "display_url" : "github.com/flori/json/iss\u2026"
     } ]
   },
   "geo" : {
@@ -3154,7 +3154,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 23, 42 ],
       "url" : "http://t.co/kmY9lVK",
       "expanded_url" : "http://robots.thoughtbot.com/post/2729333530/fetching-source-index-for-http-rubygems-org",
-      "display_url" : "robots.thoughtbot.com/post/272933353…"
+      "display_url" : "robots.thoughtbot.com/post/272933353\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "80319107551076352",
@@ -3216,7 +3216,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 48, 67 ],
       "url" : "http://t.co/nMolAbv",
       "expanded_url" : "http://www.penny-arcade.com/comic/2011/6/10/",
-      "display_url" : "penny-arcade.com/comic/2011/6/1…"
+      "display_url" : "penny-arcade.com/comic/2011/6/1\u2026"
     } ]
   },
   "geo" : {
@@ -3250,7 +3250,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 120, 139 ],
       "url" : "http://t.co/muiOEXe",
       "expanded_url" : "https://github.com/mkrecny/redis-extend",
-      "display_url" : "github.com/mkrecny/redis-…"
+      "display_url" : "github.com/mkrecny/redis-\u2026"
     } ]
   },
   "geo" : {
@@ -3267,7 +3267,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 105, 124 ],
         "url" : "http://t.co/muiOEXe",
         "expanded_url" : "https://github.com/mkrecny/redis-extend",
-        "display_url" : "github.com/mkrecny/redis-…"
+        "display_url" : "github.com/mkrecny/redis-\u2026"
       } ]
     },
     "geo" : {
@@ -3307,7 +3307,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/sm65jUM",
       "expanded_url" : "http://www.flickr.com/photos/emptysquare/5254693071/",
-      "display_url" : "flickr.com/photos/emptysq…"
+      "display_url" : "flickr.com/photos/emptysq\u2026"
     } ]
   },
   "geo" : {
@@ -3429,7 +3429,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/Vh9iPMu",
       "expanded_url" : "http://27.media.tumblr.com/tumblr_lmnwdxoX4P1qjmniro1_500.gif",
-      "display_url" : "27.media.tumblr.com/tumblr_lmnwdxo…"
+      "display_url" : "27.media.tumblr.com/tumblr_lmnwdxo\u2026"
     } ]
   },
   "geo" : {
@@ -3451,7 +3451,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 0, 9 ],
       "id_str" : "5674672",
@@ -3497,7 +3497,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 13, 32 ],
       "url" : "http://t.co/Wx9T6Oa",
       "expanded_url" : "http://www.youtube.com/watch?v=21OH0wlkfbc",
-      "display_url" : "youtube.com/watch?v=21OH0w…"
+      "display_url" : "youtube.com/watch?v=21OH0w\u2026"
     } ]
   },
   "in_reply_to_status_id_str" : "79952628414562304",
@@ -3907,7 +3907,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -4477,7 +4477,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 77, 96 ],
       "url" : "http://t.co/QEkmWLA",
       "expanded_url" : "http://bostinnovation.com/2011/06/09/lessons-learned-from-3-saas-launches-in-2011/",
-      "display_url" : "bostinnovation.com/2011/06/09/les…"
+      "display_url" : "bostinnovation.com/2011/06/09/les\u2026"
     } ]
   },
   "geo" : {
@@ -4494,7 +4494,7 @@ Grailbird.data.tweets_2011_06 =
         "indices" : [ 61, 80 ],
         "url" : "http://t.co/QEkmWLA",
         "expanded_url" : "http://bostinnovation.com/2011/06/09/lessons-learned-from-3-saas-launches-in-2011/",
-        "display_url" : "bostinnovation.com/2011/06/09/les…"
+        "display_url" : "bostinnovation.com/2011/06/09/les\u2026"
       } ]
     },
     "geo" : {
@@ -4534,7 +4534,7 @@ Grailbird.data.tweets_2011_06 =
       "indices" : [ 16, 35 ],
       "url" : "http://t.co/bsbzVZO",
       "expanded_url" : "http://www.youtube.com/watch?v=2a4gyJsY0mc",
-      "display_url" : "youtube.com/watch?v=2a4gyJ…"
+      "display_url" : "youtube.com/watch?v=2a4gyJ\u2026"
     } ]
   },
   "geo" : {
@@ -4649,7 +4649,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "5444392",
       "id" : 5444392
     }, {
-      "name" : "Chris Meiklejohn",
+      "name" : "C. Sc. Meiklejohn",
       "screen_name" : "cmeik",
       "indices" : [ 31, 37 ],
       "id_str" : "6815762",
@@ -5269,7 +5269,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bradley Grzesiak",
+      "name" : "Brad Grzesiak",
       "screen_name" : "listrophy",
       "indices" : [ 0, 10 ],
       "id_str" : "1949721",
@@ -5511,7 +5511,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -5665,7 +5665,7 @@ Grailbird.data.tweets_2011_06 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jake Mallory ♓",
+      "name" : "Jake Mallory",
       "screen_name" : "jakemallory",
       "indices" : [ 0, 12 ],
       "id_str" : "14227832",
@@ -5784,7 +5784,7 @@ Grailbird.data.tweets_2011_06 =
       "screen_name" : "tehviking",
       "protected" : false,
       "id_str" : "59341538",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3310777592/b8900d778210b05f8c56705b7861d723_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3322536129/48a6ffc3aa1bfd0684d16c76c40e6e76_normal.jpeg",
       "id" : 59341538,
       "verified" : false
     }
@@ -6187,7 +6187,7 @@ Grailbird.data.tweets_2011_06 =
       "id_str" : "6637242",
       "id" : 6637242
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 56, 65 ],
       "id_str" : "5674672",

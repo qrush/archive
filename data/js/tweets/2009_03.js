@@ -1152,7 +1152,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mike Crassweller",
+      "name" : "Michael Crassweller",
       "screen_name" : "zoomba",
       "indices" : [ 3, 10 ],
       "id_str" : "6118872",
@@ -1233,7 +1233,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Julien Ponge ♨",
+      "name" : "Julien Ponge",
       "screen_name" : "jponge",
       "indices" : [ 0, 7 ],
       "id_str" : "16067953",
@@ -1311,7 +1311,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -2865,7 +2865,7 @@ Grailbird.data.tweets_2009_03 =
   "geo" : {
   },
   "id_str" : "1339499078",
-  "text" : "wtf is this on facebook? select all text, and I get \"SO : 529.77 →\" under the sidebar",
+  "text" : "wtf is this on facebook? select all text, and I get \"SO : 529.77 \u2192\" under the sidebar",
   "id" : 1339499078,
   "created_at" : "Tue Mar 17 00:30:29 +0000 2009",
   "user" : {
@@ -4997,7 +4997,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allan A. Bargi",
+      "name" : "Allen A. Bargi",
       "screen_name" : "aziz",
       "indices" : [ 0, 5 ],
       "id_str" : "2174821",
@@ -5155,7 +5155,7 @@ Grailbird.data.tweets_2009_03 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Allan A. Bargi",
+      "name" : "Allen A. Bargi",
       "screen_name" : "aziz",
       "indices" : [ 0, 5 ],
       "id_str" : "2174821",
@@ -5524,10 +5524,10 @@ Grailbird.data.tweets_2009_03 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Ben Behrouzi",
-      "screen_name" : "BenBehrouzi",
+      "screen_name" : "benbehrouzi",
       "indices" : [ 0, 12 ],
-      "id_str" : "15940695",
-      "id" : 15940695
+      "id_str" : "1302683407",
+      "id" : 1302683407
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -5540,7 +5540,7 @@ Grailbird.data.tweets_2009_03 =
   "text" : "@BenBehrouzi CAN I HAS MACBOOK AIR? http://tinyurl.com/de7f6b",
   "id" : 1273422791,
   "created_at" : "Tue Mar 03 11:57:39 +0000 2009",
-  "in_reply_to_screen_name" : "BenBehrouzi",
+  "in_reply_to_screen_name" : "ToTrueNorth",
   "in_reply_to_user_id_str" : "15940695",
   "user" : {
     "name" : "Nick Quaranto",

@@ -175,7 +175,7 @@ Grailbird.data.tweets_2008_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 9, 25 ],
       "id_str" : "8091602",
@@ -329,7 +329,13 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1430,7 +1436,7 @@ Grailbird.data.tweets_2008_09 =
   "geo" : {
   },
   "id_str" : "925200267",
-  "text" : "TwitterKeys: bringing dingbats back to life. http://is.gd/2J3y ☹ Best one is definitely the sickle 'n hammer: ☭",
+  "text" : "TwitterKeys: bringing dingbats back to life. http://is.gd/2J3y \u2639 Best one is definitely the sickle 'n hammer: \u262D",
   "id" : 925200267,
   "created_at" : "Wed Sep 17 22:22:24 +0000 2008",
   "user" : {
@@ -1508,7 +1514,13 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -1537,6 +1549,12 @@ Grailbird.data.tweets_2008_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    }, {
       "name" : "Obie",
       "screen_name" : "obie",
       "indices" : [ 91, 96 ],
@@ -1604,7 +1622,13 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -2832,6 +2856,12 @@ Grailbird.data.tweets_2008_09 =
       "indices" : [ 0, 7 ],
       "id_str" : "14183391",
       "id" : 14183391
+    }, {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 27, 41 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2976,6 +3006,12 @@ Grailbird.data.tweets_2008_09 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
+      "name" : "Michael Trinity",
+      "screen_name" : "TheProkrammer",
+      "indices" : [ 15, 29 ],
+      "id_str" : "1454222514",
+      "id" : 1454222514
+    }, {
       "name" : "the reddit alien",
       "screen_name" : "reddit",
       "indices" : [ 48, 55 ],
@@ -4241,7 +4277,13 @@ Grailbird.data.tweets_2008_09 =
 }, {
   "source" : "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Amazinsyco",
+      "screen_name" : "Amazingsyco",
+      "indices" : [ 0, 12 ],
+      "id_str" : "1665428419",
+      "id" : 1665428419
+    } ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

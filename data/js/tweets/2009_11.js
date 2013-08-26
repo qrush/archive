@@ -402,7 +402,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kevin W. Gisi",
+      "name" : "Kevin Gisi",
       "screen_name" : "gisikw",
       "indices" : [ 0, 7 ],
       "id_str" : "14308739",
@@ -1247,8 +1247,8 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "elliottcable",
-      "screen_name" : "elliottcable",
+      "name" : "ELLIOTTCABLE",
+      "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 0, 13 ],
       "id_str" : "771681",
       "id" : 771681
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2009_11 =
   "id" : 5982878861,
   "in_reply_to_status_id" : 5982812166,
   "created_at" : "Mon Nov 23 17:59:50 +0000 2009",
-  "in_reply_to_screen_name" : "elliottcable",
+  "in_reply_to_screen_name" : "ELLIOTTCABLE",
   "in_reply_to_user_id_str" : "771681",
   "user" : {
     "name" : "Nick Quaranto",
@@ -1496,7 +1496,7 @@ Grailbird.data.tweets_2009_11 =
       "id_str" : "6556972",
       "id" : 6556972
     }, {
-      "name" : "Kevin W. Gisi",
+      "name" : "Kevin Gisi",
       "screen_name" : "gisikw",
       "indices" : [ 30, 37 ],
       "id_str" : "14308739",
@@ -1567,7 +1567,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -2890,7 +2890,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Garrett Atreides",
+      "name" : "GarrettAtreides",
       "screen_name" : "GarrettAtreides",
       "indices" : [ 0, 16 ],
       "id_str" : "8091602",
@@ -3568,17 +3568,12 @@ Grailbird.data.tweets_2009_11 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "5721351667",
   "geo" : {
   },
   "id_str" : "5721572855",
-  "in_reply_to_user_id" : 17323515,
   "text" : "@tsally gemcutter.org will still continue to work, the domain is going nowhere. gemcutter.org and rubygems.org will point to the same place",
   "id" : 5721572855,
-  "in_reply_to_status_id" : 5721351667,
   "created_at" : "Sat Nov 14 23:32:36 +0000 2009",
-  "in_reply_to_screen_name" : "timsally",
-  "in_reply_to_user_id_str" : "17323515",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -4028,7 +4023,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5662896871",
-  "text" : "\"I’m looking for a mature MVC web framework comparable in features and performance to django/rails but...\" http://tumblr.com/x17400ya7",
+  "text" : "\"I\u2019m looking for a mature MVC web framework comparable in features and performance to django/rails but...\" http://tumblr.com/x17400ya7",
   "id" : 5662896871,
   "created_at" : "Thu Nov 12 23:11:40 +0000 2009",
   "user" : {
@@ -4081,7 +4076,7 @@ Grailbird.data.tweets_2009_11 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mislav Marohnić",
+      "name" : "Mislav Marohni\u0107",
       "screen_name" : "mislav",
       "indices" : [ 0, 7 ],
       "id_str" : "7516242",
@@ -4202,7 +4197,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5636386301",
-  "text" : "Video: kevin: Either this, or highways will remain exactly the same… only time will tell! http://tumblr.com/x173zfka6",
+  "text" : "Video: kevin: Either this, or highways will remain exactly the same\u2026 only time will tell! http://tumblr.com/x173zfka6",
   "id" : 5636386301,
   "created_at" : "Thu Nov 12 01:34:59 +0000 2009",
   "user" : {
@@ -4940,7 +4935,7 @@ Grailbird.data.tweets_2009_11 =
   "geo" : {
   },
   "id_str" : "5488054154",
-  "text" : "Photo: OpenOffice mouse. This can’t be for real. via @eladmeidar http://tumblr.com/x173w1w4w",
+  "text" : "Photo: OpenOffice mouse. This can\u2019t be for real. via @eladmeidar http://tumblr.com/x173w1w4w",
   "id" : 5488054154,
   "created_at" : "Fri Nov 06 20:26:30 +0000 2009",
   "user" : {

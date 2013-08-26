@@ -64,7 +64,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Hankers",
+      "name" : "Hank",
       "screen_name" : "Hankers",
       "indices" : [ 0, 8 ],
       "id_str" : "17735910",
@@ -131,7 +131,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "RobotDeathSquad",
       "protected" : false,
       "id_str" : "637113",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/553431069/gravatar_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000041039702/5b4cc07b2005a680410bbf6c9a34c7ef_normal.jpeg",
       "id" : 637113,
       "verified" : false
     }
@@ -535,7 +535,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Nick Sieger [日空]",
+      "name" : "Nick Sieger [\u65E5\u7A7A]",
       "screen_name" : "nicksieger",
       "indices" : [ 0, 11 ],
       "id_str" : "5504482",
@@ -821,7 +821,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "Croaky",
       "protected" : false,
       "id_str" : "787595",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2973205483/196a315da749f16cd294f0870e14853a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3478041871/e95ba84623ac1eb393e62c934940c4f9_normal.jpeg",
       "id" : 787595,
       "verified" : false
     }
@@ -968,7 +968,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "9594381042",
-  "text" : "Video: “The idea was to play with pitch and color, but you know what’s more fun? YELLING AT EVERYTHING” http://tumblr.com/x176rxio2",
+  "text" : "Video: \u201CThe idea was to play with pitch and color, but you know what\u2019s more fun? YELLING AT EVERYTHING\u201D http://tumblr.com/x176rxio2",
   "id" : 9594381042,
   "created_at" : "Wed Feb 24 21:52:28 +0000 2010",
   "user" : {
@@ -1007,7 +1007,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Marc-André Cournoyer",
+      "name" : "Marc-Andr\u00E9 Cournoyer",
       "screen_name" : "macournoyer",
       "indices" : [ 56, 68 ],
       "id_str" : "5915562",
@@ -1627,7 +1627,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Build Doctor",
+      "name" : "Julian Simpson",
       "screen_name" : "builddoctor",
       "indices" : [ 0, 12 ],
       "id_str" : "60339361",
@@ -1679,7 +1679,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "21991789",
       "id" : 21991789
     }, {
-      "name" : "The Build Doctor",
+      "name" : "Julian Simpson",
       "screen_name" : "builddoctor",
       "indices" : [ 9, 21 ],
       "id_str" : "60339361",
@@ -1811,7 +1811,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "9451422973",
-  "text" : "Photo: “I had that Javatar dream again last night” http://tumblr.com/x176oc331",
+  "text" : "Photo: \u201CI had that Javatar dream again last night\u201D http://tumblr.com/x176oc331",
   "id" : 9451422973,
   "created_at" : "Mon Feb 22 00:12:02 +0000 2010",
   "user" : {
@@ -1834,7 +1834,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "9448999657",
-  "text" : "Photo: Since gunshowcomic.com never updates, the author’s LJ will have to do. http://tumblr.com/x176o9ej4",
+  "text" : "Photo: Since gunshowcomic.com never updates, the author\u2019s LJ will have to do. http://tumblr.com/x176o9ej4",
   "id" : 9448999657,
   "created_at" : "Sun Feb 21 23:07:18 +0000 2010",
   "user" : {
@@ -2056,7 +2056,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "<a href=\"http://twidroid.com\" rel=\"nofollow\">twidroid</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -2311,7 +2311,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "9353512244",
-  "text" : "Closely following on the “least drunk’’ end of the list are... Rochester, N.Y. http://is.gd/8KvNf",
+  "text" : "Closely following on the \u201Cleast drunk\u2019\u2019 end of the list are... Rochester, N.Y. http://is.gd/8KvNf",
   "id" : 9353512244,
   "created_at" : "Fri Feb 19 21:29:37 +0000 2010",
   "user" : {
@@ -2476,7 +2476,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "744613",
       "id" : 744613
     }, {
-      "name" : "Penguinoh",
+      "name" : "Penguinoh Waddles",
       "screen_name" : "penguinoh",
       "indices" : [ 24, 34 ],
       "id_str" : "93986627",
@@ -2786,7 +2786,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -4780,17 +4780,12 @@ Grailbird.data.tweets_2010_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "8943469642",
   "geo" : {
   },
   "id_str" : "8943544984",
-  "in_reply_to_user_id" : 15234330,
   "text" : "@ninh there's passenger buckin' a bale of hay! http://www.youtube.com/watch?v=JvltzwkUEEA",
   "id" : 8943544984,
-  "in_reply_to_status_id" : 8943469642,
   "created_at" : "Thu Feb 11 03:11:27 +0000 2010",
-  "in_reply_to_screen_name" : "ninh",
-  "in_reply_to_user_id_str" : "15234330",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
@@ -5133,7 +5128,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "seththomasrasmussen",
+      "name" : "greatseth",
       "screen_name" : "greatseth",
       "indices" : [ 0, 10 ],
       "id_str" : "15181592",
@@ -5255,7 +5250,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "8834171171",
-  "text" : "Video: One man cover of Subdivisions…on a roof. Amazing. http://tumblr.com/x1769o3jj",
+  "text" : "Video: One man cover of Subdivisions\u2026on a roof. Amazing. http://tumblr.com/x1769o3jj",
   "id" : 8834171171,
   "created_at" : "Tue Feb 09 01:27:57 +0000 2010",
   "user" : {
@@ -5311,7 +5306,7 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -5819,7 +5814,7 @@ Grailbird.data.tweets_2010_02 =
       "id_str" : "5813712",
       "id" : 5813712
     }, {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 46, 55 ],
       "id_str" : "14658472",
@@ -5905,11 +5900,11 @@ Grailbird.data.tweets_2010_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Matt Aimonetti",
+      "name" : "follow @mattetti",
       "screen_name" : "merbist",
       "indices" : [ 0, 8 ],
-      "id_str" : "16476741",
-      "id" : 16476741
+      "id_str" : "1549117117",
+      "id" : 1549117117
     }, {
       "name" : "Brian Lopez",
       "screen_name" : "brianmario",
@@ -5930,7 +5925,7 @@ Grailbird.data.tweets_2010_02 =
   "id" : 8733566125,
   "in_reply_to_status_id" : 8733465704,
   "created_at" : "Sat Feb 06 19:34:46 +0000 2010",
-  "in_reply_to_screen_name" : "merbist",
+  "in_reply_to_screen_name" : "mattetti",
   "in_reply_to_user_id_str" : "16476741",
   "user" : {
     "name" : "Nick Quaranto",
@@ -6300,7 +6295,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "timocratic",
       "protected" : false,
       "id_str" : "14086000",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/532917848/me_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000045265098/f8582f2640ba8fee5957a95964b1555c_normal.jpeg",
       "id" : 14086000,
       "verified" : false
     }
@@ -6536,7 +6531,7 @@ Grailbird.data.tweets_2010_02 =
   "geo" : {
   },
   "id_str" : "8664855985",
-  "text" : "Video: “Tom Sawyer built a raft and floated down a river with a black guy, I read the book!” http://tumblr.com/x1765dadu",
+  "text" : "Video: \u201CTom Sawyer built a raft and floated down a river with a black guy, I read the book!\u201D http://tumblr.com/x1765dadu",
   "id" : 8664855985,
   "created_at" : "Fri Feb 05 05:11:35 +0000 2010",
   "user" : {
@@ -7172,7 +7167,7 @@ Grailbird.data.tweets_2010_02 =
       "screen_name" : "zedshaw",
       "protected" : false,
       "id_str" : "15029296",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3115125075/e979582e8d9b0eae14cc5fc7994a1675_normal.jpeg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000178825025/e895500d13f37892ab1a78c4b9b6bc4f_normal.jpeg",
       "id" : 15029296,
       "verified" : false
     }
@@ -7558,13 +7553,7 @@ Grailbird.data.tweets_2010_02 =
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Anlek Consulting",
-      "screen_name" : "anlek",
-      "indices" : [ 0, 6 ],
-      "id_str" : "51178003",
-      "id" : 51178003
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]

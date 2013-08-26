@@ -2202,7 +2202,7 @@ Grailbird.data.tweets_2009_02 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -5374,7 +5374,7 @@ Grailbird.data.tweets_2009_02 =
       "id_str" : "9514702",
       "id" : 9514702
     }, {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 29, 36 ],
       "id_str" : "659933",

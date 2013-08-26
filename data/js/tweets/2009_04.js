@@ -753,13 +753,13 @@ Grailbird.data.tweets_2009_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "ジョヴァンニ (Giannii)",
+      "name" : "\u30B8\u30E7\u30F4\u30A1\u30F3\u30CB",
       "screen_name" : "giannii",
       "indices" : [ 0, 8 ],
       "id_str" : "1048934948",
       "id" : 1048934948
     }, {
-      "name" : "DISQUS",
+      "name" : "Disqus",
       "screen_name" : "disqus",
       "indices" : [ 9, 16 ],
       "id_str" : "14130628",
@@ -3327,7 +3327,7 @@ Grailbird.data.tweets_2009_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jérémy Lecour",
+      "name" : "J\u00E9r\u00E9my Lecour",
       "screen_name" : "jlecour",
       "indices" : [ 0, 8 ],
       "id_str" : "14587814",

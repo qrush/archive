@@ -14,8 +14,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22676674455",
   "text" : "Apparently this is what I needed. Will try it out tomorrow, until then @rubygems is silent. http://dev.twitter.com/pages/oauth_single_token",
@@ -39,8 +37,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22671795910",
   "text" : "&gt;&gt; Twitter::Unauthorized: (401): Unauthorized - Invalid / expired Token\nFFFFUUUUUUUUUUU",
@@ -76,8 +72,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22671608962",
   "text" : "Also, another lesson learned tonight, @evan != @evanphx. Thanks for putting up with me, folks! :D",
@@ -107,8 +101,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22670189315",
   "text" : "Thanks @dpickett, no idea why this example with the PIN isn't in *ANY* docs I could find. https://gist.github.com/78dde630c8c50d3b841c",
@@ -132,8 +124,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22669228530",
   "text" : "Convinced that writing Mechanize/Nokogiri scraper to log in and press \"TWEET\" would be easier than OAuth.",
@@ -284,8 +274,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22664876107",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22665031837",
   "in_reply_to_user_id" : 49763,
@@ -320,8 +308,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22664771483",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288729, -71.132709 ]
   },
   "id_str" : "22664868709",
   "in_reply_to_user_id" : 14237677,
@@ -355,8 +341,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560674, -71.0618146 ]
   },
   "id_str" : "22627980028",
   "text" : "Enjoying @lanyrd so far! Signed up for the conferences I'm going to for fall. http://lanyrd.com/people/qrush/",
@@ -387,8 +371,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22626424385",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560674, -71.0618146 ]
   },
   "id_str" : "22627068441",
   "in_reply_to_user_id" : 18455656,
@@ -481,8 +463,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289399, -71.1326913 ]
   },
   "id_str" : "22569128949",
   "text" : "Any suggestions for sites like http://traineo.com/ that doesn't suck?",
@@ -518,8 +498,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560612, -71.0618104 ]
   },
   "id_str" : "22559978857",
   "text" : "Way behind on @rubygems / @gemcutter support issues. Will go through the queue tonight.",
@@ -543,8 +521,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560932, -71.0618124 ]
   },
   "id_str" : "22531877797",
   "text" : "Apparently every idea I've ever had, someone else is already working on. Sick of this trend.",
@@ -575,8 +551,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22524110193",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560428, -71.0618147 ]
   },
   "id_str" : "22524974906",
   "in_reply_to_user_id" : 18455656,
@@ -596,7 +570,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -604,8 +578,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3323833556, -71.1178366111 ]
   },
   "id_str" : "22522950472",
   "text" : "The green line after 9am is so much less stressful.",
@@ -636,8 +608,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22485844096",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288159, -71.1326792 ]
   },
   "id_str" : "22490280121",
   "in_reply_to_user_id" : 15493123,
@@ -657,7 +627,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "risk _danger_ olson",
@@ -672,8 +642,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22473468216",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3660024, -71.01505975 ]
   },
   "id_str" : "22479279112",
   "in_reply_to_user_id" : 780561,
@@ -693,7 +661,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Chris Strom",
@@ -708,8 +676,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22473383005",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3660024, -71.01505975 ]
   },
   "id_str" : "22479251334",
   "in_reply_to_user_id" : 18334333,
@@ -729,7 +695,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -737,8 +703,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3655364, -71.0155491 ]
   },
   "id_str" : "22479158403",
   "text" : "Wheels down BOS! I'm missing all the Rails 3 fun.",
@@ -754,7 +718,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -762,8 +726,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.934549, -78.7320235 ]
   },
   "id_str" : "22473369197",
   "text" : "Boarded over an hour after scheduled. Adios BUF.",
@@ -779,7 +741,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -787,8 +749,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.9342181, -78.7322861 ]
   },
   "id_str" : "22473218934",
   "text" : "Testing node.js is really, really hard. Callbacks make simple things frustrating.",
@@ -804,7 +764,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Yehuda Katz",
@@ -819,8 +779,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22462725961",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 43.016, -78.861077 ]
   },
   "id_str" : "22463676137",
   "in_reply_to_user_id" : 8526432,
@@ -840,7 +798,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -848,8 +806,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.8844735333, -78.7804262333 ]
   },
   "id_str" : "22442650905",
   "text" : "Back in BUF from Canada with the family. Returning to BOS tonight!",
@@ -868,7 +824,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "node knockout",
+      "name" : "Node Knockout",
       "screen_name" : "node_knockout",
       "indices" : [ 82, 96 ],
       "id_str" : "148922824",
@@ -879,8 +835,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.8638194, -79.0605388 ]
   },
   "id_str" : "22404555763",
   "text" : "`man node` has been a huge help while under internet blackout. excited to see the @node_knockout results.",
@@ -896,7 +850,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -904,8 +858,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.879103, -78.872607 ]
   },
   "id_str" : "22295763096",
   "text" : "Current status: http://tweetphoto.com/41732780",
@@ -921,7 +873,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "wayneeseguin",
@@ -936,8 +888,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22232774902",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.9056246, -78.9237483333 ]
   },
   "id_str" : "22290830930",
   "in_reply_to_user_id" : 11587602,
@@ -957,7 +907,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -965,8 +915,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.9342181, -78.7322861 ]
   },
   "id_str" : "22229898818",
   "text" : "Wheels down BUF. Beach time imminent.",
@@ -982,7 +930,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Tom Preston-Werner",
@@ -1003,8 +951,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22215908888",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.365646425, -71.015474425 ]
   },
   "id_str" : "22216670134",
   "in_reply_to_user_id" : 5502392,
@@ -1039,8 +985,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22181977920",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560754, -71.0618283 ]
   },
   "id_str" : "22198864938",
   "in_reply_to_user_id" : 756264,
@@ -1121,8 +1065,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560654, -71.0617995 ]
   },
   "id_str" : "22185111059",
   "text" : "Screw a house, I'll take this missile silo with an airstrip. http://www.missilebases.com/adironback",
@@ -1146,8 +1088,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560873, -71.0618385 ]
   },
   "id_str" : "22178584667",
   "text" : "DO WANT http://www.youtube.com/watch?v=mTS16klgqMU",
@@ -1163,7 +1103,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Alaina",
@@ -1184,8 +1124,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22174322158",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3323963625, -71.1272599625 ]
   },
   "id_str" : "22176412636",
   "in_reply_to_user_id" : 5744682,
@@ -1220,8 +1158,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22106191149",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356084, -71.0618356 ]
   },
   "id_str" : "22106341664",
   "in_reply_to_user_id" : 127583,
@@ -1244,7 +1180,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -1256,8 +1192,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22083954691",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560502, -71.0617996 ]
   },
   "id_str" : "22088770782",
   "in_reply_to_user_id" : 10293122,
@@ -1277,7 +1211,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1286,8 +1220,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22082765573",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.330388, -71.127501 ]
   },
   "id_str" : "22082826822",
   "in_reply_to_user_id" : 16892522,
@@ -1322,8 +1254,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22018495734",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560814, -71.0618141 ]
   },
   "id_str" : "22018600463",
   "in_reply_to_user_id" : 778112,
@@ -1358,8 +1288,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "22004564397",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560625, -71.0618024 ]
   },
   "id_str" : "22007333748",
   "in_reply_to_user_id" : 11273572,
@@ -1394,8 +1322,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21976359029",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560717, -71.0618123 ]
   },
   "id_str" : "22004440998",
   "in_reply_to_user_id" : 11273572,
@@ -1418,7 +1344,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "José Valim",
+      "name" : "Jos\u00E9 Valim",
       "screen_name" : "josevalim",
       "indices" : [ 0, 10 ],
       "id_str" : "10230812",
@@ -1430,8 +1356,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21992852091",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560717, -71.0618123 ]
   },
   "id_str" : "22001584447",
   "in_reply_to_user_id" : 10230812,
@@ -1466,8 +1390,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21970817065",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288318, -71.1324513 ]
   },
   "id_str" : "21971232521",
   "in_reply_to_user_id" : 778112,
@@ -1495,8 +1417,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.328787, -71.1327066 ]
   },
   "id_str" : "21970091205",
   "text" : "Yeah, just another average night. http://github.com/rubygems/gemcutter/blob/production/Gemfile#L3",
@@ -1580,8 +1500,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21955319262",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288287, -71.1327228 ]
   },
   "id_str" : "21966911606",
   "in_reply_to_user_id" : 11886642,
@@ -1601,7 +1519,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gary Bernhardt",
@@ -1643,8 +1561,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560381, -71.0618101 ]
   },
   "id_str" : "21944582178",
   "text" : "This guy is a genius and hilarious. http://www.youtube.com/user/AndyRehfeldt Watch Hammer Smashed Face and Ozzy at least.",
@@ -1668,8 +1584,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356069, -71.061864 ]
   },
   "id_str" : "21923060349",
   "text" : "Had a vivid heist dream last night. Got away with a cool million, almost ruined my escape by tweeting with my location.",
@@ -1693,8 +1607,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3290001, -71.1326289 ]
   },
   "id_str" : "21859986380",
   "text" : "Wow. http://github.com/ry/node/wiki/modules",
@@ -1725,8 +1637,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21837857389",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289656, -71.1325784 ]
   },
   "id_str" : "21837949747",
   "in_reply_to_user_id" : 11374142,
@@ -1754,8 +1664,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289656, -71.1325784 ]
   },
   "id_str" : "21836654636",
   "text" : "Has anyone registered a .io domain before? gandi, godaddy don't have it.",
@@ -1779,8 +1687,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289754, -71.1326076 ]
   },
   "id_str" : "21812158808",
   "text" : "4695 files changed, 1545 insertions(+), 458380 deletions(-)",
@@ -1804,8 +1710,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289685, -71.1325819 ]
   },
   "id_str" : "21803468468",
   "text" : "Found a little google easter egg: http://img.skitch.com/20100822-kp7dc4f2j5y2pmxpt8p9efx8pf.jpg",
@@ -1824,7 +1728,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Aslak Hellesøy",
+      "name" : "Aslak Helles\u00F8y",
       "screen_name" : "aslak_hellesoy",
       "indices" : [ 0, 15 ],
       "id_str" : "4994591",
@@ -1842,8 +1746,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21703407304",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7728907, -70.0527036 ]
   },
   "id_str" : "21750762973",
   "in_reply_to_user_id" : 4994591,
@@ -1884,8 +1786,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21579769569",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7728907, -70.0527036 ]
   },
   "id_str" : "21750375411",
   "in_reply_to_user_id" : 1742,
@@ -1905,7 +1805,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2007,11 +1907,11 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "From Me To You",
-      "screen_name" : "_FromMeToYou",
+      "name" : "Jamie Beck",
+      "screen_name" : "_frommetoyou",
       "indices" : [ 0, 13 ],
-      "id_str" : "25283065",
-      "id" : 25283065
+      "id_str" : "1378382443",
+      "id" : 1378382443
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -2019,8 +1919,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21608443508",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7733308, -70.0527299 ]
   },
   "id_str" : "21608710695",
   "in_reply_to_user_id" : 25283065,
@@ -2028,7 +1926,7 @@ Grailbird.data.tweets_2010_08 =
   "id" : 21608710695,
   "in_reply_to_status_id" : 21608443508,
   "created_at" : "Thu Aug 19 21:21:54 +0000 2010",
-  "in_reply_to_screen_name" : "_FromMeToYou",
+  "in_reply_to_screen_name" : "AnnStreetStudio",
   "in_reply_to_user_id_str" : "25283065",
   "user" : {
     "name" : "Nick Quaranto",
@@ -2048,8 +1946,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7733308, -70.0527299 ]
   },
   "id_str" : "21606433923",
   "text" : "Planting some git ideas in your mind, a quick presentation from http://capeco.de: http://is.gd/epbvm",
@@ -2073,8 +1969,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7726981, -70.0527909 ]
   },
   "id_str" : "21512378569",
   "text" : "Fuck you, monit.",
@@ -2127,7 +2021,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Daniel Hölbling",
+      "name" : "Daniel H\u00F6lbling",
       "screen_name" : "Tigraine",
       "indices" : [ 0, 9 ],
       "id_str" : "13398292",
@@ -2192,7 +2086,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2223,8 +2117,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7729995, -70.052874 ]
   },
   "id_str" : "21458710169",
   "text" : "First taste of node.js: DELICIOUS",
@@ -2248,8 +2140,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7728294, -70.0528257 ]
   },
   "id_str" : "21453621344",
   "text" : "OH: Javascript developers do it on the client-side.",
@@ -2265,7 +2155,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Flip Sasser",
@@ -2319,8 +2209,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7734264, -70.0517914 ]
   },
   "id_str" : "21438769318",
   "text" : "Hacked together a dependency resolver endpoint for @gemcutter with @halogenandtoast that should make Bundler loads faster...SHIP IT!",
@@ -2344,8 +2232,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7726997, -70.0527869 ]
   },
   "id_str" : "21423381359",
   "text" : "Bananajour, you're the best. http://github.com/toolmantim/bananajour",
@@ -2369,8 +2255,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 41.7728295, -70.0528589 ]
   },
   "id_str" : "21337869381",
   "text" : "Well it sounds like Cassandra is a non-starter. Any suggestions for starting resources/links/preso's for Riak?",
@@ -2386,7 +2270,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Avdi Grimm",
@@ -2420,7 +2304,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2443,7 +2327,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Josh Nichols",
@@ -2472,7 +2356,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Fred Yates",
@@ -2514,8 +2398,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.2520368, -71.0027146 ]
   },
   "id_str" : "21287366857",
   "text" : "Medium difficulty on SC2 is brutal.",
@@ -2539,8 +2421,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289745, -71.1326017 ]
   },
   "id_str" : "21209766592",
   "text" : "I can't merge the SimCity and raw WoW/RPG sides of my brain for an RTS. Too much. Just give me tower defense.",
@@ -2564,8 +2444,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289745, -71.1326017 ]
   },
   "id_str" : "21209701492",
   "text" : "My fatal RTS/SC2 flaw: I can't focus on &gt; 1 thing. Can't build and attack. Impossible.",
@@ -2589,8 +2467,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3290002, -71.132637 ]
   },
   "id_str" : "21205134062",
   "text" : "Yes, I got SC2, my real id is my email (nick@quaran.to). Feel free to add me and see how much I suck at zerg rushing.",
@@ -2621,8 +2497,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "21057987200",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560537, -71.0617991 ]
   },
   "id_str" : "21064155122",
   "in_reply_to_user_id" : 19706004,
@@ -2650,8 +2524,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289814, -71.1327896 ]
   },
   "id_str" : "21035780107",
   "text" : "Starting to get excited about Cassandra, seems more grown up than Mongo for huge data sets but less confusing off the bat than Hadoop.",
@@ -2722,7 +2594,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2796,8 +2668,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3642067, -71.0797188 ]
   },
   "id_str" : "20840651379",
   "text" : "Thanks for listening to me losing my voice about Redis, slides are here: http://scr.bi/redispower",
@@ -2828,8 +2698,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20835167449",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.364208, -71.0797216 ]
   },
   "id_str" : "20835375669",
   "in_reply_to_user_id" : 6556972,
@@ -2881,8 +2749,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.364208, -71.0797216 ]
   },
   "id_str" : "20834669155",
   "text" : "Learning about OWL, RDF at @bostonrb. Brain..slowly...melting... /cc @dmansen @marcweil @paco36",
@@ -2898,7 +2764,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Boston Ruby Group",
@@ -2971,8 +2837,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20765881400",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289701, -71.1326154 ]
   },
   "id_str" : "20766383674",
   "in_reply_to_user_id" : 9980812,
@@ -2995,7 +2859,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Мэри саакян",
+      "name" : "\u041C\u044D\u0440\u0438 \u0441\u0430\u0430\u043A\u044F\u043D",
       "screen_name" : "ArmMer",
       "indices" : [ 0, 7 ],
       "id_str" : "369604063",
@@ -3006,8 +2870,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289537, -71.1326131 ]
   },
   "id_str" : "20763584035",
   "text" : "@armmer more converts avoiding the lake of fire :)",
@@ -3031,8 +2893,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289759, -71.1326062 ]
   },
   "id_str" : "20759361746",
   "text" : "Current status: http://i.imgur.com/RBoLx.jpg",
@@ -3062,8 +2922,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3290185, -71.1326681 ]
   },
   "id_str" : "20750475423",
   "text" : "Having fun with my Redis pub/sub demo for @bostonrb tomorrow! http://img.skitch.com/20100810-e3cta4hf1i13i1xqa29cst61rn.jpg",
@@ -3087,8 +2945,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3290209, -71.1327912 ]
   },
   "id_str" : "20676862973",
   "text" : "A node.js web framework and Rush? Hell yes. http://geddyjs.org/",
@@ -3112,8 +2968,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "20648276020",
   "text" : "Cmon, SC2...finish downloading!",
@@ -3129,7 +2983,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "derickbailey",
@@ -3178,8 +3032,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20569840301",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289742, -71.1326071 ]
   },
   "id_str" : "20569959340",
   "in_reply_to_user_id" : 9980812,
@@ -3248,8 +3100,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20556998618",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289916, -71.1325783 ]
   },
   "id_str" : "20557237388",
   "in_reply_to_user_id" : 790205,
@@ -3296,8 +3146,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20340229262",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.328982, -71.1324954 ]
   },
   "id_str" : "20522027733",
   "in_reply_to_user_id" : 780561,
@@ -3328,8 +3176,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.328982, -71.1324954 ]
   },
   "id_str" : "20521906219",
   "text" : "Once again, the lessons from http://is.gd/e6TOL ring true. At least you didn't suck as much as the Kin, #IronRuby.",
@@ -3360,8 +3206,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20497815889",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356052, -71.0617988 ]
   },
   "id_str" : "20497946748",
   "in_reply_to_user_id" : 7284122,
@@ -3389,8 +3233,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356052, -71.0617988 ]
   },
   "id_str" : "20497046226",
   "text" : "once again, em-proxy is awesome. http://github.com/igrigorik/em-proxy",
@@ -3414,8 +3256,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.328975, -71.1326166 ]
   },
   "id_str" : "20427513483",
   "text" : "Zach Anner at the Falls. Awesome. http://www.youtube.com/watch?v=QsIMAYphxY4",
@@ -3431,7 +3271,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Matt Todd",
@@ -3463,7 +3303,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Loren Segal",
@@ -3497,7 +3337,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3520,7 +3360,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Flip Sasser",
@@ -3568,8 +3408,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560803, -71.061833 ]
   },
   "id_str" : "20331742917",
   "text" : "Current status: http://img.skitch.com/20100804-thfkbt4u8bfixw82ccy1mf8jhq.jpg",
@@ -3599,8 +3437,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.35609, -71.0618357 ]
   },
   "id_str" : "20305674663",
   "text" : "More auto package distribution/publishing like @gemcutter, this time for Vim! http://github.com/vimjolts/vimjolts",
@@ -3616,7 +3452,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Boston Ruby Group",
@@ -3690,8 +3526,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20219911824",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3561082, -71.0618193 ]
   },
   "id_str" : "20223141597",
   "in_reply_to_user_id" : 5813712,
@@ -3726,8 +3560,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20217713887",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560836, -71.0618595 ]
   },
   "id_str" : "20218647299",
   "in_reply_to_user_id" : 5813712,
@@ -3755,8 +3587,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3288909, -71.1328897 ]
   },
   "id_str" : "20189437327",
   "text" : "Net::SSH::Disconnect - disconnected: Packet integrity error. WTFFFF",
@@ -3780,8 +3610,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.356087, -71.0618295 ]
   },
   "id_str" : "20163626847",
   "text" : "Really fed up with Redis' version scheme and numbering. Horribly confusing, no reason for it to be this way. http://is.gd/dYQnC",
@@ -3800,7 +3628,7 @@ Grailbird.data.tweets_2010_08 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Anders Norås",
+      "name" : "Anders Nor\u00E5s",
       "screen_name" : "anoras",
       "indices" : [ 0, 7 ],
       "id_str" : "14395288",
@@ -3812,8 +3640,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20162737984",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3560949, -71.0618582 ]
   },
   "id_str" : "20162891891",
   "in_reply_to_user_id" : 14395288,
@@ -3833,7 +3659,7 @@ Grailbird.data.tweets_2010_08 =
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://levelupstudio.com/plume\" rel=\"nofollow\">Plume for Android</a>",
+  "source" : "<a href=\"http://www.myplume.com/\" rel=\"nofollow\">Plume\u00A0for\u00A0Android</a>",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Jay R. Wren",
@@ -3842,7 +3668,7 @@ Grailbird.data.tweets_2010_08 =
       "id_str" : "2190391",
       "id" : 2190391
     }, {
-      "name" : "Anders Norås",
+      "name" : "Anders Nor\u00E5s",
       "screen_name" : "anoras",
       "indices" : [ 10, 17 ],
       "id_str" : "14395288",
@@ -3925,8 +3751,6 @@ Grailbird.data.tweets_2010_08 =
   },
   "in_reply_to_status_id_str" : "20100082373",
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "20105067281",
   "in_reply_to_user_id" : 5889062,
@@ -3954,8 +3778,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.331764, -71.121163 ]
   },
   "id_str" : "20105020905",
   "text" : "HIDE YOUR KIDS, HIDE YOUR WIFE http://www.youtube.com/user/schmoyoho#p/a/u/0/hMtZfW2z9dw",
@@ -4002,8 +3824,6 @@ Grailbird.data.tweets_2010_08 =
     "urls" : [ ]
   },
   "geo" : {
-    "type" : "Point",
-    "coordinates" : [ 42.3289114, -71.1326033 ]
   },
   "id_str" : "20082244295",
   "text" : "http://rubyconf.org GOGOGOGO",

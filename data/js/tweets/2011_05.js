@@ -220,7 +220,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "75663536457650177",
-  "text" : "Rails 3: Debugging with `rescue Exception` in controllers since 2010™",
+  "text" : "Rails 3: Debugging with `rescue Exception` in controllers since 2010\u2122",
   "id" : 75663536457650177,
   "created_at" : "Tue May 31 20:42:47 +0000 2011",
   "user" : {
@@ -282,7 +282,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "21431343",
       "id" : 21431343
     }, {
-      "name" : "ʎoqssɔ",
+      "name" : "\u028Eoqss\u0254",
       "screen_name" : "cssboy",
       "indices" : [ 81, 88 ],
       "id_str" : "3928731",
@@ -670,7 +670,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ernesto Jiménez",
+      "name" : "Ernesto Jim\u00E9nez",
       "screen_name" : "ernesto_jimenez",
       "indices" : [ 0, 16 ],
       "id_str" : "724263",
@@ -814,7 +814,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mathias Meyer",
+      "name" : "Mathias Bacon Meyer",
       "screen_name" : "roidrage",
       "indices" : [ 0, 9 ],
       "id_str" : "14658472",
@@ -871,7 +871,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 0, 9 ],
       "id_str" : "5674672",
@@ -923,7 +923,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "15359408",
       "id" : 15359408
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 7, 16 ],
       "id_str" : "5674672",
@@ -1575,7 +1575,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "dN0t",
       "protected" : false,
       "id_str" : "10947242",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2249107501/track_jacket-624x624_normal.jpg",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3677025048/5517926c9a9e23df995f1837bdec893e_normal.jpeg",
       "id" : 10947242,
       "verified" : false
     }
@@ -2205,7 +2205,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -2451,7 +2451,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "8526432",
       "id" : 8526432
     }, {
-      "name" : "Andre Arko",
+      "name" : "Andr\u00E9 Arko",
       "screen_name" : "indirect",
       "indices" : [ 97, 106 ],
       "id_str" : "5674672",
@@ -2580,7 +2580,7 @@ Grailbird.data.tweets_2011_05 =
   },
   "id_str" : "73595919261642752",
   "in_reply_to_user_id" : 11886642,
-  "text" : "@fredyatesiv IS THIS AWESOME? ☑",
+  "text" : "@fredyatesiv IS THIS AWESOME? \u2611",
   "id" : 73595919261642752,
   "in_reply_to_status_id" : 73595036863954944,
   "created_at" : "Thu May 26 03:46:49 +0000 2011",
@@ -3336,7 +3336,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "18833616",
       "id" : 18833616
     }, {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 16, 30 ],
       "id_str" : "10293122",
@@ -3522,7 +3522,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Bryan Liles (ツ)",
+      "name" : "Bryan Liles (\u30C4)",
       "screen_name" : "bryanl",
       "indices" : [ 0, 7 ],
       "id_str" : "659933",
@@ -3888,8 +3888,8 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "elliottcable",
-      "screen_name" : "elliottcable",
+      "name" : "ELLIOTTCABLE",
+      "screen_name" : "ELLIOTTCABLE",
       "indices" : [ 0, 13 ],
       "id_str" : "771681",
       "id" : 771681
@@ -3907,7 +3907,7 @@ Grailbird.data.tweets_2011_05 =
   "id" : 71619937629777920,
   "in_reply_to_status_id" : 71617434855018496,
   "created_at" : "Fri May 20 16:54:58 +0000 2011",
-  "in_reply_to_screen_name" : "elliottcable",
+  "in_reply_to_screen_name" : "ELLIOTTCABLE",
   "in_reply_to_user_id_str" : "771681",
   "user" : {
     "name" : "Nick Quaranto",
@@ -3934,7 +3934,7 @@ Grailbird.data.tweets_2011_05 =
       "indices" : [ 111, 130 ],
       "url" : "http://t.co/UN7gf9u",
       "expanded_url" : "http://robots.thoughtbot.com/post/5668152476/taming-a-supercar",
-      "display_url" : "robots.thoughtbot.com/post/566815247…"
+      "display_url" : "robots.thoughtbot.com/post/566815247\u2026"
     } ]
   },
   "geo" : {
@@ -3951,7 +3951,7 @@ Grailbird.data.tweets_2011_05 =
         "indices" : [ 95, 114 ],
         "url" : "http://t.co/UN7gf9u",
         "expanded_url" : "http://robots.thoughtbot.com/post/5668152476/taming-a-supercar",
-        "display_url" : "robots.thoughtbot.com/post/566815247…"
+        "display_url" : "robots.thoughtbot.com/post/566815247\u2026"
       } ]
     },
     "geo" : {
@@ -4447,7 +4447,7 @@ Grailbird.data.tweets_2011_05 =
       "id_str" : "14114392",
       "id" : 14114392
     }, {
-      "name" : "Erik Hedenström",
+      "name" : "Erik Hedenstr\u00F6m",
       "screen_name" : "ErikH",
       "indices" : [ 49, 55 ],
       "id_str" : "766894",
@@ -5021,7 +5021,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "GNU / James Golick",
+      "name" : "James Golick",
       "screen_name" : "jamesgolick",
       "indices" : [ 0, 12 ],
       "id_str" : "12027042",
@@ -6468,7 +6468,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adamus Maximus",
+      "name" : "Adam Bair",
       "screen_name" : "adambair",
       "indices" : [ 0, 9 ],
       "id_str" : "10647472",
@@ -6931,7 +6931,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "Croaky",
       "protected" : false,
       "id_str" : "787595",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2973205483/196a315da749f16cd294f0870e14853a_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3478041871/e95ba84623ac1eb393e62c934940c4f9_normal.jpeg",
       "id" : 787595,
       "verified" : false
     }
@@ -7100,7 +7100,7 @@ Grailbird.data.tweets_2011_05 =
   "geo" : {
   },
   "id_str" : "68772927193100289",
-  "text" : "Expected errors when name is set to \"☃\", got no errors",
+  "text" : "Expected errors when name is set to \"\u2603\", got no errors",
   "id" : 68772927193100289,
   "created_at" : "Thu May 12 20:21:58 +0000 2011",
   "user" : {
@@ -7382,7 +7382,7 @@ Grailbird.data.tweets_2011_05 =
       "screen_name" : "dandenney",
       "protected" : false,
       "id_str" : "15777123",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2385322320/f4ojdvsoswhm5oni099r_normal.png",
+      "profile_image_url_https" : "https://si0.twimg.com/profile_images/3608476666/5708c420dd8f49d4b07d9b29bf557f06_normal.png",
       "id" : 15777123,
       "verified" : false
     }
@@ -7696,7 +7696,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mic Pringle ",
+      "name" : "Mic Pringle",
       "screen_name" : "micpringle",
       "indices" : [ 0, 11 ],
       "id_str" : "154493778",
@@ -8208,7 +8208,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Joshua Clayton",
+      "name" : "Josh Clayton",
       "screen_name" : "joshuaclayton",
       "indices" : [ 0, 14 ],
       "id_str" : "10293122",
@@ -8316,7 +8316,7 @@ Grailbird.data.tweets_2011_05 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Adamus Maximus",
+      "name" : "Adam Bair",
       "screen_name" : "adambair",
       "indices" : [ 0, 9 ],
       "id_str" : "10647472",
