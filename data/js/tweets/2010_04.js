@@ -9,7 +9,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13157966900",
-  "text" : "Now that's a wish. http://seattletimes.nwsource.com/html/localnews/2011740342_electronboy30m.html",
+  "text" : "Now that's a wish. http:\/\/seattletimes.nwsource.com\/html\/localnews\/2011740342_electronboy30m.html",
   "id" : 13157966900,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -17,7 +17,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -50,7 +50,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -72,12 +72,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -89,7 +89,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13195194459",
-  "text" : "Hot dog robot is a hit, again! Yay @ablissfulgal! #imaginerit http://twitpic.com/1jzr9h",
+  "text" : "Hot dog robot is a hit, again! Yay @ablissfulgal! #imaginerit http:\/\/twitpic.com\/1jzr9h",
   "id" : 13195194459,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -97,12 +97,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -122,12 +122,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -139,7 +139,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13201514583",
-  "text" : "Pep band starting up at #imaginerit http://twitpic.com/1k0xb7",
+  "text" : "Pep band starting up at #imaginerit http:\/\/twitpic.com\/1k0xb7",
   "id" : 13201514583,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -147,12 +147,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -161,7 +161,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13206288784",
-  "text" : "OBAMANOS! http://twitpic.com/1k1xn8",
+  "text" : "OBAMANOS! http:\/\/twitpic.com\/1k1xn8",
   "id" : 13206288784,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -169,7 +169,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -189,9 +189,9 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13209191619",
-  "text" : "RT @nethackaltorg: DoctorNick ascended: http://alt.org/nethack/userdata/DoctorNick/dumplog/1272343729.nh343.txt",
+  "text" : "RT @nethackaltorg: DoctorNick ascended: http:\/\/alt.org\/nethack\/userdata\/DoctorNick\/dumplog\/1272343729.nh343.txt",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -200,7 +200,7 @@ Grailbird.data.tweets_2010_04 =
     },
     "geo" : { },
     "id_str" : "13209182365",
-    "text" : "DoctorNick ascended: http://alt.org/nethack/userdata/DoctorNick/dumplog/1272343729.nh343.txt",
+    "text" : "DoctorNick ascended: http:\/\/alt.org\/nethack\/userdata\/DoctorNick\/dumplog\/1272343729.nh343.txt",
     "id" : 13209182365,
     "created_at" : "2010-05-01 21:25:31 +0000",
     "user" : {
@@ -208,7 +208,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "nethackaltorg",
       "protected" : false,
       "id_str" : "88474436",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/516351938/alt_favicon_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516351938\/alt_favicon_normal.png",
       "id" : 88474436,
       "verified" : false
     }
@@ -220,12 +220,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Foursquare",
@@ -240,7 +240,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13212246032",
-  "text" : "I just unlocked the \"Explorer\" badge on @foursquare! http://4sq.com/c5Eeur",
+  "text" : "I just unlocked the \"Explorer\" badge on @foursquare! http:\/\/4sq.com\/c5Eeur",
   "id" : 13212246032,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -248,12 +248,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -262,7 +262,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13212246111",
-  "text" : "I'm at Michelina's Italian Eatery (2700 W Henrietta Rd, Pittsford). http://4sq.com/aF78kB",
+  "text" : "I'm at Michelina's Italian Eatery (2700 W Henrietta Rd, Pittsford). http:\/\/4sq.com\/aF78kB",
   "id" : 13212246111,
   "created_at" : "2010-05-01 00:00:00 +0000",
   "user" : {
@@ -270,12 +270,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -284,7 +284,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13106015329",
-  "text" : "I'm at MacGregors' Grill & Tap Room (300 Jefferson Rd, Rochester). http://4sq.com/6hNKyN",
+  "text" : "I'm at MacGregors' Grill & Tap Room (300 Jefferson Rd, Rochester). http:\/\/4sq.com\/6hNKyN",
   "id" : 13106015329,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
@@ -292,12 +292,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -314,12 +314,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -336,12 +336,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -350,7 +350,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13134869061",
-  "text" : "Ok, maybe it came out alright: http://twitpic.com/1jnzoj",
+  "text" : "Ok, maybe it came out alright: http:\/\/twitpic.com\/1jnzoj",
   "id" : 13134869061,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
@@ -358,7 +358,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -372,7 +372,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13142388268",
-  "text" : "git config --global alias.up '!git fetch origin && git rebase origin/master'",
+  "text" : "git config --global alias.up '!git fetch origin && git rebase origin\/master'",
   "id" : 13142388268,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
@@ -380,7 +380,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -425,7 +425,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -442,7 +442,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13146258355",
-  "text" : "Tons of job listings, wake up #RIT folks: http://news.ycombinator.com/item?id=1308582",
+  "text" : "Tons of job listings, wake up #RIT folks: http:\/\/news.ycombinator.com\/item?id=1308582",
   "id" : 13146258355,
   "created_at" : "2010-04-30 00:00:00 +0000",
   "user" : {
@@ -450,12 +450,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -472,12 +472,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Twitter for Android</a>",
+  "source" : "\u003Ca href=\"http:\/\/mobile.twitter.com\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -494,12 +494,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Josh Clayton",
@@ -527,7 +527,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -555,7 +555,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "13080309399",
   "in_reply_to_user_id" : 10687942,
-  "text" : "@hotgazpacho @ehexter Please do. Make some noise!! http://litanyagainstfear.com/blog/2010/04/18/ironruby-drops-make-some-noise/",
+  "text" : "@hotgazpacho @ehexter Please do. Make some noise!! http:\/\/litanyagainstfear.com\/blog\/2010\/04\/18\/ironruby-drops-make-some-noise\/",
   "id" : 13080309399,
   "in_reply_to_status_id" : 13077186364,
   "created_at" : "2010-04-29 00:00:00 +0000",
@@ -566,7 +566,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -580,7 +580,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13014514948",
-  "text" : "Super Mario Crossover. Play the original as other characters. http://www.playedonline.com/game/598161/super-mario-crossover.html",
+  "text" : "Super Mario Crossover. Play the original as other characters. http:\/\/www.playedonline.com\/game\/598161\/super-mario-crossover.html",
   "id" : 13014514948,
   "created_at" : "2010-04-28 00:00:00 +0000",
   "user" : {
@@ -588,7 +588,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -608,7 +608,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "13032863453",
-  "text" : "node.js on @heroku, this is huge. http://blog.heroku.com/archives/2010/4/28/node_js_support_experimental/",
+  "text" : "node.js on @heroku, this is huge. http:\/\/blog.heroku.com\/archives\/2010\/4\/28\/node_js_support_experimental\/",
   "id" : 13032863453,
   "created_at" : "2010-04-28 00:00:00 +0000",
   "user" : {
@@ -616,12 +616,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -630,7 +630,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12915746687",
-  "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
+  "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http:\/\/4sq.com\/6QibLZ",
   "id" : 12915746687,
   "created_at" : "2010-04-27 00:00:00 +0000",
   "user" : {
@@ -638,12 +638,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -665,7 +665,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -679,7 +679,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12926076744",
-  "text" : "Hard to tell but I'm in a steel box used for venting the lights ~3 stories up with only an inch of plaster below us. http://is.gd/bJjdz",
+  "text" : "Hard to tell but I'm in a steel box used for venting the lights ~3 stories up with only an inch of plaster below us. http:\/\/is.gd\/bJjdz",
   "id" : 12926076744,
   "created_at" : "2010-04-27 00:00:00 +0000",
   "user" : {
@@ -687,12 +687,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Allen Madsen",
@@ -720,7 +720,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -753,7 +753,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -775,7 +775,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -797,7 +797,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -831,7 +831,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12853352300",
   "in_reply_to_user_id" : 616163,
-  "text" : "@joshpeek make sure to bug @jbarnette or pull request him, he can handle it. /cc @drbrain",
+  "text" : "@joshpeek make sure to bug @jbarnette or pull request him, he can handle it. \/cc @drbrain",
   "id" : 12853352300,
   "in_reply_to_status_id" : 12851843637,
   "created_at" : "2010-04-26 00:00:00 +0000",
@@ -842,7 +842,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -875,12 +875,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -889,7 +889,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12880252838",
-  "text" : "Video: \u201CHe\u2019s my brother\u201D http://tumblr.com/x1793uhgu",
+  "text" : "Video: \u201CHe\u2019s my brother\u201D http:\/\/tumblr.com\/x1793uhgu",
   "id" : 12880252838,
   "created_at" : "2010-04-26 00:00:00 +0000",
   "user" : {
@@ -897,7 +897,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -919,7 +919,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12884042182",
   "in_reply_to_user_id" : 14486263,
-  "text" : "@boblmartens http://github.com/jferris/config_files",
+  "text" : "@boblmartens http:\/\/github.com\/jferris\/config_files",
   "id" : 12884042182,
   "in_reply_to_status_id" : 12883404153,
   "created_at" : "2010-04-26 00:00:00 +0000",
@@ -930,7 +930,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -944,7 +944,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12890364138",
-  "text" : "The case for git rebase: http://darwinweb.net/articles/86",
+  "text" : "The case for git rebase: http:\/\/darwinweb.net\/articles\/86",
   "id" : 12890364138,
   "created_at" : "2010-04-26 00:00:00 +0000",
   "user" : {
@@ -952,7 +952,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -966,7 +966,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12897871680",
-  "text" : "Great little Redis tutorial, covers basics and a good dive into how to use it. http://simonwillison.net/static/2010/redis-tutorial/",
+  "text" : "Great little Redis tutorial, covers basics and a good dive into how to use it. http:\/\/simonwillison.net\/static\/2010\/redis-tutorial\/",
   "id" : 12897871680,
   "created_at" : "2010-04-26 00:00:00 +0000",
   "user" : {
@@ -974,12 +974,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -996,7 +996,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1018,12 +1018,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1032,7 +1032,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12847049327",
-  "text" : "I'm at Five Guys Burgers & Fries (1100 Jefferson Rd, Rochester). http://4sq.com/cgW4od",
+  "text" : "I'm at Five Guys Burgers & Fries (1100 Jefferson Rd, Rochester). http:\/\/4sq.com\/cgW4od",
   "id" : 12847049327,
   "created_at" : "2010-04-25 00:00:00 +0000",
   "user" : {
@@ -1040,7 +1040,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1062,7 +1062,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1084,12 +1084,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1098,7 +1098,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12788417939",
-  "text" : "I'm at Wok With You (300 Park Point Drive Suite 110, Rochester). http://4sq.com/4Hn3Y1",
+  "text" : "I'm at Wok With You (300 Park Point Drive Suite 110, Rochester). http:\/\/4sq.com\/4Hn3Y1",
   "id" : 12788417939,
   "created_at" : "2010-04-24 00:00:00 +0000",
   "user" : {
@@ -1106,7 +1106,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1126,7 +1126,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12673824117",
-  "text" : "http://www.playedonline.com/game/598079/sydney-shark.html is really the best game ever. (via @furan)",
+  "text" : "http:\/\/www.playedonline.com\/game\/598079\/sydney-shark.html is really the best game ever. (via @furan)",
   "id" : 12673824117,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
@@ -1134,7 +1134,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1148,7 +1148,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12699837097",
-  "text" : "http://howtousetwitterformarketingandpr.com/",
+  "text" : "http:\/\/howtousetwitterformarketingandpr.com\/",
   "id" : 12699837097,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
@@ -1156,7 +1156,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1178,7 +1178,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1200,7 +1200,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1222,7 +1222,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1244,7 +1244,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1266,7 +1266,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1280,7 +1280,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12672740761",
-  "text" : "Wow. Pathetic. http://www.southparkstudios.com/news/3878",
+  "text" : "Wow. Pathetic. http:\/\/www.southparkstudios.com\/news\/3878",
   "id" : 12672740761,
   "created_at" : "2010-04-23 00:00:00 +0000",
   "user" : {
@@ -1288,7 +1288,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1321,7 +1321,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1335,7 +1335,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12624675893",
-  "text" : "The history of 4.2.2.2: http://www.tummy.com/Community/Articles/famous-dns-server/",
+  "text" : "The history of 4.2.2.2: http:\/\/www.tummy.com\/Community\/Articles\/famous-dns-server\/",
   "id" : 12624675893,
   "created_at" : "2010-04-22 00:00:00 +0000",
   "user" : {
@@ -1343,7 +1343,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1357,7 +1357,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12653316796",
-  "text" : "RubyGems 1.3.7.pre.1 is out. Help test it! (download it, gem install it, run update_rubygems) http://is.gd/bDPi9",
+  "text" : "RubyGems 1.3.7.pre.1 is out. Help test it! (download it, gem install it, run update_rubygems) http:\/\/is.gd\/bDPi9",
   "id" : 12653316796,
   "created_at" : "2010-04-22 00:00:00 +0000",
   "user" : {
@@ -1365,7 +1365,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1387,7 +1387,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1420,12 +1420,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Julio Capote",
@@ -1440,7 +1440,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12656138670",
-  "text" : "Photo: Just use jQuery! (via @capotej) http://tumblr.com/x178y7q4y",
+  "text" : "Photo: Just use jQuery! (via @capotej) http:\/\/tumblr.com\/x178y7q4y",
   "id" : 12656138670,
   "created_at" : "2010-04-22 00:00:00 +0000",
   "user" : {
@@ -1448,7 +1448,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1470,7 +1470,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12551619166",
   "in_reply_to_user_id" : 839931,
-  "text" : "@ddollar i've heard good things about http://github.com/pokeb/asi-http-request",
+  "text" : "@ddollar i've heard good things about http:\/\/github.com\/pokeb\/asi-http-request",
   "id" : 12551619166,
   "in_reply_to_status_id" : 12551315182,
   "created_at" : "2010-04-21 00:00:00 +0000",
@@ -1481,7 +1481,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1503,12 +1503,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Josh Peek",
@@ -1536,12 +1536,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Santiago Pastorino",
@@ -1569,7 +1569,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1602,7 +1602,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1624,7 +1624,7 @@ Grailbird.data.tweets_2010_04 =
   "id_str" : "12602103021",
   "text" : "RT @nethackaltorg: DoctorNick (Cav Hum Mal Neu), 114516 points, killed by the invisible Chromatic Dragon",
   "retweeted_status" : {
-    "source" : "<a href=\"http://dev.twitter.com/\" rel=\"nofollow\">API</a>",
+    "source" : "\u003Ca href=\"http:\/\/dev.twitter.com\/\" rel=\"nofollow\"\u003EAPI\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -1641,7 +1641,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "nethackaltorg",
       "protected" : false,
       "id_str" : "88474436",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/516351938/alt_favicon_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/516351938\/alt_favicon_normal.png",
       "id" : 88474436,
       "verified" : false
     }
@@ -1653,7 +1653,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1675,7 +1675,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1697,7 +1697,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1711,7 +1711,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12492940339",
-  "text" : "Really sad to see this happening. http://devver.net/blog/2010/04/closing-up-shop/",
+  "text" : "Really sad to see this happening. http:\/\/devver.net\/blog\/2010\/04\/closing-up-shop\/",
   "id" : 12492940339,
   "created_at" : "2010-04-20 00:00:00 +0000",
   "user" : {
@@ -1719,7 +1719,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1733,7 +1733,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12516032303",
-  "text" : "Rules I wish every developer would learn: http://pragprog.com/the-pragmatic-programmer/extracts/tips",
+  "text" : "Rules I wish every developer would learn: http:\/\/pragprog.com\/the-pragmatic-programmer\/extracts\/tips",
   "id" : 12516032303,
   "created_at" : "2010-04-20 00:00:00 +0000",
   "user" : {
@@ -1741,7 +1741,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1774,7 +1774,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1796,7 +1796,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1818,7 +1818,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1840,12 +1840,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -1854,7 +1854,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12457542283",
-  "text" : "\"I\u2019m not a real programmer. I throw together things until it works then I move on. The real programmers...\" http://tumblr.com/x178timd0",
+  "text" : "\"I\u2019m not a real programmer. I throw together things until it works then I move on. The real programmers...\" http:\/\/tumblr.com\/x178timd0",
   "id" : 12457542283,
   "created_at" : "2010-04-19 00:00:00 +0000",
   "user" : {
@@ -1862,7 +1862,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1884,7 +1884,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1906,7 +1906,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1920,7 +1920,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12475519518",
-  "text" : "Well, I found my source to read for this week. http://github.com/rtomayko/rpg",
+  "text" : "Well, I found my source to read for this week. http:\/\/github.com\/rtomayko\/rpg",
   "id" : 12475519518,
   "created_at" : "2010-04-19 00:00:00 +0000",
   "user" : {
@@ -1928,12 +1928,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "towski",
@@ -1948,7 +1948,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12482930226",
-  "text" : "Photo: I need this Magic card, now. via @towski http://tumblr.com/x178u59h2",
+  "text" : "Photo: I need this Magic card, now. via @towski http:\/\/tumblr.com\/x178u59h2",
   "id" : 12482930226,
   "created_at" : "2010-04-19 00:00:00 +0000",
   "user" : {
@@ -1956,7 +1956,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -1990,7 +1990,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2022,7 +2022,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12382628017",
-  "text" : "IronRuby drops, make some noise! http://is.gd/bxK1a My reaction to @bellware's article. /cc @cbilson @armmer",
+  "text" : "IronRuby drops, make some noise! http:\/\/is.gd\/bxK1a My reaction to @bellware's article. \/cc @cbilson @armmer",
   "id" : 12382628017,
   "created_at" : "2010-04-18 00:00:00 +0000",
   "user" : {
@@ -2030,7 +2030,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2044,7 +2044,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12407386430",
-  "text" : "I wish someone would do this in the US. I'd vote for them! http://www.madcapntom.co.uk/",
+  "text" : "I wish someone would do this in the US. I'd vote for them! http:\/\/www.madcapntom.co.uk\/",
   "id" : 12407386430,
   "created_at" : "2010-04-18 00:00:00 +0000",
   "user" : {
@@ -2052,7 +2052,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2060,7 +2060,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Androcles",
+      "name" : "Andrew",
       "screen_name" : "shellscape",
       "indices" : [ 0, 11 ],
       "id_str" : "16134710",
@@ -2085,7 +2085,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2093,7 +2093,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Androcles",
+      "name" : "Andrew",
       "screen_name" : "shellscape",
       "indices" : [ 0, 11 ],
       "id_str" : "16134710",
@@ -2113,7 +2113,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12410624380",
   "in_reply_to_user_id" : 16134710,
-  "text" : "@shellscape More info on compatibility is at http://ironruby.info. Perhaps @jschementi could answer more specific questions :)",
+  "text" : "@shellscape More info on compatibility is at http:\/\/ironruby.info. Perhaps @jschementi could answer more specific questions :)",
   "id" : 12410624380,
   "in_reply_to_status_id" : 12400780154,
   "created_at" : "2010-04-18 00:00:00 +0000",
@@ -2124,12 +2124,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2138,7 +2138,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12317746344",
-  "text" : "I'm at The Distillery (3010 Winton Road South, Rochester). http://4sq.com/5z6Ase",
+  "text" : "I'm at The Distillery (3010 Winton Road South, Rochester). http:\/\/4sq.com\/5z6Ase",
   "id" : 12317746344,
   "created_at" : "2010-04-17 00:00:00 +0000",
   "user" : {
@@ -2146,7 +2146,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2168,7 +2168,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2202,12 +2202,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2216,7 +2216,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12365696120",
-  "text" : "\"Stop waiting for the next immature .NET pseudo-port of a Ruby project. Just use the Ruby version. You...\" http://tumblr.com/x178r1zdh",
+  "text" : "\"Stop waiting for the next immature .NET pseudo-port of a Ruby project. Just use the Ruby version. You...\" http:\/\/tumblr.com\/x178r1zdh",
   "id" : 12365696120,
   "created_at" : "2010-04-17 00:00:00 +0000",
   "user" : {
@@ -2224,7 +2224,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2246,7 +2246,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2279,7 +2279,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2293,7 +2293,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12286344554",
-  "text" : "This has gone too far. \"Innovation Management\" is not a degree. http://www.rit.edu/emcs/ptgrad/grad/1435.php3",
+  "text" : "This has gone too far. \"Innovation Management\" is not a degree. http:\/\/www.rit.edu\/emcs\/ptgrad\/grad\/1435.php3",
   "id" : 12286344554,
   "created_at" : "2010-04-16 00:00:00 +0000",
   "user" : {
@@ -2301,15 +2301,15 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Spooky Streza",
+      "name" : "Steve Streza",
       "screen_name" : "SteveStreza",
       "indices" : [ 54, 66 ],
       "id_str" : "658643",
@@ -2321,7 +2321,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12286506146",
-  "text" : "Audio: Remix of the Inspector Gadget theme song. (via @SteveStreza) http://tumblr.com/x178p3w66",
+  "text" : "Audio: Remix of the Inspector Gadget theme song. (via @SteveStreza) http:\/\/tumblr.com\/x178p3w66",
   "id" : 12286506146,
   "created_at" : "2010-04-16 00:00:00 +0000",
   "user" : {
@@ -2329,7 +2329,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2351,7 +2351,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2384,7 +2384,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2423,7 +2423,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2431,7 +2431,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "El Konstantino",
+      "name" : "The Richard",
       "screen_name" : "konstantinhaase",
       "indices" : [ 0, 16 ],
       "id_str" : "16997374",
@@ -2456,7 +2456,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2483,7 +2483,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2509,7 +2509,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12296163701",
-  "text" : "listening to Red Barchetta by The String Quartet on @Grooveshark: http://tinysong.com/sDZb (@fredyatesiv was right, slick ui!)",
+  "text" : "listening to Red Barchetta by The String Quartet on @Grooveshark: http:\/\/tinysong.com\/sDZb (@fredyatesiv was right, slick ui!)",
   "id" : 12296163701,
   "created_at" : "2010-04-16 00:00:00 +0000",
   "user" : {
@@ -2517,7 +2517,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2550,7 +2550,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2583,7 +2583,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2597,7 +2597,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12231251586",
-  "text" : "Speaker lineup for http://www.rubymidwest.com/speakers.html is up! I'll be talking about Redis, of course!",
+  "text" : "Speaker lineup for http:\/\/www.rubymidwest.com\/speakers.html is up! I'll be talking about Redis, of course!",
   "id" : 12231251586,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
@@ -2605,7 +2605,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2619,7 +2619,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12233311188",
-  "text" : "Completely batshit insane. http://www.youtube.com/watch?v=9ezZgAl6aN8",
+  "text" : "Completely batshit insane. http:\/\/www.youtube.com\/watch?v=9ezZgAl6aN8",
   "id" : 12233311188,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
@@ -2627,12 +2627,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Blake Mizerany",
@@ -2649,7 +2649,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12251313097",
   "in_reply_to_user_id" : 2379441,
-  "text" : "@bmizerany hey I finally got the lib/ dir cleaned up! Not too tough :)",
+  "text" : "@bmizerany hey I finally got the lib\/ dir cleaned up! Not too tough :)",
   "id" : 12251313097,
   "in_reply_to_status_id" : 12250533307,
   "created_at" : "2010-04-15 00:00:00 +0000",
@@ -2660,12 +2660,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2674,7 +2674,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12196705334",
-  "text" : "Photo: The Aurora Australis, viewed by astronauts aboard the ISS, 356 km above the Indian Ocean on March... http://tumblr.com/x178mv1a7",
+  "text" : "Photo: The Aurora Australis, viewed by astronauts aboard the ISS, 356 km above the Indian Ocean on March... http:\/\/tumblr.com\/x178mv1a7",
   "id" : 12196705334,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
@@ -2682,7 +2682,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2715,7 +2715,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2748,7 +2748,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2762,7 +2762,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12197494590",
-  "text" : "HOW DID I MISS THIS http://is.gd/btaOY",
+  "text" : "HOW DID I MISS THIS http:\/\/is.gd\/btaOY",
   "id" : 12197494590,
   "created_at" : "2010-04-15 00:00:00 +0000",
   "user" : {
@@ -2770,7 +2770,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2798,7 +2798,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12200809502",
   "in_reply_to_user_id" : 9488922,
-  "text" : "@cpytel well yeah, I used to be DoctorNick but @drnic being all famous like put that idea down once I got into Ruby/Rails",
+  "text" : "@cpytel well yeah, I used to be DoctorNick but @drnic being all famous like put that idea down once I got into Ruby\/Rails",
   "id" : 12200809502,
   "in_reply_to_status_id" : 12199466414,
   "created_at" : "2010-04-15 00:00:00 +0000",
@@ -2809,7 +2809,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2831,7 +2831,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2870,12 +2870,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tumblr.com\/\" rel=\"nofollow\"\u003ETumblr\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -2884,7 +2884,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12132310119",
-  "text" : "Video: tinydesigners: Who says reading is dead? http://tumblr.com/x178l8mlp",
+  "text" : "Video: tinydesigners: Who says reading is dead? http:\/\/tumblr.com\/x178l8mlp",
   "id" : 12132310119,
   "created_at" : "2010-04-14 00:00:00 +0000",
   "user" : {
@@ -2892,7 +2892,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2912,7 +2912,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12170832913",
-  "text" : "Seriously impressive live stream of @Chirp: http://chirp.twitter.com/live.html",
+  "text" : "Seriously impressive live stream of @Chirp: http:\/\/chirp.twitter.com\/live.html",
   "id" : 12170832913,
   "created_at" : "2010-04-14 00:00:00 +0000",
   "user" : {
@@ -2920,7 +2920,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2934,7 +2934,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12178812839",
-  "text" : "Just refactored a ton of Go code using closures. Current status: http://is.gd/bsKcc",
+  "text" : "Just refactored a ton of Go code using closures. Current status: http:\/\/is.gd\/bsKcc",
   "id" : 12178812839,
   "created_at" : "2010-04-14 00:00:00 +0000",
   "user" : {
@@ -2942,7 +2942,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2962,7 +2962,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12179550065",
-  "text" : "Holy crap, @gemcutter hit 20 million downloads! http://rubygems.org/stats",
+  "text" : "Holy crap, @gemcutter hit 20 million downloads! http:\/\/rubygems.org\/stats",
   "id" : 12179550065,
   "created_at" : "2010-04-14 00:00:00 +0000",
   "user" : {
@@ -2970,7 +2970,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -2992,7 +2992,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3014,7 +3014,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3028,7 +3028,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12083401597",
-  "text" : "Finished moving sale mega man poster: http://img.skitch.com/20100413-jrgfpq6km8anfnf35sxmb9sdrf.png",
+  "text" : "Finished moving sale mega man poster: http:\/\/img.skitch.com\/20100413-jrgfpq6km8anfnf35sxmb9sdrf.png",
   "id" : 12083401597,
   "created_at" : "2010-04-13 00:00:00 +0000",
   "user" : {
@@ -3036,7 +3036,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3058,7 +3058,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3072,7 +3072,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12086221799",
-  "text" : "What I hate the most is the link structure. \"blah\":http:// is so much easier than [blah](http://). I always forget the order of []()",
+  "text" : "What I hate the most is the link structure. \"blah\":http:\/\/ is so much easier than [blah](http:\/\/). I always forget the order of []()",
   "id" : 12086221799,
   "created_at" : "2010-04-13 00:00:00 +0000",
   "user" : {
@@ -3080,7 +3080,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3102,7 +3102,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12086368727",
   "in_reply_to_user_id" : 15827231,
-  "text" : "@tekkub And centering/creating an image is so much more difficult. Textile just speaks to me naturally. Ugh.",
+  "text" : "@tekkub And centering\/creating an image is so much more difficult. Textile just speaks to me naturally. Ugh.",
   "id" : 12086368727,
   "in_reply_to_status_id" : 12086333012,
   "created_at" : "2010-04-13 00:00:00 +0000",
@@ -3113,7 +3113,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3135,7 +3135,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "12086696413",
   "in_reply_to_user_id" : 14198565,
-  "text" : "@noahsmark yeah, i guess everyone uses it differently. for all the vim/git/jekyll lovin' you have i'm still surprised you work at MS :)",
+  "text" : "@noahsmark yeah, i guess everyone uses it differently. for all the vim\/git\/jekyll lovin' you have i'm still surprised you work at MS :)",
   "id" : 12086696413,
   "in_reply_to_status_id" : 12086602073,
   "created_at" : "2010-04-13 00:00:00 +0000",
@@ -3146,7 +3146,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3166,7 +3166,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12087095518",
-  "text" : "A long awaited GitHub Rebase #41! http://github.com/blog/638-github-rebase-41 Featuring @jqueryui!",
+  "text" : "A long awaited GitHub Rebase #41! http:\/\/github.com\/blog\/638-github-rebase-41 Featuring @jqueryui!",
   "id" : 12087095518,
   "created_at" : "2010-04-13 00:00:00 +0000",
   "user" : {
@@ -3174,20 +3174,14 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
   "source" : "web",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Danny Tatom",
-      "screen_name" : "dannytatom",
-      "indices" : [ 0, 11 ],
-      "id_str" : "17012066",
-      "id" : 17012066
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -3200,14 +3194,14 @@ Grailbird.data.tweets_2010_04 =
   "id" : 12118537306,
   "in_reply_to_status_id" : 12118104487,
   "created_at" : "2010-04-13 00:00:00 +0000",
-  "in_reply_to_screen_name" : "dannytatom",
+  "in_reply_to_screen_name" : "rabitrup",
   "in_reply_to_user_id_str" : "17012066",
   "user" : {
     "name" : "Nick Quaranto",
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3229,7 +3223,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3251,7 +3245,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3273,7 +3267,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3306,7 +3300,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3339,7 +3333,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3347,7 +3341,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "derickbailey",
+      "name" : "Derick Bailey",
       "screen_name" : "derickbailey",
       "indices" : [ 0, 13 ],
       "id_str" : "14766954",
@@ -3372,7 +3366,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3386,7 +3380,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "12057559987",
-  "text" : "Gimp skills. I HAZ THEM. http://img.skitch.com/20100412-xfrbty5tkqr171tfyudybcrpmc.png",
+  "text" : "Gimp skills. I HAZ THEM. http:\/\/img.skitch.com\/20100412-xfrbty5tkqr171tfyudybcrpmc.png",
   "id" : 12057559987,
   "created_at" : "2010-04-12 00:00:00 +0000",
   "user" : {
@@ -3394,7 +3388,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3416,7 +3410,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3441,7 +3435,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3474,12 +3468,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3488,7 +3482,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11970222827",
-  "text" : "I'm at box bar & grill (777 W Ann Arbor Trl, btw Main & Deer, Plymouth). http://4sq.com/839aDi",
+  "text" : "I'm at box bar & grill (777 W Ann Arbor Trl, btw Main & Deer, Plymouth). http:\/\/4sq.com\/839aDi",
   "id" : 11970222827,
   "created_at" : "2010-04-11 00:00:00 +0000",
   "user" : {
@@ -3496,12 +3490,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Dustin Willis Webber",
@@ -3529,7 +3523,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3551,7 +3545,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3571,7 +3565,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11915957791",
-  "text" : "Kind of wish I had the motivation to hack on @gemcutter. Week 6/10 of spring quarter, the final weeks are approaching!",
+  "text" : "Kind of wish I had the motivation to hack on @gemcutter. Week 6\/10 of spring quarter, the final weeks are approaching!",
   "id" : 11915957791,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
@@ -3579,7 +3573,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3601,7 +3595,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3615,7 +3609,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11941584801",
-  "text" : "Trying to find something to do in Detroit/Ann Arbor before the hockey championship. Preferably free/cheap. And not outside, it's freezing.",
+  "text" : "Trying to find something to do in Detroit\/Ann Arbor before the hockey championship. Preferably free\/cheap. And not outside, it's freezing.",
   "id" : 11941584801,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
@@ -3623,12 +3617,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3637,7 +3631,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11948406705",
-  "text" : "I'm at Detroit Science Center (5020 John R. Road, Woodward Ave., Detroit). http://4sq.com/8hwqmw",
+  "text" : "I'm at Detroit Science Center (5020 John R. Road, Woodward Ave., Detroit). http:\/\/4sq.com\/8hwqmw",
   "id" : 11948406705,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
@@ -3645,12 +3639,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "michael evans",
@@ -3678,12 +3672,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3692,7 +3686,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11959010738",
-  "text" : "I'm at Ford Field (2000 Brush St, Detroit) w/ 8 others. http://4sq.com/5TDFy4",
+  "text" : "I'm at Ford Field (2000 Brush St, Detroit) w\/ 8 others. http:\/\/4sq.com\/5TDFy4",
   "id" : 11959010738,
   "created_at" : "2010-04-10 00:00:00 +0000",
   "user" : {
@@ -3700,12 +3694,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3722,12 +3716,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3744,7 +3738,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3766,7 +3760,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -3788,7 +3782,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11863878245",
   "in_reply_to_user_id" : 89221709,
-  "text" : "@rngtng Open up a request at http://help.rubygems.org and we'll get it sorted out.",
+  "text" : "@rngtng Open up a request at http:\/\/help.rubygems.org and we'll get it sorted out.",
   "id" : 11863878245,
   "in_reply_to_status_id" : 11828843010,
   "created_at" : "2010-04-09 00:00:00 +0000",
@@ -3799,12 +3793,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "hiolanda gimenez",
@@ -3832,12 +3826,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3854,12 +3848,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Gemcutter",
@@ -3882,12 +3876,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3904,12 +3898,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3926,12 +3920,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3940,7 +3934,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11839620348",
-  "text" : "Current status: http://twitpic.com/1e43b8",
+  "text" : "Current status: http:\/\/twitpic.com\/1e43b8",
   "id" : 11839620348,
   "created_at" : "2010-04-08 00:00:00 +0000",
   "user" : {
@@ -3948,12 +3942,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3970,12 +3964,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -3984,7 +3978,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11794042869",
-  "text" : "http://twitpic.com/1dxr2c huge bonfire outside crossroads!",
+  "text" : "http:\/\/twitpic.com\/1dxr2c huge bonfire outside crossroads!",
   "id" : 11794042869,
   "created_at" : "2010-04-08 00:00:00 +0000",
   "user" : {
@@ -3992,7 +3986,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4014,7 +4008,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4053,7 +4047,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4075,7 +4069,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4097,7 +4091,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4119,7 +4113,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11739672999",
   "in_reply_to_user_id" : 8524192,
-  "text" : "@taq I'm still waiting for someone to build a tarball service using gem webhooks. http://rubygems.org/pages/api_docs#webhook",
+  "text" : "@taq I'm still waiting for someone to build a tarball service using gem webhooks. http:\/\/rubygems.org\/pages\/api_docs#webhook",
   "id" : 11739672999,
   "in_reply_to_status_id" : 11728942577,
   "created_at" : "2010-04-07 00:00:00 +0000",
@@ -4130,7 +4124,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4163,7 +4157,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4196,7 +4190,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4218,7 +4212,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11757155876",
   "in_reply_to_user_id" : 7134522,
-  "text" : "@dmathieu I don't think private subdomains are a good idea for gemcutter. have you tried cwninja/geminabox?",
+  "text" : "@dmathieu I don't think private subdomains are a good idea for gemcutter. have you tried cwninja\/geminabox?",
   "id" : 11757155876,
   "in_reply_to_status_id" : 11756770033,
   "created_at" : "2010-04-07 00:00:00 +0000",
@@ -4229,7 +4223,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4243,7 +4237,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11766577027",
-  "text" : "\"eats spice and trips balls\" http://i.imgur.com/FTczx.jpg",
+  "text" : "\"eats spice and trips balls\" http:\/\/i.imgur.com\/FTczx.jpg",
   "id" : 11766577027,
   "created_at" : "2010-04-07 00:00:00 +0000",
   "user" : {
@@ -4251,7 +4245,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4265,7 +4259,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11766705715",
-  "text" : "\"ASP.NET is simply not a quality-producing technology\" http://www.codingthewheel.com/archives/asp-net-web-development-horror",
+  "text" : "\"ASP.NET is simply not a quality-producing technology\" http:\/\/www.codingthewheel.com\/archives\/asp-net-web-development-horror",
   "id" : 11766705715,
   "created_at" : "2010-04-07 00:00:00 +0000",
   "user" : {
@@ -4273,7 +4267,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4296,7 +4290,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11708569674",
-  "text" : "RT @elvo86: Ford Field is ready to welcome RIT. http://twitpic.com/1dnqs7 #rithockey",
+  "text" : "RT @elvo86: Ford Field is ready to welcome RIT. http:\/\/twitpic.com\/1dnqs7 #rithockey",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
@@ -4310,7 +4304,7 @@ Grailbird.data.tweets_2010_04 =
     },
     "geo" : { },
     "id_str" : "11708507489",
-    "text" : "Ford Field is ready to welcome RIT. http://twitpic.com/1dnqs7 #rithockey",
+    "text" : "Ford Field is ready to welcome RIT. http:\/\/twitpic.com\/1dnqs7 #rithockey",
     "id" : 11708507489,
     "created_at" : "2010-04-06 17:12:07 +0000",
     "user" : {
@@ -4318,7 +4312,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "elvo86",
       "protected" : false,
       "id_str" : "14183391",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000595605244/af7d126fcb057a5052d21e42d0c0faee_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000614236218\/af7d126fcb057a5052d21e42d0c0faee_normal.jpeg",
       "id" : 14183391,
       "verified" : false
     }
@@ -4330,7 +4324,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4344,7 +4338,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11715190917",
-  "text" : "Loving the animation backgrounds from http://adventuretime.tumblr.com/ as desktop backgrounds. More shows need to do this.",
+  "text" : "Loving the animation backgrounds from http:\/\/adventuretime.tumblr.com\/ as desktop backgrounds. More shows need to do this.",
   "id" : 11715190917,
   "created_at" : "2010-04-06 00:00:00 +0000",
   "user" : {
@@ -4352,7 +4346,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4380,7 +4374,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11621919717",
   "in_reply_to_user_id" : 14238213,
-  "text" : "@jayunit @tristandunn can i has canvas wars? http://image.com.com/gamespot/images/2001/ects/advancewars/advancewars_790screen004.jpg",
+  "text" : "@jayunit @tristandunn can i has canvas wars? http:\/\/image.com.com\/gamespot\/images\/2001\/ects\/advancewars\/advancewars_790screen004.jpg",
   "id" : 11621919717,
   "in_reply_to_status_id" : 11621273677,
   "created_at" : "2010-04-05 00:00:00 +0000",
@@ -4391,7 +4385,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4405,7 +4399,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11624501390",
-  "text" : "\"Programming\" XAML makes me glad I don't do .NET full time anymore. The \"bleak future\" seems to be the present. http://is.gd/beX4v",
+  "text" : "\"Programming\" XAML makes me glad I don't do .NET full time anymore. The \"bleak future\" seems to be the present. http:\/\/is.gd\/beX4v",
   "id" : 11624501390,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
@@ -4413,7 +4407,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4435,7 +4429,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4449,7 +4443,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11647069877",
-  "text" : "Yes, it blends! http://www.youtube.com/watch?v=lAl28d6tbko",
+  "text" : "Yes, it blends! http:\/\/www.youtube.com\/watch?v=lAl28d6tbko",
   "id" : 11647069877,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
@@ -4457,7 +4451,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4490,7 +4484,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4504,7 +4498,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11660283823",
-  "text" : "Engadget breaks out the Litany Against Fear: http://is.gd/bg1sS",
+  "text" : "Engadget breaks out the Litany Against Fear: http:\/\/is.gd\/bg1sS",
   "id" : 11660283823,
   "created_at" : "2010-04-05 00:00:00 +0000",
   "user" : {
@@ -4512,7 +4506,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4534,7 +4528,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4556,7 +4550,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4605,12 +4599,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Courtney Rae",
@@ -4631,7 +4625,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11563831911",
-  "text" : "I just ousted @stickylipgloss as the mayor of TC Riley's on @foursquare! http://4sq.com/6QibLZ",
+  "text" : "I just ousted @stickylipgloss as the mayor of TC Riley's on @foursquare! http:\/\/4sq.com\/6QibLZ",
   "id" : 11563831911,
   "created_at" : "2010-04-04 00:00:00 +0000",
   "user" : {
@@ -4639,12 +4633,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+  "source" : "\u003Ca href=\"http:\/\/foursquare.com\" rel=\"nofollow\"\u003Efoursquare\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4653,7 +4647,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11563832340",
-  "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http://4sq.com/6QibLZ",
+  "text" : "I'm at TC Riley's (200 Park Point Dr, Rochester). http:\/\/4sq.com\/6QibLZ",
   "id" : 11563832340,
   "created_at" : "2010-04-04 00:00:00 +0000",
   "user" : {
@@ -4661,12 +4655,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Derek Mansen",
@@ -4694,7 +4688,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4727,12 +4721,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ ],
@@ -4749,7 +4743,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4771,7 +4765,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4799,7 +4793,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4827,7 +4821,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4855,7 +4849,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4869,7 +4863,7 @@ Grailbird.data.tweets_2010_04 =
       "id_str" : "42259749",
       "id" : 42259749
     }, {
-      "name" : "Siv Jensen",
+      "name" : "Holm2014\u2122",
       "screen_name" : "judofyr",
       "indices" : [ 89, 97 ],
       "id_str" : "13009542",
@@ -4881,12 +4875,12 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11540038083",
-  "text" : "RT @gemcutter: Temporary fix: add \"72.4.120.124 rubygems.org\" to your /etc/hosts. Thanks @judofyr.",
+  "text" : "RT @gemcutter: Temporary fix: add \"72.4.120.124 rubygems.org\" to your \/etc\/hosts. Thanks @judofyr.",
   "retweeted_status" : {
     "source" : "web",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Siv Jensen",
+        "name" : "Holm2014\u2122",
         "screen_name" : "judofyr",
         "indices" : [ 74, 82 ],
         "id_str" : "13009542",
@@ -4898,7 +4892,7 @@ Grailbird.data.tweets_2010_04 =
     },
     "geo" : { },
     "id_str" : "11540024249",
-    "text" : "Temporary fix: add \"72.4.120.124 rubygems.org\" to your /etc/hosts. Thanks @judofyr.",
+    "text" : "Temporary fix: add \"72.4.120.124 rubygems.org\" to your \/etc\/hosts. Thanks @judofyr.",
     "id" : 11540024249,
     "created_at" : "2010-04-03 15:42:55 +0000",
     "user" : {
@@ -4906,7 +4900,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "gemcutter",
       "protected" : false,
       "id_str" : "42259749",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/228476150/gemcutter_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/228476150\/gemcutter_normal.jpg",
       "id" : 42259749,
       "verified" : false
     }
@@ -4918,7 +4912,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4952,7 +4946,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -4980,7 +4974,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5011,7 +5005,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5038,7 +5032,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5058,7 +5052,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11457679711",
-  "text" : "Trying out @schacon/showoff for my @BarCampRoc talk, very impressed. It's the next evolution of @nakajima/slidedown.",
+  "text" : "Trying out @schacon\/showoff for my @BarCampRoc talk, very impressed. It's the next evolution of @nakajima\/slidedown.",
   "id" : 11457679711,
   "created_at" : "2010-04-02 00:00:00 +0000",
   "user" : {
@@ -5066,7 +5060,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5088,7 +5082,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11460094854",
   "in_reply_to_user_id" : 17058191,
-  "text" : "@drawohara syncing from rubyforge should work. let us know the problems you're having please: http://help.rubygems.org",
+  "text" : "@drawohara syncing from rubyforge should work. let us know the problems you're having please: http:\/\/help.rubygems.org",
   "id" : 11460094854,
   "in_reply_to_status_id" : 11459654621,
   "created_at" : "2010-04-02 00:00:00 +0000",
@@ -5099,7 +5093,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5113,7 +5107,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11461773475",
-  "text" : "If all commercials were like this, I'd watch TV all day. http://is.gd/baG6I",
+  "text" : "If all commercials were like this, I'd watch TV all day. http:\/\/is.gd\/baG6I",
   "id" : 11461773475,
   "created_at" : "2010-04-02 00:00:00 +0000",
   "user" : {
@@ -5121,7 +5115,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5154,7 +5148,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5187,7 +5181,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5201,7 +5195,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11466259200",
-  "text" : "Definitely my favorite slide of this presentation: http://img.skitch.com/20100402-1mbdfd65w5smmjft7x7c39er1.png",
+  "text" : "Definitely my favorite slide of this presentation: http:\/\/img.skitch.com\/20100402-1mbdfd65w5smmjft7x7c39er1.png",
   "id" : 11466259200,
   "created_at" : "2010-04-02 00:00:00 +0000",
   "user" : {
@@ -5209,7 +5203,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5217,7 +5211,7 @@ Grailbird.data.tweets_2010_04 =
   "source" : "web",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "derickbailey",
+      "name" : "Derick Bailey",
       "screen_name" : "derickbailey",
       "indices" : [ 0, 13 ],
       "id_str" : "14766954",
@@ -5231,7 +5225,7 @@ Grailbird.data.tweets_2010_04 =
   "geo" : { },
   "id_str" : "11481987385",
   "in_reply_to_user_id" : 14766954,
-  "text" : "@derickbailey i'm seeing a similar pattern, from 2008 I was going through same stuff with windows http://is.gd/bbgTT then http://is.gd/bbhGv",
+  "text" : "@derickbailey i'm seeing a similar pattern, from 2008 I was going through same stuff with windows http:\/\/is.gd\/bbgTT then http:\/\/is.gd\/bbhGv",
   "id" : 11481987385,
   "in_reply_to_status_id" : 11481029014,
   "created_at" : "2010-04-02 00:00:00 +0000",
@@ -5242,7 +5236,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5262,9 +5256,9 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11486516577",
-  "text" : "RT @jkreeftmeijer: .gitignore your *.gemspec http://jeffkreeftmeijer.com/2010/gitignore-your-gemspec/",
+  "text" : "RT @jkreeftmeijer: .gitignore your *.gemspec http:\/\/jeffkreeftmeijer.com\/2010\/gitignore-your-gemspec\/",
   "retweeted_status" : {
-    "source" : "<a href=\"http://itunes.apple.com/app/twitter/id333903271?mt=8\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "source" : "\u003Ca href=\"http:\/\/itunes.apple.com\/app\/twitter\/id333903271?mt=8\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5273,7 +5267,7 @@ Grailbird.data.tweets_2010_04 =
     },
     "geo" : { },
     "id_str" : "11485724362",
-    "text" : ".gitignore your *.gemspec http://jeffkreeftmeijer.com/2010/gitignore-your-gemspec/",
+    "text" : ".gitignore your *.gemspec http:\/\/jeffkreeftmeijer.com\/2010\/gitignore-your-gemspec\/",
     "id" : 11485724362,
     "created_at" : "2010-04-02 15:27:36 +0000",
     "user" : {
@@ -5281,7 +5275,7 @@ Grailbird.data.tweets_2010_04 =
       "screen_name" : "jkreeftmeijer",
       "protected" : false,
       "id_str" : "8284992",
-      "profile_image_url_https" : "https://si0.twimg.com/profile_images/2762721397/bb7536cdd7e52b341168faaf14ec7b77_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2762721397\/bb7536cdd7e52b341168faaf14ec7b77_normal.png",
       "id" : 8284992,
       "verified" : false
     }
@@ -5293,7 +5287,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5326,7 +5320,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5365,7 +5359,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5379,7 +5373,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11488957174",
-  "text" : "Holy crap, RIT is going to feel like a real school with sports for a week. http://www.rit.edu/news/?v=47464",
+  "text" : "Holy crap, RIT is going to feel like a real school with sports for a week. http:\/\/www.rit.edu\/news\/?v=47464",
   "id" : 11488957174,
   "created_at" : "2010-04-02 00:00:00 +0000",
   "user" : {
@@ -5387,7 +5381,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5420,7 +5414,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5434,7 +5428,7 @@ Grailbird.data.tweets_2010_04 =
   },
   "geo" : { },
   "id_str" : "11490942863",
-  "text" : "So many jobs and internships in Boston, cmon RIT folks! http://wiki.barcampboston.org/index.php?title=Sponsor_Job_Opportunities",
+  "text" : "So many jobs and internships in Boston, cmon RIT folks! http:\/\/wiki.barcampboston.org\/index.php?title=Sponsor_Job_Opportunities",
   "id" : 11490942863,
   "created_at" : "2010-04-02 00:00:00 +0000",
   "user" : {
@@ -5442,7 +5436,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
@@ -5475,12 +5469,12 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
 }, {
-  "source" : "<a href=\"http://www.tweetcaster.com\" rel=\"nofollow\">TweetCaster</a>",
+  "source" : "\u003Ca href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\"\u003ETweetCaster\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
       "name" : "Andrew Moreland",
@@ -5508,7 +5502,7 @@ Grailbird.data.tweets_2010_04 =
     "screen_name" : "qrush",
     "protected" : false,
     "id_str" : "5743852",
-    "profile_image_url_https" : "https://si0.twimg.com/profile_images/378800000416495373/e7f92665c5137d6a911c2fc061bead82_normal.jpeg",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/429410661240545280\/8qMQAi_f_normal.jpeg",
     "id" : 5743852,
     "verified" : false
   }
