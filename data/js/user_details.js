@@ -2,7 +2,7 @@ var user_details =  {
   "expanded_url" : "http:\/\/quaran.to",
   "screen_name" : "qrush",
   "location" : "Buffalo, NY",
-  "url" : "http:\/\/t.co\/kqDDwji97j",
+  "url" : "http:\/\/t.co\/lJMUrPxn0r",
   "full_name" : "Nick Quaranto",
   "bio" : "\u1555( \u141B )\u1557 @37signals @CoworkBuffalo @NickelCityRuby \u2692 A short, sturdy creature fond of drink and industry.",
   "id" : "5743852",
